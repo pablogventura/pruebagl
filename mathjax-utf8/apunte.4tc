@@ -1,0 +1,215 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Contents}}{3}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-2}{Notacion y conceptos basicos}}{7}\relax 
+\doTocEntry\tocsubsection{1.1}{\csname a:TocLink\endcsname{1}{x1-30001.1}{QQ2-1-3}{Conjuntos}}{7}\relax 
+\doTocEntry\tocsubsection{1.2}{\csname a:TocLink\endcsname{1}{x1-40001.2}{QQ2-1-4}{Producto carteciano}}{8}\relax 
+\doTocEntry\tocsubsection{1.3}{\csname a:TocLink\endcsname{1}{x1-50001.3}{QQ2-1-5}{Alfabetos}}{8}\relax 
+\doTocEntry\tocsubsubsection{1.3.1}{\csname a:TocLink\endcsname{1}{x1-60001.3.1}{QQ2-1-6}{Ocurrencias}}{8}\relax 
+\doTocEntry\tocsubsection{1.4}{\csname a:TocLink\endcsname{1}{x1-70001.4}{QQ2-1-7}{Matematica orientada a objetos}}{9}\relax 
+\doTocEntry\tocsubsection{1.5}{\csname a:TocLink\endcsname{1}{x1-80001.5}{QQ2-1-8}{El concepto de funcion}}{10}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-90001.5}{QQ2-1-9}{Igualdad de funciones}}{11}\relax 
+\doTocEntry\tocsubsubsection{1.5.1}{\csname a:TocLink\endcsname{1}{x1-100001.5.1}{QQ2-1-10}{Funcion identidad}}{11}\relax 
+\doTocEntry\tocsubsubsection{1.5.2}{\csname a:TocLink\endcsname{1}{x1-110001.5.2}{QQ2-1-11}{Composicion de funciones}}{11}\relax 
+\doTocEntry\tocsubsubsection{1.5.3}{\csname a:TocLink\endcsname{1}{x1-120001.5.3}{QQ2-1-12}{Funciones inyectivas, suryectivas y biyectivas}}{12}\relax 
+\doTocEntry\tocsubsubsection{1.5.4}{\csname a:TocLink\endcsname{1}{x1-130001.5.4}{QQ2-1-13}{El nucleo de una funcion}}{12}\relax 
+\doTocEntry\tocsubsubsection{1.5.5}{\csname a:TocLink\endcsname{1}{x1-140001.5.5}{QQ2-1-14}{Funcion caracteristica de un subconjunto}}{12}\relax 
+\doTocEntry\tocsubsubsection{1.5.6}{\csname a:TocLink\endcsname{1}{x1-150001.5.6}{QQ2-1-15}{Restriccion de una funcion}}{13}\relax 
+\doTocEntry\tocsubsubsection{1.5.7}{\csname a:TocLink\endcsname{1}{x1-160001.5.7}{QQ2-1-16}{Funciones de la forma $[f_{1},...,f_{n}]$}}{13}\relax 
+\doTocEntry\tocsubsubsection{1.5.8}{\csname a:TocLink\endcsname{1}{x1-170001.5.8}{QQ2-1-17}{Union de funciones con dominios disjuntos}}{13}\relax 
+\doTocEntry\tocsubsection{1.6}{\csname a:TocLink\endcsname{1}{x1-180001.6}{QQ2-1-18}{Relaciones binarias}}{13}\relax 
+\doTocEntry\tocsubsubsection{1.6.1}{\csname a:TocLink\endcsname{1}{x1-190001.6.1}{QQ2-1-19}{Propiedades notables de relaciones binarias}}{14}\relax 
+\doTocEntry\tocsubsubsection{1.6.2}{\csname a:TocLink\endcsname{1}{x1-200001.6.2}{QQ2-1-20}{Ordenes parciales}}{14}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-210001.6.2}{QQ2-1-21}{Ordenes totales sobre un conjunto}}{16}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-220001.6.2}{QQ2-1-22}{Diagramas de Hasse}}{16}\relax 
+\doTocEntry\tocsubsubsection{1.6.3}{\csname a:TocLink\endcsname{1}{x1-230001.6.3}{QQ2-1-23}{Relaciones de equivalencia}}{17}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-240001.6.3}{QQ2-1-24}{Definicion de funciones con dominio $A/R$}}{19}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-250001.6.3}{QQ2-1-25}{Correspondencia entre relaciones de equivalencia y particiones}}{20}\relax 
+\doTocEntry\tocsubsection{1.7}{\csname a:TocLink\endcsname{1}{x1-260001.7}{QQ2-1-26}{Operaciones $n$-arias sobre un conjunto}}{23}\relax 
+\doTocEntry\tocsubsection{1.8}{\csname a:TocLink\endcsname{1}{x1-270001.8}{QQ2-1-27}{Relaciones $n$-arias sobre un conjunto}}{23}\relax 
+\doTocEntry\tocsubsection{1.9}{\csname a:TocLink\endcsname{1}{x1-280001.9}{QQ2-1-28}{Funciones $\Sigma $-mixtas}}{23}\relax 
+\doTocEntry\toclikeparagraph{}{\csname a:TocLink\endcsname{1}{x1-290001.9}{QQ2-1-29}{Definicion de funcion $\Sigma $-mixta}}{24}\relax 
+\doTocEntry\tocsubsubsection{1.9.1}{\csname a:TocLink\endcsname{1}{x1-300001.9.1}{QQ2-1-30}{Funciones $Suc$ y $Pred$}}{25}\relax 
+\doTocEntry\tocsubsubsection{1.9.2}{\csname a:TocLink\endcsname{1}{x1-310001.9.2}{QQ2-1-31}{Las funciones $d_{a}$}}{25}\relax 
+\doTocEntry\tocsubsubsection{1.9.3}{\csname a:TocLink\endcsname{1}{x1-320001.9.3}{QQ2-1-32}{Las funciones $p_{i}^{n,m}$}}{25}\relax 
+\doTocEntry\tocsubsubsection{1.9.4}{\csname a:TocLink\endcsname{1}{x1-330001.9.4}{QQ2-1-33}{Las funciones $C_{k}^{n,m}$ y $C_{\alpha }^{n,m}$}}{26}\relax 
+\doTocEntry\tocsubsubsection{1.9.5}{\csname a:TocLink\endcsname{1}{x1-340001.9.5}{QQ2-1-34}{La funcion $pr$}}{26}\relax 
+\doTocEntry\tocsubsubsection{1.9.6}{\csname a:TocLink\endcsname{1}{x1-350001.9.6}{QQ2-1-35}{El tipo de una funcion mixta}}{26}\relax 
+\doTocEntry\tocsubsubsection{1.9.7}{\csname a:TocLink\endcsname{1}{x1-360001.9.7}{QQ2-1-36}{Funciones con imagen contenida en $\omega ^{n}\times \Sigma ^{\ast m}$}}{26}\relax 
+\doTocEntry\tocsubsubsection{1.9.8}{\csname a:TocLink\endcsname{1}{x1-370001.9.8}{QQ2-1-37}{Predicados $\Sigma $-mixtos}}{26}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-380001.9.8}{QQ2-1-38}{Operaciones logicas entre predicados}}{27}\relax 
+\doTocEntry\tocsubsubsection{1.9.9}{\csname a:TocLink\endcsname{1}{x1-390001.9.9}{QQ2-1-39}{Familias $\Sigma $-indexadas de funciones}}{27}\relax 
+\doTocEntry\tocsubsection{1.10}{\csname a:TocLink\endcsname{1}{x1-400001.10}{QQ2-1-40}{Conjuntos $\Sigma $-mixtos}}{27}\relax 
+\doTocEntry\tocsubsubsection{1.10.1}{\csname a:TocLink\endcsname{1}{x1-410001.10.1}{QQ2-1-41}{El tipo de un conjunto mixto}}{27}\relax 
+\doTocEntry\tocsubsubsection{1.10.2}{\csname a:TocLink\endcsname{1}{x1-420001.10.2}{QQ2-1-42}{Conjuntos rectangulares}}{28}\relax 
+\doTocEntry\tocsubsection{1.11}{\csname a:TocLink\endcsname{1}{x1-430001.11}{QQ2-1-43}{Notacion lambda}}{29}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-440001.11}{QQ2-1-44}{Definicion de $\lambda x_{1}...x_{n}\alpha _{1}...\alpha _{m}\left [E\right ]$}}{31}\relax 
+\doTocEntry\tocsubsection{1.12}{\csname a:TocLink\endcsname{1}{x1-450001.12}{QQ2-1-45}{Ordenes naturales sobre $\Sigma ^{\ast }$}}{32}\relax 
+\doTocEntry\tocsubsubsection{1.12.1}{\csname a:TocLink\endcsname{1}{x1-460001.12.1}{QQ2-1-46}{Prueba de las propiedades (S) e (I)}}{35}\relax 
+\doTocEntry\tocsubsection{1.13}{\csname a:TocLink\endcsname{1}{x1-470001.13}{QQ2-1-47}{El caso general}}{37}\relax 
+\doTocEntry\tocsubsubsection{1.13.1}{\csname a:TocLink\endcsname{1}{x1-480001.13.1}{QQ2-1-48}{Caracter recursivo de las funciones $s^{\leq }$, $\ast ^{\leq }$ y $#^{\leq }$}}{40}\relax 
+\doTocEntry\tocsubsubsection{1.13.2}{\csname a:TocLink\endcsname{1}{x1-490001.13.2}{QQ2-1-49}{Extension del orden total de $\Sigma $ a $\Sigma ^{\ast }$}}{40}\relax 
+\doTocEntry\tocsubsection{1.14}{\csname a:TocLink\endcsname{1}{x1-500001.14}{QQ2-1-50}{Codificacion de infinituplas de numeros}}{41}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-510002}{QQ2-1-51}{Procedimientos efectivos}}{44}\relax 
+\doTocEntry\tocsubsection{2.1}{\csname a:TocLink\endcsname{1}{x1-520002.1}{QQ2-1-52}{Funciones $\Sigma $-efectivamente computables}}{46}\relax 
+\doTocEntry\tocsubsubsection{2.1.1}{\csname a:TocLink\endcsname{1}{x1-530002.1.1}{QQ2-1-53}{Constructores de funciones}}{49}\relax 
+\doTocEntry\tocsubsubsection{2.1.2}{\csname a:TocLink\endcsname{1}{x1-540002.1.2}{QQ2-1-54}{Composicion}}{50}\relax 
+\doTocEntry\tocsubsubsection{2.1.3}{\csname a:TocLink\endcsname{1}{x1-550002.1.3}{QQ2-1-55}{Lema de division por casos para funciones $\Sigma $-efectivamente computables}}{52}\relax 
+\doTocEntry\tocsubsection{2.2}{\csname a:TocLink\endcsname{1}{x1-560002.2}{QQ2-1-56}{Conjuntos $\Sigma $-efectivamente computables}}{53}\relax 
+\doTocEntry\tocsubsection{2.3}{\csname a:TocLink\endcsname{1}{x1-570002.3}{QQ2-1-57}{Conjuntos $\Sigma $-efectivamente enumerables}}{55}\relax 
+\doTocEntry\tocsubsection{2.4}{\csname a:TocLink\endcsname{1}{x1-580002.4}{QQ2-1-58}{Independencia del alfabeto}}{62}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-590003}{QQ2-1-59}{Tres modelos matematicos de la computabilidad efectiva}}{63}\relax 
+\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{1}{x1-600003.1}{QQ2-1-60}{El paradigma de Turing}}{63}\relax 
+\doTocEntry\tocsubsubsection{3.1.1}{\csname a:TocLink\endcsname{1}{x1-610003.1.1}{QQ2-1-61}{Descripcion informal de las maquinas de Turing}}{64}\relax 
+\doTocEntry\tocsubsubsection{3.1.2}{\csname a:TocLink\endcsname{1}{x1-620003.1.2}{QQ2-1-62}{Definicion matematica de maquina de Turing}}{66}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-630003.1.2}{QQ2-1-63}{Maquinas de Turing deterministicas}}{67}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-640003.1.2}{QQ2-1-64}{Descripciones instantaneas}}{67}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-650003.1.2}{QQ2-1-65}{La relacion $\vdash $}}{67}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-660003.1.2}{QQ2-1-66}{Detencion}}{68}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-670003.1.2}{QQ2-1-67}{El lenguaje $L(M)$}}{68}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-680003.1.2}{QQ2-1-68}{El lenguaje $H(M)$}}{68}\relax 
+\doTocEntry\tocsubsubsection{3.1.3}{\csname a:TocLink\endcsname{1}{x1-690003.1.3}{QQ2-1-69}{Funciones $\Sigma $-Turing computables}}{69}\relax 
+\doTocEntry\tocsubsubsection{3.1.4}{\csname a:TocLink\endcsname{1}{x1-700003.1.4}{QQ2-1-70}{Conjuntos $\Sigma $-Turing enumerables}}{71}\relax 
+\doTocEntry\tocsubsubsection{3.1.5}{\csname a:TocLink\endcsname{1}{x1-710003.1.5}{QQ2-1-71}{Conjuntos $\Sigma $-Turing computables}}{72}\relax 
+\doTocEntry\tocsubsection{3.2}{\csname a:TocLink\endcsname{1}{x1-720003.2}{QQ2-1-72}{El paradigma de Godel: Funciones $\Sigma $-recursivas}}{72}\relax 
+\doTocEntry\tocsubsubsection{3.2.1}{\csname a:TocLink\endcsname{1}{x1-730003.2.1}{QQ2-1-73}{Funciones $\Sigma $-recursivas primitivas}}{73}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-740003.2.1}{QQ2-1-74}{Composicion}}{73}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-750003.2.1}{QQ2-1-75}{Recursion primitiva}}{75}\relax 
+\doTocEntry\tocsubparagraph{}{\csname a:TocLink\endcsname{1}{x1-760003.2.1}{QQ2-1-76}{Recursion primitiva sobre variable numerica con valores numericos}}{77}\relax 
+\doTocEntry\tocsubparagraph{}{\csname a:TocLink\endcsname{1}{x1-770003.2.1}{QQ2-1-77}{Recursion primitiva sobre variable numerica con valores alfabeticos}}{79}\relax 
+\doTocEntry\tocsubparagraph{}{\csname a:TocLink\endcsname{1}{x1-780003.2.1}{QQ2-1-78}{Recursion primitiva sobre variable alfabetica con valores numericos}}{80}\relax 
+\doTocEntry\tocsubparagraph{}{\csname a:TocLink\endcsname{1}{x1-790003.2.1}{QQ2-1-79}{Recursion primitiva sobre variable alfabetica con valores alfabeticos}}{82}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-800003.2.1}{QQ2-1-80}{Definicion de funcion $\Sigma $-recursiva primitiva}}{83}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-810003.2.1}{QQ2-1-81}{Algunas funciones $\Sigma $-recursivas primitivas}}{83}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-820003.2.1}{QQ2-1-82}{Operaciones logicas entre predicados}}{87}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-830003.2.1}{QQ2-1-83}{Conjuntos $\Sigma $-recursivos primitivos}}{88}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-840003.2.1}{QQ2-1-84}{Lema de division por casos para funciones $\Sigma $-p.r.}}{91}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-850003.2.1}{QQ2-1-85}{Sumatoria, productoria y concatenatoria de funciones $\Sigma $-p.r.}}{93}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-860003.2.1}{QQ2-1-86}{Cuantificacion acotada de predicados $\Sigma $-p.r. con dominio rectangular}}{94}\relax 
+\doTocEntry\tocsubsubsection{3.2.2}{\csname a:TocLink\endcsname{1}{x1-870003.2.2}{QQ2-1-87}{Minimizacion y funciones $\Sigma $-recursivas}}{96}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-880003.2.2}{QQ2-1-88}{Minimizacion de variable numerica}}{97}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-890003.2.2}{QQ2-1-89}{Definicion de funcion $\Sigma $-recursiva}}{98}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-900003.2.2}{QQ2-1-90}{Lema de minimizacion acotada de variable numerica de predicados $\Sigma $-p.r.}}{99}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-910003.2.2}{QQ2-1-91}{Minimizacion de variable alfabetica}}{102}\relax 
+\doTocEntry\tocsubparagraph{}{\csname a:TocLink\endcsname{1}{x1-920003.2.2}{QQ2-1-92}{Lema de minimizacion acotada de variable alfabetica de predicados $\Sigma $-p.r.}}{102}\relax 
+\doTocEntry\tocsubsubsection{3.2.3}{\csname a:TocLink\endcsname{1}{x1-930003.2.3}{QQ2-1-93}{Conjuntos $\Sigma $-recursivamente enumerables}}{103}\relax 
+\doTocEntry\tocsubsubsection{3.2.4}{\csname a:TocLink\endcsname{1}{x1-940003.2.4}{QQ2-1-94}{Conjuntos $\Sigma $-recursivos}}{103}\relax 
+\doTocEntry\tocsubsubsection{3.2.5}{\csname a:TocLink\endcsname{1}{x1-950003.2.5}{QQ2-1-95}{Algunos resultados basicos}}{104}\relax 
+\doTocEntry\tocsubsubsection{3.2.6}{\csname a:TocLink\endcsname{1}{x1-960003.2.6}{QQ2-1-96}{Recursion primitiva sobre valores anteriores}}{107}\relax 
+\doTocEntry\tocsubsubsection{3.2.7}{\csname a:TocLink\endcsname{1}{x1-970003.2.7}{QQ2-1-97}{Independencia del alfabeto}}{108}\relax 
+\doTocEntry\tocsubsection{3.3}{\csname a:TocLink\endcsname{1}{x1-980003.3}{QQ2-1-98}{El paradigma imperativo de Neumann: El lenguaje $\mathcal  {S}^{\Sigma }$}}{112}\relax 
+\doTocEntry\tocsubsubsection{3.3.1}{\csname a:TocLink\endcsname{1}{x1-990003.3.1}{QQ2-1-99}{Sintaxis de $\mathcal  {S}^{\Sigma }$}}{113}\relax 
+\doTocEntry\tocsubsubsection{3.3.2}{\csname a:TocLink\endcsname{1}{x1-1000003.3.2}{QQ2-1-100}{Semantica de $\mathcal  {S}^{\Sigma }$}}{116}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1010003.3.2}{QQ2-1-101}{La computacion partiendo de un estado}}{117}\relax 
+\doTocEntry\toclikeparagraph{}{\csname a:TocLink\endcsname{1}{x1-1020003.3.2}{QQ2-1-102}{Definicion matematica de detencion}}{118}\relax 
+\doTocEntry\tocsubsubsection{3.3.3}{\csname a:TocLink\endcsname{1}{x1-1030003.3.3}{QQ2-1-103}{Funciones $\Sigma $-computables}}{118}\relax 
+\doTocEntry\tocsubsubsection{3.3.4}{\csname a:TocLink\endcsname{1}{x1-1040003.3.4}{QQ2-1-104}{Macros}}{120}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1050003.3.4}{QQ2-1-105}{Ejemplo concreto de uso de macros}}{124}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1060003.3.4}{QQ2-1-106}{Macros asociados a funciones $\Sigma $-computables}}{125}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1070003.3.4}{QQ2-1-107}{Macros asociados a predicados $\Sigma $-computables}}{127}\relax 
+\doTocEntry\tocsubsubsection{3.3.5}{\csname a:TocLink\endcsname{1}{x1-1080003.3.5}{QQ2-1-108}{Conjuntos $\Sigma $-enumerables}}{129}\relax 
+\doTocEntry\tocsubsubsection{3.3.6}{\csname a:TocLink\endcsname{1}{x1-1090003.3.6}{QQ2-1-109}{Conjuntos $\Sigma $-computables}}{131}\relax 
+\doTocEntry\toclikeparagraph{}{\csname a:TocLink\endcsname{1}{x1-1100003.3.6}{QQ2-1-110}{Macros asociados a conjuntos $\Sigma $-computables}}{131}\relax 
+\doTocEntry\tocsubsection{3.4}{\csname a:TocLink\endcsname{1}{x1-1110003.4}{QQ2-1-111}{Batallas entre paradigmas}}{132}\relax 
+\doTocEntry\tocsubsubsection{3.4.1}{\csname a:TocLink\endcsname{1}{x1-1120003.4.1}{QQ2-1-112}{Neumann vence a Godel}}{132}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1130003.4.1}{QQ2-1-113}{Se lleno de macros}}{133}\relax 
+\doTocEntry\tocsubsubsection{3.4.2}{\csname a:TocLink\endcsname{1}{x1-1140003.4.2}{QQ2-1-114}{Godel vence a Neumann}}{134}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1150003.4.2}{QQ2-1-115}{Analisis de la recursividad de la sintaxis de $\mathcal  {S}^{\Sigma }$}}{135}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1160003.4.2}{QQ2-1-116}{Analisis de la recursividad de la semantica de $\mathcal  {S}^{\Sigma }$}}{138}\relax 
+\doTocEntry\tocsubparagraph{}{\csname a:TocLink\endcsname{1}{x1-1170003.4.2}{QQ2-1-117}{Las funciones $i^{n,m}$, $E_{#}^{n,m}$ y $E_{\ast }^{n,m}$}}{138}\relax 
+\doTocEntry\tocsubparagraph{}{\csname a:TocLink\endcsname{1}{x1-1180003.4.2}{QQ2-1-118}{Las funciones $Halt^{n,m}$ y $T^{n,m}$}}{142}\relax 
+\doTocEntry\tocsubparagraph{}{\csname a:TocLink\endcsname{1}{x1-1190003.4.2}{QQ2-1-119}{Las funciones $\Phi _{#}^{n,m}$ y $\Phi _{\ast }^{n,m}$}}{143}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1200003.4.2}{QQ2-1-120}{Godel vence a Neumann}}{144}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1210003.4.2}{QQ2-1-121}{Uso de macros asociados a las funciones $Halt^{n,m}$, $E_{#}^{n,m}$ y $E_{\ast }^{n,m}$}}{146}\relax 
+\doTocEntry\tocsubparagraph{}{\csname a:TocLink\endcsname{1}{x1-1220003.4.2}{QQ2-1-122}{Enumeracion de conjuntos de programas}}{148}\relax 
+\doTocEntry\tocsubsubsection{3.4.3}{\csname a:TocLink\endcsname{1}{x1-1230003.4.3}{QQ2-1-123}{Godel vence a Turing}}{149}\relax 
+\doTocEntry\tocsubsubsection{3.4.4}{\csname a:TocLink\endcsname{1}{x1-1240003.4.4}{QQ2-1-124}{Turing vence a Neumann}}{152}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1250003.4.4}{QQ2-1-125}{Construccion de la maquina simuladora de un programa}}{153}\relax 
+\doTocEntry\tocsubparagraph{}{\csname a:TocLink\endcsname{1}{x1-1260003.4.4}{QQ2-1-126}{Construccion de las maquinas simuladoras de instrucciones}}{154}\relax 
+\doTocEntry\tocsubparagraph{}{\csname a:TocLink\endcsname{1}{x1-1270003.4.4}{QQ2-1-127}{Ejemplo de maquina simuladora de un programa}}{155}\relax 
+\doTocEntry\tocsubparagraph{}{\csname a:TocLink\endcsname{1}{x1-1280003.4.4}{QQ2-1-128}{La contruccion de la maquina simuladora}}{156}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1290003.4.4}{QQ2-1-129}{El lema de la simulacion}}{157}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1300003.4.4}{QQ2-1-130}{Turing vence a Neumann}}{158}\relax 
+\doTocEntry\tocsubsection{3.5}{\csname a:TocLink\endcsname{1}{x1-1310003.5}{QQ2-1-131}{Conclusiones: La tesis de Church}}{160}\relax 
+\doTocEntry\tocsubsection{3.6}{\csname a:TocLink\endcsname{1}{x1-1320003.6}{QQ2-1-132}{Resultados basicos presentados en paradigma recursivo}}{162}\relax 
+\doTocEntry\tocsubsubsection{3.6.1}{\csname a:TocLink\endcsname{1}{x1-1330003.6.1}{QQ2-1-133}{Lema de division por casos para funciones $\Sigma $-recursivas}}{163}\relax 
+\doTocEntry\tocsubsubsection{3.6.2}{\csname a:TocLink\endcsname{1}{x1-1340003.6.2}{QQ2-1-134}{Conjuntos $\Sigma $-recursivos y $\Sigma $-recursivamente enumerables}}{164}\relax 
+\doTocEntry\tocsubsubsection{3.6.3}{\csname a:TocLink\endcsname{1}{x1-1350003.6.3}{QQ2-1-135}{El halting problem y los conjuntos $A$ y $N$}}{172}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-1360004}{QQ2-1-136}{Estructuras algebraicas ordenadas}}{176}\relax 
+\doTocEntry\tocsubsection{4.1}{\csname a:TocLink\endcsname{1}{x1-1370004.1}{QQ2-1-137}{Conjuntos parcialmente ordenados}}{176}\relax 
+\doTocEntry\tocsubsubsection{4.1.1}{\csname a:TocLink\endcsname{1}{x1-1380004.1.1}{QQ2-1-138}{Diagramas de Hasse}}{178}\relax 
+\doTocEntry\tocsubsubsection{4.1.2}{\csname a:TocLink\endcsname{1}{x1-1390004.1.2}{QQ2-1-139}{Elementos maximales, maximos, minimales y minimos}}{178}\relax 
+\doTocEntry\tocsubsubsection{4.1.3}{\csname a:TocLink\endcsname{1}{x1-1400004.1.3}{QQ2-1-140}{Supremos}}{179}\relax 
+\doTocEntry\tocsubsubsection{4.1.4}{\csname a:TocLink\endcsname{1}{x1-1410004.1.4}{QQ2-1-141}{Infimos}}{180}\relax 
+\doTocEntry\tocsubsubsection{4.1.5}{\csname a:TocLink\endcsname{1}{x1-1420004.1.5}{QQ2-1-142}{Homomorfismos de posets}}{181}\relax 
+\doTocEntry\tocsubsubsection{4.1.6}{\csname a:TocLink\endcsname{1}{x1-1430004.1.6}{QQ2-1-143}{Version geometrica del concepto de reticulado}}{182}\relax 
+\doTocEntry\tocsubsection{4.2}{\csname a:TocLink\endcsname{1}{x1-1440004.2}{QQ2-1-144}{Version algebraica del concepto de reticulado}}{187}\relax 
+\doTocEntry\tocsubsubsection{4.2.1}{\csname a:TocLink\endcsname{1}{x1-1450004.2.1}{QQ2-1-145}{El orden asociado a un reticulado}}{189}\relax 
+\doTocEntry\tocsubsubsection{4.2.2}{\csname a:TocLink\endcsname{1}{x1-1460004.2.2}{QQ2-1-146}{Notacion}}{189}\relax 
+\doTocEntry\tocsubsubsection{4.2.3}{\csname a:TocLink\endcsname{1}{x1-1470004.2.3}{QQ2-1-147}{Subreticulados}}{190}\relax 
+\doTocEntry\tocsubsubsection{4.2.4}{\csname a:TocLink\endcsname{1}{x1-1480004.2.4}{QQ2-1-148}{Homomorfismos de reticulados}}{191}\relax 
+\doTocEntry\tocsubsubsection{4.2.5}{\csname a:TocLink\endcsname{1}{x1-1490004.2.5}{QQ2-1-149}{Congruencias de reticulados}}{192}\relax 
+\doTocEntry\tocsubsection{4.3}{\csname a:TocLink\endcsname{1}{x1-1500004.3}{QQ2-1-150}{Reticulados acotados}}{195}\relax 
+\doTocEntry\tocsubsubsection{4.3.1}{\csname a:TocLink\endcsname{1}{x1-1510004.3.1}{QQ2-1-151}{Subreticulados acotados}}{195}\relax 
+\doTocEntry\tocsubsubsection{4.3.2}{\csname a:TocLink\endcsname{1}{x1-1520004.3.2}{QQ2-1-152}{Homomorfismos de reticulados acotados}}{196}\relax 
+\doTocEntry\tocsubsubsection{4.3.3}{\csname a:TocLink\endcsname{1}{x1-1530004.3.3}{QQ2-1-153}{Congruencias de reticulados acotados}}{197}\relax 
+\doTocEntry\tocsubsection{4.4}{\csname a:TocLink\endcsname{1}{x1-1540004.4}{QQ2-1-154}{Reticulados complementados}}{198}\relax 
+\doTocEntry\tocsubsubsection{4.4.1}{\csname a:TocLink\endcsname{1}{x1-1550004.4.1}{QQ2-1-155}{Subreticulados complementados}}{199}\relax 
+\doTocEntry\tocsubsubsection{4.4.2}{\csname a:TocLink\endcsname{1}{x1-1560004.4.2}{QQ2-1-156}{Homomorfismos de reticulados complementados}}{199}\relax 
+\doTocEntry\tocsubsubsection{4.4.3}{\csname a:TocLink\endcsname{1}{x1-1570004.4.3}{QQ2-1-157}{Congruencias de reticulados complementados}}{200}\relax 
+\doTocEntry\tocsubsection{4.5}{\csname a:TocLink\endcsname{1}{x1-1580004.5}{QQ2-1-158}{Algebras de Boole}}{202}\relax 
+\doTocEntry\tocsubsection{4.6}{\csname a:TocLink\endcsname{1}{x1-1590004.6}{QQ2-1-159}{Teoremas del filtro primo y de Rasiowa Sikorski}}{205}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-1600005}{QQ2-1-160}{Sintaxis de la logica de primer orden}}{210}\relax 
+\doTocEntry\tocsubsection{5.1}{\csname a:TocLink\endcsname{1}{x1-1610005.1}{QQ2-1-161}{Variables}}{210}\relax 
+\doTocEntry\tocsubsection{5.2}{\csname a:TocLink\endcsname{1}{x1-1620005.2}{QQ2-1-162}{Tipos}}{210}\relax 
+\doTocEntry\tocsubsection{5.3}{\csname a:TocLink\endcsname{1}{x1-1630005.3}{QQ2-1-163}{Terminos}}{211}\relax 
+\doTocEntry\tocsubsubsection{5.3.1}{\csname a:TocLink\endcsname{1}{x1-1640005.3.1}{QQ2-1-164}{Unicidad de la lectura de terminos}}{212}\relax 
+\doTocEntry\tocsubsubsection{5.3.2}{\csname a:TocLink\endcsname{1}{x1-1650005.3.2}{QQ2-1-165}{Subterminos}}{215}\relax 
+\doTocEntry\tocsubsection{5.4}{\csname a:TocLink\endcsname{1}{x1-1660005.4}{QQ2-1-166}{Formulas}}{217}\relax 
+\doTocEntry\tocsubsubsection{5.4.1}{\csname a:TocLink\endcsname{1}{x1-1670005.4.1}{QQ2-1-167}{Unicidad de la lectura de formulas}}{218}\relax 
+\doTocEntry\tocsubsubsection{5.4.2}{\csname a:TocLink\endcsname{1}{x1-1680005.4.2}{QQ2-1-168}{Subformulas}}{221}\relax 
+\doTocEntry\tocsubsection{5.5}{\csname a:TocLink\endcsname{1}{x1-1690005.5}{QQ2-1-169}{Variables libres}}{222}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{1}{x1-1700006}{QQ2-1-170}{Semantica de la logica de primer orden}}{224}\relax 
+\doTocEntry\tocsubsection{6.1}{\csname a:TocLink\endcsname{1}{x1-1710006.1}{QQ2-1-171}{Estructuras de tipo $\tau $}}{225}\relax 
+\doTocEntry\tocsubsubsection{6.1.1}{\csname a:TocLink\endcsname{1}{x1-1720006.1.1}{QQ2-1-172}{El valor de un termino en una estructura}}{225}\relax 
+\doTocEntry\tocsubsubsection{6.1.2}{\csname a:TocLink\endcsname{1}{x1-1730006.1.2}{QQ2-1-173}{El valor de verdad de una formula en una estructura}}{226}\relax 
+\doTocEntry\tocsubsection{6.2}{\csname a:TocLink\endcsname{1}{x1-1740006.2}{QQ2-1-174}{Equivalencia de formulas}}{229}\relax 
+\doTocEntry\tocsubsection{6.3}{\csname a:TocLink\endcsname{1}{x1-1750006.3}{QQ2-1-175}{Homomorfismos}}{230}\relax 
+\doTocEntry\tocsubsection{6.4}{\csname a:TocLink\endcsname{1}{x1-1760006.4}{QQ2-1-176}{Algebras}}{231}\relax 
+\doTocEntry\tocsubsubsection{6.4.1}{\csname a:TocLink\endcsname{1}{x1-1770006.4.1}{QQ2-1-177}{Subalgebras}}{232}\relax 
+\doTocEntry\tocsubsubsection{6.4.2}{\csname a:TocLink\endcsname{1}{x1-1780006.4.2}{QQ2-1-178}{Congruencias}}{234}\relax 
+\doTocEntry\tocsubsubsection{6.4.3}{\csname a:TocLink\endcsname{1}{x1-1790006.4.3}{QQ2-1-179}{Producto directo de algebras}}{236}\relax 
+\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{1}{x1-1800007}{QQ2-1-180}{Dos teoremas de reemplazo}}{237}\relax 
+\doTocEntry\tocsubsection{7.1}{\csname a:TocLink\endcsname{1}{x1-1810007.1}{QQ2-1-181}{Notacion declaratoria para terminos}}{237}\relax 
+\doTocEntry\tocsubsection{7.2}{\csname a:TocLink\endcsname{1}{x1-1820007.2}{QQ2-1-182}{Teorema de reemplazo para terminos}}{240}\relax 
+\doTocEntry\tocsubsection{7.3}{\csname a:TocLink\endcsname{1}{x1-1830007.3}{QQ2-1-183}{Notacion declaratoria para formulas}}{240}\relax 
+\doTocEntry\tocsubsection{7.4}{\csname a:TocLink\endcsname{1}{x1-1840007.4}{QQ2-1-184}{Alcance de la ocurrencia de un cuantificador en una formula}}{245}\relax 
+\doTocEntry\tocsubsection{7.5}{\csname a:TocLink\endcsname{1}{x1-1850007.5}{QQ2-1-185}{Sustitucion de variables libres}}{245}\relax 
+\doTocEntry\tocsubsection{7.6}{\csname a:TocLink\endcsname{1}{x1-1860007.6}{QQ2-1-186}{Teorema de reemplazo para formulas}}{246}\relax 
+\doTocEntry\tocsection{8}{\csname a:TocLink\endcsname{1}{x1-1870008}{QQ2-1-187}{Teorias de primer orden}}{247}\relax 
+\doTocEntry\tocsubsection{8.1}{\csname a:TocLink\endcsname{1}{x1-1880008.1}{QQ2-1-188}{Definicion del concepto de prueba formal}}{249}\relax 
+\doTocEntry\tocsubsubsection{8.1.1}{\csname a:TocLink\endcsname{1}{x1-1890008.1.1}{QQ2-1-189}{Reglas}}{252}\relax 
+\doTocEntry\tocsubsubsection{8.1.2}{\csname a:TocLink\endcsname{1}{x1-1900008.1.2}{QQ2-1-190}{Axiomas logicos}}{255}\relax 
+\doTocEntry\tocsubsubsection{8.1.3}{\csname a:TocLink\endcsname{1}{x1-1910008.1.3}{QQ2-1-191}{Justificaciones}}{256}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1920008.1.3}{QQ2-1-192}{Concatenaciones balanceadas de justificaciones}}{256}\relax 
+\doTocEntry\tocsubsubsection{8.1.4}{\csname a:TocLink\endcsname{1}{x1-1930008.1.4}{QQ2-1-193}{Pares adecuados}}{257}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-1940008.1.4}{QQ2-1-194}{Dependencia de constantes en pares adecuados}}{258}\relax 
+\doTocEntry\tocsubsubsection{8.1.5}{\csname a:TocLink\endcsname{1}{x1-1950008.1.5}{QQ2-1-195}{Definicion de prueba}}{259}\relax 
+\doTocEntry\tocsubsection{8.2}{\csname a:TocLink\endcsname{1}{x1-1960008.2}{QQ2-1-196}{El concepto de teorema}}{261}\relax 
+\doTocEntry\tocsubsection{8.3}{\csname a:TocLink\endcsname{1}{x1-1970008.3}{QQ2-1-197}{Propiedades basicas de pruebas y teoremas}}{262}\relax 
+\doTocEntry\tocsubsection{8.4}{\csname a:TocLink\endcsname{1}{x1-1980008.4}{QQ2-1-198}{Consistencia}}{265}\relax 
+\doTocEntry\tocsubsection{8.5}{\csname a:TocLink\endcsname{1}{x1-1990008.5}{QQ2-1-199}{El teorema de correccion}}{266}\relax 
+\doTocEntry\tocsubsection{8.6}{\csname a:TocLink\endcsname{1}{x1-2000008.6}{QQ2-1-200}{El algebra de Lindenbaum}}{267}\relax 
+\doTocEntry\tocsubsection{8.7}{\csname a:TocLink\endcsname{1}{x1-2010008.7}{QQ2-1-201}{Teorema de completitud}}{271}\relax 
+\doTocEntry\tocsubsection{8.8}{\csname a:TocLink\endcsname{1}{x1-2020008.8}{QQ2-1-202}{Interpretacion semantica del algebra de Lindembaum}}{279}\relax 
+\doTocEntry\tocsubsection{8.9}{\csname a:TocLink\endcsname{1}{x1-2030008.9}{QQ2-1-203}{Teorias completas}}{280}\relax 
+\doTocEntry\tocsubsection{8.10}{\csname a:TocLink\endcsname{1}{x1-2040008.10}{QQ2-1-204}{La aritmetica de Peano}}{282}\relax 
+\doTocEntry\tocsubsection{8.11}{\csname a:TocLink\endcsname{1}{x1-2050008.11}{QQ2-1-205}{Logica ecuacional}}{288}\relax 
+\doTocEntry\tocsubsubsection{8.11.1}{\csname a:TocLink\endcsname{1}{x1-2060008.11.1}{QQ2-1-206}{Pruebas ecuacionales}}{288}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-2070008.11.1}{QQ2-1-207}{Definicion de prueba ecuacional}}{289}\relax 
+\doTocEntry\tocsubsubsection{8.11.2}{\csname a:TocLink\endcsname{1}{x1-2080008.11.2}{QQ2-1-208}{Correccion ecuacional}}{289}\relax 
+\doTocEntry\tocsubsubsection{8.11.3}{\csname a:TocLink\endcsname{1}{x1-2090008.11.3}{QQ2-1-209}{Completitud ecuacional}}{291}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-2100008.11.3}{QQ2-1-210}{El algebra de terminos}}{291}\relax 
+\doTocEntry\tocsubsection{8.12}{\csname a:TocLink\endcsname{1}{x1-2110008.12}{QQ2-1-211}{Teorema de incompletitud}}{294}\relax 
+\doTocEntry\tocsubsubsection{8.12.1}{\csname a:TocLink\endcsname{1}{x1-2120008.12.1}{QQ2-1-212}{Analisis de recursividad del lenguaje de primer orden}}{294}\relax 
+\doTocEntry\tocsubsubsection{8.12.2}{\csname a:TocLink\endcsname{1}{x1-2130008.12.2}{QQ2-1-213}{Funciones representables}}{306}\relax 
+\doTocEntry\tocsubsubsection{8.12.3}{\csname a:TocLink\endcsname{1}{x1-2140008.12.3}{QQ2-1-214}{Prueba del teorema de incompletitud}}{308}\relax 

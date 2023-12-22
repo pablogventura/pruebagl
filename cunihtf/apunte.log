@@ -1,0 +1,2763 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.5.26)  7 AUG 2021 10:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
+documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
+ tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode xhtml,customcfg,charset=utf
+-8,html5.a.b.c.\input "\detokenize{apunte.tex}"
+(./apunte.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2019-03-18-15:24
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks14
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2019-12-19-14:27
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen135
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count175
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count176
+\leftroot@=\count177
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count178
+\DOTSCASE@=\count179
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count180
+\c@MaxMatrixCols=\count181
+\dotsspace@=\muskip16
+\c@parentequation=\count182
+\dspbrk@lvl=\count183
+\tag@help=\toks18
+\row@=\count184
+\column@=\count185
+\maxfields@=\count186
+\andhelp@=\toks19
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+\c@thm=\count187
+\c@theorem=\count188
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2018-12-30-09:29
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2019-03-18-15:24
+--- needs --- tex4ht apunte ---
+\tmp:cnt=\count189
+\openout15 = `apunte.tmp'.
+
+(./apunte.tmp)
+\tmp:dim=\skip55
+(./apunte.xref)
+\:refout=\write3
+\openout3 = `apunte.xref'.
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: xhtml,customcfg,charset=utf-8,html5,html
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS code, use the command line option `-css
+--------------------------------------
+--------------------------------------
+--- Note --- for inline CSS code, use the command line option `css-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+)
+\:tokwrite=\toks28
+\:tokpage=\toks29
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `apunte.4ct'.
+
+\:tocout=\write4
+\openout4 = `apunte.4tc'.
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2019-08-26-14:22
+LaTeX Info: Redefining \_ on input line 168.
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+version 2018-11-06-15:55
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/article.4ht (/usr/share/te
+xlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/inputenc.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsmath.4ht
+version 2019-12-29-14:17
+\tmp:muskip=\muskip17
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amstext.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsbsy.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsopn.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsthm.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amssymb.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsfonts.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count190
+\l__pdf_backend_content_box=\box48
+\l__pdf_backend_model_box=\box49
+\g__pdf_backend_annotation_int=\count191
+\g__pdf_backend_link_int=\count192
+\g__pdf_backend_link_sf_int=\count193
+) (./apunte.aux)
+\openout1 = `apunte.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+--- file apunte.css ---
+[1
+
+] [2]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 128
+.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 128
+.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (./apunte.4ct [3] [4] [5]) [6]
+l. 143 Writing apunte.idv[1] (apunte0x.png)
+l. 148 Writing apunte.idv[2] (apunte1x.png)
+[7] [8] [9]
+l. 231 Writing apunte.idv[3] (apunte2x.png)
+l. 252 Writing apunte.idv[4] (apunte3x.png)
+l. 255 Writing apunte.idv[5] (apunte4x.png)
+l. 260 Writing apunte.idv[6] (apunte5x.png)
+l. 260 Writing apunte.idv[7] (apunte6x.png)
+[10]
+l. 267 Writing apunte.idv[8] (apunte7x.png)
+l. 276 Writing apunte.idv[9] (apunte8x.png)
+l. 276 Writing apunte.idv[10] (apunte9x.png)
+l. 277 Writing apunte.idv[11] (apunte10x.png)
+l. 280 Writing apunte.idv[12] (apunte11x.png)
+[11]
+l. 317 Writing apunte.idv[13] (apunte12x.png)
+[12]
+l. 360 Writing apunte.idv[14] (apunte13x.png)
+[13]
+l. 377 Writing apunte.idv[15] (apunte14x.png)
+[14]
+l. 413 Writing apunte.idv[16] (apunte15x.png)
+l. 439 Writing apunte.idv[17] (apunte16x.png)
+[15]
+l. 459 Writing apunte.idv[18] (apunte17x.png)
+[16] [17]
+l. 501 Writing apunte.idv[19] (apunte18x.png)
+[18] [19]
+l. 559 Writing apunte.idv[20] (apunte19x.png)
+[20]
+l. 576 Writing apunte.idv[21] (apunte20x.png)
+l. 587 Writing apunte.idv[22] (apunte21x.png)
+l. 591 Writing apunte.idv[23] (apunte22x.png)
+[21]
+l. 605 Writing apunte.idv[24] (apunte23x.png)
+[22] [23] [24]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 722.
+l. 737 Writing apunte.idv[25] (apunte24x.png)
+[25]
+l. 741 Writing apunte.idv[26] (apunte25x.png)
+[26] [27] [28] [29]
+l. 903 Writing apunte.idv[27] (apunte26x.png)
+[30] [31] [32] [33] [34]
+l. 1011 Writing apunte.idv[28] (apunte27x.png)
+[35] [36] [37]
+l. 1112 Writing apunte.idv[29] (apunte28x.png)
+l. 1112 Writing apunte.idv[30] (apunte29x.png)
+[38]
+l. 1149 Writing apunte.idv[31] (apunte30x.png)
+[39]
+l. 1167 Writing apunte.idv[32] (apunte31x.png)
+[40] [41]
+l. 1211 Writing apunte.idv[33] (apunte32x.png)
+[42] [43] [44] [45] [46]
+l. 1335 Writing apunte.idv[34] (apunte33x.png)
+l. 1357 Writing apunte.idv[35] (apunte34x.png)
+l. 1363 Writing apunte.idv[36] (apunte35x.png)
+[47]
+l. 1380 Writing apunte.idv[37] (apunte36x.png)
+l. 1389 Writing apunte.idv[38] (apunte37x.png)
+[48]
+l. 1398 Writing apunte.idv[39] (apunte38x.png)
+[49] [50]
+l. 1457 Writing apunte.idv[40] (apunte39x.png)
+[51] [52] [53]
+l. 1534 Writing apunte.idv[41] (apunte40x.png)
+[54]
+l. 1561 Writing apunte.idv[42] (apunte41x.png)
+l. 1568 Writing apunte.idv[43] (apunte42x.png)
+[55]
+l. 1583 Writing apunte.idv[44] (apunte43x.png)
+l. 1583 Writing apunte.idv[45] (apunte44x.png)
+l. 1589 Writing apunte.idv[46] (apunte45x.png)
+l. 1589 Writing apunte.idv[47] (apunte46x.png)
+l. 1590 Writing apunte.idv[48] (apunte47x.png)
+l. 1590 Writing apunte.idv[49] (apunte48x.png)
+l. 1594 Writing apunte.idv[50] (apunte49x.png)
+[56]
+l. 1599 Writing apunte.idv[51] (apunte50x.png)
+[57] [58] [59]
+l. 1660 Writing apunte.idv[52] (apunte51x.png)
+[60]
+l. 1673 Writing apunte.idv[53] (apunte52x.png)
+l. 1685 Writing apunte.idv[54] (apunte53x.png)
+l. 1689 Writing apunte.idv[55] (apunte54x.png)
+l. 1693 Writing apunte.idv[56] (apunte55x.png)
+l. 1700 Writing apunte.idv[57] (apunte56x.png)
+l. 1703 Writing apunte.idv[58] (apunte57x.png)
+[61]
+l. 1713 Writing apunte.idv[59] (apunte58x.png)
+l. 1721 Writing apunte.idv[60] (apunte59x.png)
+[62]
+l. 1729 Writing apunte.idv[61] (apunte60x.png)
+l. 1738 Writing apunte.idv[62] (apunte61x.png)
+l. 1746 Writing apunte.idv[63] (apunte62x.png)
+l. 1747 Writing apunte.idv[64] (apunte63x.png)
+[63]
+l. 1764 Writing apunte.idv[65] (apunte64x.png)
+[64]
+l. 1767 Writing apunte.idv[66] (apunte65x.png)
+l. 1769 Writing apunte.idv[67] (apunte66x.png)
+l. 1774 Writing apunte.idv[68] (apunte67x.png)
+l. 1777 Writing apunte.idv[69] (apunte68x.png)
+l. 1782 Writing apunte.idv[70] (apunte69x.png)
+[65]
+l. 1788 Writing apunte.idv[71] (apunte70x.png)
+l. 1793 Writing apunte.idv[72] (apunte71x.png)
+l. 1799 Writing apunte.idv[73] (apunte72x.png)
+l. 1803 Writing apunte.idv[74] (apunte73x.png)
+[66]
+l. 1810 Writing apunte.idv[75] (apunte74x.png)
+[67] [68] [69]
+l. 1911 Writing apunte.idv[76] (apunte75x.png)
+l. 1919 Writing apunte.idv[77] (apunte76x.png)
+l. 1929 Writing apunte.idv[78] (apunte77x.png)
+[70]
+l. 1974 Writing apunte.idv[79] (apunte78x.png)
+[71] [72]
+l. 2009 Writing apunte.idv[80] (apunte79x.png)
+[73]
+l. 2048 Writing apunte.idv[81] (apunte80x.png)
+[74] [75]
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2110.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2110.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2110.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2110.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2112.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2114.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2116.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2118.
+
+l. 2118 Writing apunte.idv[82] (apunte81x.png)
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2120.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2122.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2122.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2122.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2122.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2122.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2122.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2122.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2122.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2122.
+
+[76] [77]
+l. 2183 Writing apunte.idv[83] (apunte82x.png)
+[78]
+l. 2223 Writing apunte.idv[84] (apunte83x.png)
+l. 2232 Writing apunte.idv[85] (apunte84x.png)
+[79]
+l. 2242 Writing apunte.idv[86] (apunte85x.png)
+l. 2243 Writing apunte.idv[87] (apunte86x.png)
+[80]
+l. 2298 Writing apunte.idv[88] (apunte87x.png)
+[81]
+l. 2317 Writing apunte.idv[89] (apunte88x.png)
+l. 2325 Writing apunte.idv[90] (apunte89x.png)
+[82] [83]
+l. 2363 Writing apunte.idv[91] (apunte90x.png)
+l. 2367 Writing apunte.idv[92] (apunte91x.png)
+l. 2367 Writing apunte.idv[93] (apunte92x.png)
+l. 2369 Writing apunte.idv[94] (apunte93x.png)
+l. 2372 Writing apunte.idv[95] (apunte94x.png)
+l. 2376 Writing apunte.idv[96] (apunte95x.png)
+l. 2376 Writing apunte.idv[97] (apunte96x.png)
+[84] [85] [86]
+l. 2436 Writing apunte.idv[98] (apunte97x.png)
+l. 2439 Writing apunte.idv[99] (apunte98x.png)
+l. 2441 Writing apunte.idv[100] (apunte99x.png)
+[87]
+l. 2448 Writing apunte.idv[101] (apunte100x.png)
+l. 2452 Writing apunte.idv[102] (apunte101x.png)
+l. 2455 Writing apunte.idv[103] (apunte102x.png)
+l. 2456 Writing apunte.idv[104] (apunte103x.png)
+l. 2457 Writing apunte.idv[105] (apunte104x.png)
+l. 2458 Writing apunte.idv[106] (apunte105x.png)
+l. 2461 Writing apunte.idv[107] (apunte106x.png)
+l. 2464 Writing apunte.idv[108] (apunte107x.png)
+l. 2464 Writing apunte.idv[109] (apunte108x.png)
+[88]
+l. 2479 Writing apunte.idv[110] (apunte109x.png)
+l. 2480 Writing apunte.idv[111] (apunte110x.png)
+l. 2481 Writing apunte.idv[112] (apunte111x.png)
+l. 2483 Writing apunte.idv[113] (apunte112x.png)
+l. 2485 Writing apunte.idv[114] (apunte113x.png)
+l. 2485 Writing apunte.idv[115] (apunte114x.png)
+l. 2498 Writing apunte.idv[116] (apunte115x.png)
+l. 2499 Writing apunte.idv[117] (apunte116x.png)
+l. 2502 Writing apunte.idv[118] (apunte117x.png)
+[89]
+l. 2506 Writing apunte.idv[119] (apunte118x.png)
+l. 2517 Writing apunte.idv[120] (apunte119x.png)
+l. 2520 Writing apunte.idv[121] (apunte120x.png)
+l. 2521 Writing apunte.idv[122] (apunte121x.png)
+[90]
+l. 2530 Writing apunte.idv[123] (apunte122x.png)
+l. 2532 Writing apunte.idv[124] (apunte123x.png)
+l. 2541 Writing apunte.idv[125] (apunte124x.png)
+[91]
+l. 2553 Writing apunte.idv[126] (apunte125x.png)
+[92] [93] [94]
+l. 2705 Writing apunte.idv[127] (apunte126x.png)
+l. 2708 Writing apunte.idv[128] (apunte127x.png)
+l. 2709 Writing apunte.idv[129] (apunte128x.png)
+[95] [96]
+l. 2764 Writing apunte.idv[130] (apunte129x.png)
+l. 2776 Writing apunte.idv[131] (apunte130x.png)
+l. 2787 Writing apunte.idv[132] (apunte131x.png)
+[97]
+l. 2796 Writing apunte.idv[133] (apunte132x.png)
+
+LaTeX Warning: Reference `recursion para la sucesor de palabras' on page 98 und
+efined on input line 2799.
+
+l. 2801 Writing apunte.idv[134] (apunte133x.png)
+l. 2813 Writing apunte.idv[135] (apunte134x.png)
+[98]
+l. 2822 Writing apunte.idv[136] (apunte135x.png)
+l. 2831 Writing apunte.idv[137] (apunte136x.png)
+l. 2842 Writing apunte.idv[138] (apunte137x.png)
+[99]
+l. 2855 Writing apunte.idv[139] (apunte138x.png)
+l. 2856 Writing apunte.idv[140] (apunte139x.png)
+l. 2856 Writing apunte.idv[141] (apunte140x.png)
+[100]
+l. 2884 Writing apunte.idv[142] (apunte141x.png)
+l. 2897 Writing apunte.idv[143] (apunte142x.png)
+[101]
+l. 2946 Writing apunte.idv[144] (apunte143x.png)
+[102] [103]
+l. 3009 Writing apunte.idv[145] (apunte144x.png)
+[104] [105]
+l. 3081 Writing apunte.idv[146] (apunte145x.png)
+[106] [107] [108]
+l. 3201 Writing apunte.idv[147] (apunte146x.png)
+l. 3212 Writing apunte.idv[148] (apunte147x.png)
+[109] [110] [111] [112] [113]
+l. 3446 Writing apunte.idv[149] (apunte148x.png)
+[114] [115] [116] [117] [118] [119] [120] [121] [122]
+l. 3776 Writing apunte.idv[150] (apunte149x.png)
+l. 3804 Writing apunte.idv[151] (apunte150x.png)
+[123]
+l. 3810 Writing apunte.idv[152] (apunte151x.png)
+l. 3810 Writing apunte.idv[153] (apunte152x.png)
+[124]
+l. 3830 Writing apunte.idv[154] (apunte153x.png)
+l. 3832 Writing apunte.idv[155] (apunte154x.png)
+l. 3837 Writing apunte.idv[156] (apunte155x.png)
+l. 3841 Writing apunte.idv[157] (apunte156x.png)
+l. 3844 Writing apunte.idv[158] (apunte157x.png)
+l. 3854 Writing apunte.idv[159] (apunte158x.png)
+[125]
+l. 3861 Writing apunte.idv[160] (apunte159x.png)
+l. 3868 Writing apunte.idv[161] (apunte160x.png)
+l. 3874 Writing apunte.idv[162] (apunte161x.png)
+[126]
+l. 3876 Writing apunte.idv[163] (apunte162x.png)
+l. 3881 Writing apunte.idv[164] (apunte163x.png)
+l. 3884 Writing apunte.idv[165] (apunte164x.png)
+l. 3884 Writing apunte.idv[166] (apunte165x.png)
+l. 3893 Writing apunte.idv[167] (apunte166x.png)
+[127]
+l. 3905 Writing apunte.idv[168] (apunte167x.png)
+l. 3905 Writing apunte.idv[169] (apunte168x.png)
+[128]
+l. 3918 Writing apunte.idv[170] (apunte169x.png)
+[129]
+l. 3947 Writing apunte.idv[171] (apunte170x.png)
+[130]
+l. 3975 Writing apunte.idv[172] (apunte171x.png)
+l. 3976 Writing apunte.idv[173] (apunte172x.png)
+l. 3982 Writing apunte.idv[174] (apunte173x.png)
+l. 3988 Writing apunte.idv[175] (apunte174x.png)
+l. 3988 Writing apunte.idv[176] (apunte175x.png)
+l. 3988 Writing apunte.idv[177] (apunte176x.png)
+[131]
+l. 3990 Writing apunte.idv[178] (apunte177x.png)
+l. 3995 Writing apunte.idv[179] (apunte178x.png)
+l. 4000 Writing apunte.idv[180] (apunte179x.png)
+l. 4006 Writing apunte.idv[181] (apunte180x.png)
+l. 4006 Writing apunte.idv[182] (apunte181x.png)
+l. 4006 Writing apunte.idv[183] (apunte182x.png)
+[132]
+l. 4008 Writing apunte.idv[184] (apunte183x.png)
+l. 4013 Writing apunte.idv[185] (apunte184x.png)
+l. 4026 Writing apunte.idv[186] (apunte185x.png)
+[133]
+l. 4039 Writing apunte.idv[187] (apunte186x.png)
+l. 4046 Writing apunte.idv[188] (apunte187x.png)
+[134]
+l. 4088 Writing apunte.idv[189] (apunte188x.png)
+[135]
+l. 4102 Writing apunte.idv[190] (apunte189x.png)
+l. 4119 Writing apunte.idv[191] (apunte190x.png)
+l. 4123 Writing apunte.idv[192] (apunte191x.png)
+l. 4124 Writing apunte.idv[193] (apunte192x.png)
+l. 4127 Writing apunte.idv[194] (apunte193x.png)
+l. 4128 Writing apunte.idv[195] (apunte194x.png)
+[136]
+l. 4149 Writing apunte.idv[196] (apunte195x.png)
+l. 4156 Writing apunte.idv[197] (apunte196x.png)
+l. 4156 Writing apunte.idv[198] (apunte197x.png)
+l. 4156 Writing apunte.idv[199] (apunte198x.png)
+l. 4158 Writing apunte.idv[200] (apunte199x.png)
+[137]
+l. 4162 Writing apunte.idv[201] (apunte200x.png)
+l. 4162 Writing apunte.idv[202] (apunte201x.png)
+l. 4162 Writing apunte.idv[203] (apunte202x.png)
+l. 4164 Writing apunte.idv[204] (apunte203x.png)
+l. 4192 Writing apunte.idv[205] (apunte204x.png)
+l. 4192 Writing apunte.idv[206] (apunte205x.png)
+l. 4192 Writing apunte.idv[207] (apunte206x.png)
+[138] [139]
+l. 4245 Writing apunte.idv[208] (apunte207x.png)
+[140] [141] [142]
+l. 4352 Writing apunte.idv[209] (apunte208x.png)
+l. 4353 Writing apunte.idv[210] (apunte209x.png)
+l. 4353 Writing apunte.idv[211] (apunte210x.png)
+[143]
+l. 4372 Writing apunte.idv[212] (apunte211x.png)
+l. 4383 Writing apunte.idv[213] (apunte212x.png)
+[144]
+l. 4399 Writing apunte.idv[214] (apunte213x.png)
+[145]
+l. 4446 Writing apunte.idv[215] (apunte214x.png)
+l. 4451 Writing apunte.idv[216] (apunte215x.png)
+l. 4451 Writing apunte.idv[217] (apunte216x.png)
+l. 4451 Writing apunte.idv[218] (apunte217x.png)
+[146]
+l. 4454 Writing apunte.idv[219] (apunte218x.png)
+l. 4459 Writing apunte.idv[220] (apunte219x.png)
+[147]
+l. 4497 Writing apunte.idv[221] (apunte220x.png)
+[148]
+l. 4522 Writing apunte.idv[222] (apunte221x.png)
+l. 4522 Writing apunte.idv[223] (apunte222x.png)
+l. 4524 Writing apunte.idv[224] (apunte223x.png)
+l. 4529 Writing apunte.idv[225] (apunte224x.png)
+l. 4530 Writing apunte.idv[226] (apunte225x.png)
+l. 4530 Writing apunte.idv[227] (apunte226x.png)
+l. 4533 Writing apunte.idv[228] (apunte227x.png)
+l. 4538 Writing apunte.idv[229] (apunte228x.png)
+[149] [150]
+l. 4570 Writing apunte.idv[230] (apunte229x.png)
+l. 4586 Writing apunte.idv[231] (apunte230x.png)
+[151] [152] [153] [154] [155] [156] [157]
+l. 4734 Writing apunte.idv[232] (apunte231x.png)
+l. 4734 Writing apunte.idv[233] (apunte232x.png)
+l. 4734 Writing apunte.idv[234] (apunte233x.png)
+l. 4735 Writing apunte.idv[235] (apunte234x.png)
+l. 4736 Writing apunte.idv[236] (apunte235x.png)
+l. 4737 Writing apunte.idv[237] (apunte236x.png)
+[158]
+l. 4769 Writing apunte.idv[238] (apunte237x.png)
+l. 4770 Writing apunte.idv[239] (apunte238x.png)
+l. 4771 Writing apunte.idv[240] (apunte239x.png)
+[159]
+l. 4779 Writing apunte.idv[241] (apunte240x.png)
+l. 4784 Writing apunte.idv[242] (apunte241x.png)
+l. 4784 Writing apunte.idv[243] (apunte242x.png)
+l. 4787 Writing apunte.idv[244] (apunte243x.png)
+l. 4791 Writing apunte.idv[245] (apunte244x.png)
+l. 4794 Writing apunte.idv[246] (apunte245x.png)
+l. 4794 Writing apunte.idv[247] (apunte246x.png)
+[160]
+l. 4796 Writing apunte.idv[248] (apunte247x.png)
+l. 4799 Writing apunte.idv[249] (apunte248x.png)
+l. 4805 Writing apunte.idv[250] (apunte249x.png)
+l. 4805 Writing apunte.idv[251] (apunte250x.png)
+[161]
+l. 4810 Writing apunte.idv[252] (apunte251x.png)
+l. 4810 Writing apunte.idv[253] (apunte252x.png)
+l. 4812 Writing apunte.idv[254] (apunte253x.png)
+l. 4821 Writing apunte.idv[255] (apunte254x.png)
+l. 4822 Writing apunte.idv[256] (apunte255x.png)
+l. 4828 Writing apunte.idv[257] (apunte256x.png)
+l. 4832 Writing apunte.idv[258] (apunte257x.png)
+l. 4832 Writing apunte.idv[259] (apunte258x.png)
+[162]
+l. 4836 Writing apunte.idv[260] (apunte259x.png)
+l. 4840 Writing apunte.idv[261] (apunte260x.png)
+l. 4840 Writing apunte.idv[262] (apunte261x.png)
+[163]
+l. 4856 Writing apunte.idv[263] (apunte262x.png)
+l. 4860 Writing apunte.idv[264] (apunte263x.png)
+l. 4864 Writing apunte.idv[265] (apunte264x.png)
+[164]
+l. 4876 Writing apunte.idv[266] (apunte265x.png)
+l. 4877 Writing apunte.idv[267] (apunte266x.png)
+l. 4884 Writing apunte.idv[268] (apunte267x.png)
+l. 4884 Writing apunte.idv[269] (apunte268x.png)
+l. 4886 Writing apunte.idv[270] (apunte269x.png)
+l. 4886 Writing apunte.idv[271] (apunte270x.png)
+l. 4886 Writing apunte.idv[272] (apunte271x.png)
+l. 4890 Writing apunte.idv[273] (apunte272x.png)
+l. 4890 Writing apunte.idv[274] (apunte273x.png)
+[165]
+
+LaTeX Warning: Reference `biyeccion0' on page 166 undefined on input line 4896.
+
+
+l. 4907 Writing apunte.idv[275] (apunte274x.png)
+l. 4912 Writing apunte.idv[276] (apunte275x.png)
+[166]
+l. 4916 Writing apunte.idv[277] (apunte276x.png)
+l. 4921 Writing apunte.idv[278] (apunte277x.png)
+l. 4925 Writing apunte.idv[279] (apunte278x.png)
+l. 4927 Writing apunte.idv[280] (apunte279x.png)
+l. 4927 Writing apunte.idv[281] (apunte280x.png)
+[167]
+l. 4939 Writing apunte.idv[282] (apunte281x.png)
+l. 4941 Writing apunte.idv[283] (apunte282x.png)
+l. 4942 Writing apunte.idv[284] (apunte283x.png)
+l. 4943 Writing apunte.idv[285] (apunte284x.png)
+l. 4944 Writing apunte.idv[286] (apunte285x.png)
+l. 4948 Writing apunte.idv[287] (apunte286x.png)
+l. 4948 Writing apunte.idv[288] (apunte287x.png)
+[168]
+l. 4951 Writing apunte.idv[289] (apunte288x.png)
+l. 4951 Writing apunte.idv[290] (apunte289x.png)
+l. 4953 Writing apunte.idv[291] (apunte290x.png)
+l. 4953 Writing apunte.idv[292] (apunte291x.png)
+l. 4953 Writing apunte.idv[293] (apunte292x.png)
+l. 4955 Writing apunte.idv[294] (apunte293x.png)
+l. 4955 Writing apunte.idv[295] (apunte294x.png)
+l. 4957 Writing apunte.idv[296] (apunte295x.png)
+l. 4957 Writing apunte.idv[297] (apunte296x.png)
+l. 4959 Writing apunte.idv[298] (apunte297x.png)
+l. 4959 Writing apunte.idv[299] (apunte298x.png)
+[169]
+l. 4967 Writing apunte.idv[300] (apunte299x.png)
+l. 4967 Writing apunte.idv[301] (apunte300x.png)
+l. 4967 Writing apunte.idv[302] (apunte301x.png)
+l. 4969 Writing apunte.idv[303] (apunte302x.png)
+l. 4982 Writing apunte.idv[304] (apunte303x.png)
+[170]
+l. 5015 Writing apunte.idv[305] (apunte304x.png)
+l. 5031 Writing apunte.idv[306] (apunte305x.png)
+[171]
+l. 5040 Writing apunte.idv[307] (apunte306x.png)
+[172]
+l. 5061 Writing apunte.idv[308] (apunte307x.png)
+l. 5064 Writing apunte.idv[309] (apunte308x.png)
+l. 5072 Writing apunte.idv[310] (apunte309x.png)
+[173] [174]
+l. 5095 Writing apunte.idv[311] (apunte310x.png)
+l. 5100 Writing apunte.idv[312] (apunte311x.png)
+[175]
+l. 5123 Writing apunte.idv[313] (apunte312x.png)
+l. 5123 Writing apunte.idv[314] (apunte313x.png)
+[176]
+l. 5126 Writing apunte.idv[315] (apunte314x.png)
+l. 5126 Writing apunte.idv[316] (apunte315x.png)
+l. 5134 Writing apunte.idv[317] (apunte316x.png)
+[177]
+l. 5142 Writing apunte.idv[318] (apunte317x.png)
+l. 5142 Writing apunte.idv[319] (apunte318x.png)
+l. 5145 Writing apunte.idv[320] (apunte319x.png)
+l. 5152 Writing apunte.idv[321] (apunte320x.png)
+[178] [179]
+l. 5185 Writing apunte.idv[322] (apunte321x.png)
+[180]
+l. 5207 Writing apunte.idv[323] (apunte322x.png)
+[181]
+l. 5225 Writing apunte.idv[324] (apunte323x.png)
+l. 5240 Writing apunte.idv[325] (apunte324x.png)
+[182] [183]
+l. 5265 Writing apunte.idv[326] (apunte325x.png)
+[184]
+l. 5294 Writing apunte.idv[327] (apunte326x.png)
+l. 5294 Writing apunte.idv[328] (apunte327x.png)
+[185]
+l. 5301 Writing apunte.idv[329] (apunte328x.png)
+l. 5306 Writing apunte.idv[330] (apunte329x.png)
+l. 5313 Writing apunte.idv[331] (apunte330x.png)
+l. 5313 Writing apunte.idv[332] (apunte331x.png)
+l. 5317 Writing apunte.idv[333] (apunte332x.png)
+[186]
+l. 5324 Writing apunte.idv[334] (apunte333x.png)
+l. 5329 Writing apunte.idv[335] (apunte334x.png)
+[187]
+l. 5349 Writing apunte.idv[336] (apunte335x.png)
+l. 5361 Writing apunte.idv[337] (apunte336x.png)
+l. 5361 Writing apunte.idv[338] (apunte337x.png)
+[188]
+l. 5369 Writing apunte.idv[339] (apunte338x.png)
+l. 5369 Writing apunte.idv[340] (apunte339x.png)
+l. 5369 Writing apunte.idv[341] (apunte340x.png)
+l. 5377 Writing apunte.idv[342] (apunte341x.png)
+l. 5378 Writing apunte.idv[343] (apunte342x.png)
+l. 5382 Writing apunte.idv[344] (apunte343x.png)
+[189]
+l. 5388 Writing apunte.idv[345] (apunte344x.png)
+l. 5391 Writing apunte.idv[346] (apunte345x.png)
+l. 5391 Writing apunte.idv[347] (apunte346x.png)
+l. 5394 Writing apunte.idv[348] (apunte347x.png)
+[190]
+l. 5408 Writing apunte.idv[349] (apunte348x.png)
+l. 5417 Writing apunte.idv[350] (apunte349x.png)
+l. 5425 Writing apunte.idv[351] (apunte350x.png)
+[191]
+l. 5432 Writing apunte.idv[352] (apunte351x.png)
+l. 5437 Writing apunte.idv[353] (apunte352x.png)
+l. 5441 Writing apunte.idv[354] (apunte353x.png)
+l. 5442 Writing apunte.idv[355] (apunte354x.png)
+l. 5452 Writing apunte.idv[356] (apunte355x.png)
+[192]
+l. 5458 Writing apunte.idv[357] (apunte356x.png)
+l. 5465 Writing apunte.idv[358] (apunte357x.png)
+l. 5465 Writing apunte.idv[359] (apunte358x.png)
+l. 5472 Writing apunte.idv[360] (apunte359x.png)
+[193]
+l. 5493 Writing apunte.idv[361] (apunte360x.png)
+[194]
+l. 5502 Writing apunte.idv[362] (apunte361x.png)
+l. 5502 Writing apunte.idv[363] (apunte362x.png)
+[195]
+l. 5510 Writing apunte.idv[364] (apunte363x.png)
+l. 5514 Writing apunte.idv[365] (apunte364x.png)
+l. 5517 Writing apunte.idv[366] (apunte365x.png)
+l. 5522 Writing apunte.idv[367] (apunte366x.png)
+[196]
+l. 5526 Writing apunte.idv[368] (apunte367x.png)
+l. 5526 Writing apunte.idv[369] (apunte368x.png)
+l. 5537 Writing apunte.idv[370] (apunte369x.png)
+l. 5538 Writing apunte.idv[371] (apunte370x.png)
+l. 5543 Writing apunte.idv[372] (apunte371x.png)
+l. 5544 Writing apunte.idv[373] (apunte372x.png)
+[197]
+l. 5556 Writing apunte.idv[374] (apunte373x.png)
+l. 5560 Writing apunte.idv[375] (apunte374x.png)
+[198]
+l. 5565 Writing apunte.idv[376] (apunte375x.png)
+l. 5565 Writing apunte.idv[377] (apunte376x.png)
+l. 5567 Writing apunte.idv[378] (apunte377x.png)
+l. 5575 Writing apunte.idv[379] (apunte378x.png)
+l. 5582 Writing apunte.idv[380] (apunte379x.png)
+[199]
+l. 5592 Writing apunte.idv[381] (apunte380x.png)
+l. 5596 Writing apunte.idv[382] (apunte381x.png)
+l. 5601 Writing apunte.idv[383] (apunte382x.png)
+l. 5606 Writing apunte.idv[384] (apunte383x.png)
+[200]
+l. 5613 Writing apunte.idv[385] (apunte384x.png)
+l. 5613 Writing apunte.idv[386] (apunte385x.png)
+l. 5615 Writing apunte.idv[387] (apunte386x.png)
+l. 5617 Writing apunte.idv[388] (apunte387x.png)
+l. 5621 Writing apunte.idv[389] (apunte388x.png)
+l. 5622 Writing apunte.idv[390] (apunte389x.png)
+[201]
+l. 5629 Writing apunte.idv[391] (apunte390x.png)
+l. 5640 Writing apunte.idv[392] (apunte391x.png)
+l. 5641 Writing apunte.idv[393] (apunte392x.png)
+l. 5642 Writing apunte.idv[394] (apunte393x.png)
+l. 5648 Writing apunte.idv[395] (apunte394x.png)
+l. 5649 Writing apunte.idv[396] (apunte395x.png)
+l. 5653 Writing apunte.idv[397] (apunte396x.png)
+l. 5653 Writing apunte.idv[398] (apunte397x.png)
+[202]
+l. 5657 Writing apunte.idv[399] (apunte398x.png)
+l. 5657 Writing apunte.idv[400] (apunte399x.png)
+l. 5657 Writing apunte.idv[401] (apunte400x.png)
+l. 5659 Writing apunte.idv[402] (apunte401x.png)
+l. 5664 Writing apunte.idv[403] (apunte402x.png)
+[203]
+l. 5709 Writing apunte.idv[404] (apunte403x.png)
+[204]
+l. 5712 Writing apunte.idv[405] (apunte404x.png)
+l. 5731 Writing apunte.idv[406] (apunte405x.png)
+l. 5732 Writing apunte.idv[407] (apunte406x.png)
+[205]
+l. 5743 Writing apunte.idv[408] (apunte407x.png)
+[206]
+l. 5750 Writing apunte.idv[409] (apunte408x.png)
+[207]
+l. 5799 Writing apunte.idv[410] (apunte409x.png)
+l. 5800 Writing apunte.idv[411] (apunte410x.png)
+l. 5801 Writing apunte.idv[412] (apunte411x.png)
+l. 5802 Writing apunte.idv[413] (apunte412x.png)
+[208] [209] [210]
+l. 5880 Writing apunte.idv[414] (apunte413x.png)
+[211]
+l. 5884 Writing apunte.idv[415] (apunte414x.png)
+l. 5884 Writing apunte.idv[416] (apunte415x.png)
+l. 5886 Writing apunte.idv[417] (apunte416x.png)
+l. 5892 Writing apunte.idv[418] (apunte417x.png)
+[212]
+l. 5903 Writing apunte.idv[419] (apunte418x.png)
+l. 5908 Writing apunte.idv[420] (apunte419x.png)
+[213]
+l. 5912 Writing apunte.idv[421] (apunte420x.png)
+l. 5912 Writing apunte.idv[422] (apunte421x.png)
+l. 5950 Writing apunte.idv[423] (apunte422x.png)
+[214]
+l. 5959 Writing apunte.idv[424] (apunte423x.png)
+[215]
+l. 5968 Writing apunte.idv[425] (apunte424x.png)
+l. 5972 Writing apunte.idv[426] (apunte425x.png)
+l. 5976 Writing apunte.idv[427] (apunte426x.png)
+l. 5980 Writing apunte.idv[428] (apunte427x.png)
+[216]
+l. 5989 Writing apunte.idv[429] (apunte428x.png)
+l. 5993 Writing apunte.idv[430] (apunte429x.png)
+[217]
+l. 6000 Writing apunte.idv[431] (apunte430x.png)
+l. 6008 Writing apunte.idv[432] (apunte431x.png)
+l. 6008 Writing apunte.idv[433] (apunte432x.png)
+l. 6013 Writing apunte.idv[434] (apunte433x.png)
+l. 6016 Writing apunte.idv[435] (apunte434x.png)
+[218]
+l. 6019 Writing apunte.idv[436] (apunte435x.png)
+l. 6021 Writing apunte.idv[437] (apunte436x.png)
+l. 6024 Writing apunte.idv[438] (apunte437x.png)
+l. 6026 Writing apunte.idv[439] (apunte438x.png)
+l. 6031 Writing apunte.idv[440] (apunte439x.png)
+l. 6035 Writing apunte.idv[441] (apunte440x.png)
+[219]
+l. 6040 Writing apunte.idv[442] (apunte441x.png)
+l. 6041 Writing apunte.idv[443] (apunte442x.png)
+l. 6043 Writing apunte.idv[444] (apunte443x.png)
+l. 6048 Writing apunte.idv[445] (apunte444x.png)
+l. 6052 Writing apunte.idv[446] (apunte445x.png)
+[220]
+l. 6083 Writing apunte.idv[447] (apunte446x.png)
+l. 6086 Writing apunte.idv[448] (apunte447x.png)
+[221]
+l. 6094 Writing apunte.idv[449] (apunte448x.png)
+l. 6104 Writing apunte.idv[450] (apunte449x.png)
+[222]
+l. 6127 Writing apunte.idv[451] (apunte450x.png)
+l. 6127 Writing apunte.idv[452] (apunte451x.png)
+[223]
+l. 6134 Writing apunte.idv[453] (apunte452x.png)
+l. 6144 Writing apunte.idv[454] (apunte453x.png)
+l. 6144 Writing apunte.idv[455] (apunte454x.png)
+[224]
+l. 6160 Writing apunte.idv[456] (apunte455x.png)
+l. 6160 Writing apunte.idv[457] (apunte456x.png)
+[225] [226] [227]
+l. 6265 Writing apunte.idv[458] (apunte457x.png)
+l. 6272 Writing apunte.idv[459] (apunte458x.png)
+l. 6278 Writing apunte.idv[460] (apunte459x.png)
+[228] [229]
+l. 6304 Writing apunte.idv[461] (apunte460x.png)
+l. 6311 Writing apunte.idv[462] (apunte461x.png)
+[230]
+l. 6319 Writing apunte.idv[463] (apunte462x.png)
+[231]
+l. 6382 Writing apunte.idv[464] (apunte463x.png)
+[232]
+l. 6389 Writing apunte.idv[465] (apunte464x.png)
+l. 6395 Writing apunte.idv[466] (apunte465x.png)
+l. 6408 Writing apunte.idv[467] (apunte466x.png)
+[233]
+l. 6416 Writing apunte.idv[468] (apunte467x.png)
+l. 6423 Writing apunte.idv[469] (apunte468x.png)
+[234] [235]
+l. 6473 Writing apunte.idv[470] (apunte469x.png)
+l. 6481 Writing apunte.idv[471] (apunte470x.png)
+[236]
+l. 6486 Writing apunte.idv[472] (apunte471x.png)
+l. 6502 Writing apunte.idv[473] (apunte472x.png)
+[237]
+l. 6512 Writing apunte.idv[474] (apunte473x.png)
+l. 6517 Writing apunte.idv[475] (apunte474x.png)
+l. 6522 Writing apunte.idv[476] (apunte475x.png)
+[238]
+l. 6543 Writing apunte.idv[477] (apunte476x.png)
+[239]
+l. 6561 Writing apunte.idv[478] (apunte477x.png)
+l. 6566 Writing apunte.idv[479] (apunte478x.png)
+l. 6576 Writing apunte.idv[480] (apunte479x.png)
+[240]
+l. 6587 Writing apunte.idv[481] (apunte480x.png)
+l. 6592 Writing apunte.idv[482] (apunte481x.png)
+[241]
+l. 6611 Writing apunte.idv[483] (apunte482x.png)
+l. 6616 Writing apunte.idv[484] (apunte483x.png)
+[242]
+l. 6633 Writing apunte.idv[485] (apunte484x.png)
+[243]
+l. 6658 Writing apunte.idv[486] (apunte485x.png)
+l. 6666 Writing apunte.idv[487] (apunte486x.png)
+l. 6673 Writing apunte.idv[488] (apunte487x.png)
+[244]
+l. 6683 Writing apunte.idv[489] (apunte488x.png)
+l. 6691 Writing apunte.idv[490] (apunte489x.png)
+[245]
+l. 6700 Writing apunte.idv[491] (apunte490x.png)
+l. 6709 Writing apunte.idv[492] (apunte491x.png)
+l. 6719 Writing apunte.idv[493] (apunte492x.png)
+[246]
+l. 6726 Writing apunte.idv[494] (apunte493x.png)
+[247]
+l. 6738 Writing apunte.idv[495] (apunte494x.png)
+l. 6744 Writing apunte.idv[496] (apunte495x.png)
+l. 6748 Writing apunte.idv[497] (apunte496x.png)
+[248]
+l. 6751 Writing apunte.idv[498] (apunte497x.png)
+l. 6758 Writing apunte.idv[499] (apunte498x.png)
+[249]
+l. 6789 Writing apunte.idv[500] (apunte499x.png)
+l. 6794 Writing apunte.idv[501] (apunte500x.png)
+l. 6796 Writing apunte.idv[502] (apunte501x.png)
+[250]
+l. 6807 Writing apunte.idv[503] (apunte502x.png)
+l. 6810 Writing apunte.idv[504] (apunte503x.png)
+l. 6811 Writing apunte.idv[505] (apunte504x.png)
+[251] [252]
+l. 6878 Writing apunte.idv[506] (apunte505x.png)
+[253]
+l. 6893 Writing apunte.idv[507] (apunte506x.png)
+l. 6901 Writing apunte.idv[508] (apunte507x.png)
+[254]
+l. 6909 Writing apunte.idv[509] (apunte508x.png)
+[255]
+l. 6954 Writing apunte.idv[510] (apunte509x.png)
+l. 6957 Writing apunte.idv[511] (apunte510x.png)
+l. 6957 Writing apunte.idv[512] (apunte511x.png)
+[256]
+l. 6969 Writing apunte.idv[513] (apunte512x.png)
+l. 6988 Writing apunte.idv[514] (apunte513x.png)
+[257] [258] [259] [260]
+l. 7096 Writing apunte.idv[515] (apunte514x.png)
+[261]
+l. 7109 Writing apunte.idv[516] (apunte515x.png)
+l. 7122 Writing apunte.idv[517] (apunte516x.png)
+l. 7122 Writing apunte.idv[518] (apunte517x.png)
+[262]
+l. 7148 Writing apunte.idv[519] (apunte518x.png)
+l. 7148 Writing apunte.idv[520] (apunte519x.png)
+l. 7163 Writing apunte.idv[521] (apunte520x.png)
+l. 7163 Writing apunte.idv[522] (apunte521x.png)
+l. 7163 Writing apunte.idv[523] (apunte522x.png)
+l. 7164 Writing apunte.idv[524] (apunte523x.png)
+[263]
+l. 7192 Writing apunte.idv[525] (apunte524x.png)
+l. 7199 Writing apunte.idv[526] (apunte525x.png)
+[264] [265] [266] [267] [268] [269]
+l. 7301 Writing apunte.idv[527] (apunte526x.png)
+[270]
+l. 7306 Writing apunte.idv[528] (apunte527x.png)
+[271]
+l. 7325 Writing apunte.idv[529] (apunte528x.png)
+l. 7330 Writing apunte.idv[530] (apunte529x.png)
+[272] [273]
+l. 7367 Writing apunte.idv[531] (apunte530x.png)
+l. 7372 Writing apunte.idv[532] (apunte531x.png)
+[274]
+l. 7404 Writing apunte.idv[533] (apunte532x.png)
+[275] [276]
+l. 7439 Writing apunte.idv[534] (apunte533x.png)
+l. 7443 Writing apunte.idv[535] (apunte534x.png)
+l. 7449 Writing apunte.idv[536] (apunte535x.png)
+l. 7449 Writing apunte.idv[537] (apunte536x.png)
+[277]
+l. 7453 Writing apunte.idv[538] (apunte537x.png)
+l. 7453 Writing apunte.idv[539] (apunte538x.png)
+l. 7458 Writing apunte.idv[540] (apunte539x.png)
+l. 7458 Writing apunte.idv[541] (apunte540x.png)
+[278]
+l. 7462 Writing apunte.idv[542] (apunte541x.png)
+l. 7462 Writing apunte.idv[543] (apunte542x.png)
+l. 7472 Writing apunte.idv[544] (apunte543x.png)
+l. 7478 Writing apunte.idv[545] (apunte544x.png)
+[279]
+l. 7486 Writing apunte.idv[546] (apunte545x.png)
+l. 7492 Writing apunte.idv[547] (apunte546x.png)
+[280]
+l. 7532 Writing apunte.idv[548] (apunte547x.png)
+[281]
+l. 7547 Writing apunte.idv[549] (apunte548x.png)
+l. 7571 Writing apunte.idv[550] (apunte549x.png)
+l. 7571 Writing apunte.idv[551] (apunte550x.png)
+l. 7574 Writing apunte.idv[552] (apunte551x.png)
+l. 7574 Writing apunte.idv[553] (apunte552x.png)
+[282] [283] [284] [285] [286] [287]
+l. 7769 Writing apunte.idv[554] (apunte553x.png)
+[288]
+l. 7800 Writing apunte.idv[555] (apunte554x.png)
+[289]
+l. 7814 Writing apunte.idv[556] (apunte555x.png)
+l. 7832 Writing apunte.idv[557] (apunte556x.png)
+[290]
+l. 7840 Writing apunte.idv[558] (apunte557x.png)
+[291]
+l. 7899 Writing apunte.idv[559] (apunte558x.png)
+l. 7908 Writing apunte.idv[560] (apunte559x.png)
+l. 7914 Writing apunte.idv[561] (apunte560x.png)
+l. 7915 Writing apunte.idv[562] (apunte561x.png)
+[292]
+l. 7933 Writing apunte.idv[563] (apunte562x.png)
+[293]
+l. 7981 Writing apunte.idv[564] (apunte563x.png)
+[294]
+l. 8007 Writing apunte.idv[565] (apunte564x.png)
+[295]
+l. 8011 Writing apunte.idv[566] (apunte565x.png)
+l. 8018 Writing apunte.idv[567] (apunte566x.png)
+l. 8019 Writing apunte.idv[568] (apunte567x.png)
+l. 8022 Writing apunte.idv[569] (apunte568x.png)
+l. 8039 Writing apunte.idv[570] (apunte569x.png)
+l. 8040 Writing apunte.idv[571] (apunte570x.png)
+l. 8048 Writing apunte.idv[572] (apunte571x.png)
+[296]
+l. 8059 Writing apunte.idv[573] (apunte572x.png)
+l. 8065 Writing apunte.idv[574] (apunte573x.png)
+[297] [298]
+l. 8092 Writing apunte.idv[575] (apunte574x.png)
+l. 8095 Writing apunte.idv[576] (apunte575x.png)
+l. 8098 Writing apunte.idv[577] (apunte576x.png)
+l. 8101 Writing apunte.idv[578] (apunte577x.png)
+[299]
+l. 8118 Writing apunte.idv[579] (apunte578x.png)
+l. 8130 Writing apunte.idv[580] (apunte579x.png)
+[300] [301]
+l. 8159 Writing apunte.idv[581] (apunte580x.png)
+l. 8163 Writing apunte.idv[582] (apunte581x.png)
+l. 8170 Writing apunte.idv[583] (apunte582x.png)
+l. 8171 Writing apunte.idv[584] (apunte583x.png)
+l. 8174 Writing apunte.idv[585] (apunte584x.png)
+l. 8181 Writing apunte.idv[586] (apunte585x.png)
+[302]
+l. 8191 Writing apunte.idv[587] (apunte586x.png)
+l. 8202 Writing apunte.idv[588] (apunte587x.png)
+l. 8207 Writing apunte.idv[589] (apunte588x.png)
+[303]
+l. 8210 Writing apunte.idv[590] (apunte589x.png)
+l. 8220 Writing apunte.idv[591] (apunte590x.png)
+[304]
+l. 8257 Writing apunte.idv[592] (apunte591x.png)
+l. 8274 Writing apunte.idv[593] (apunte592x.png)
+l. 8274 Writing apunte.idv[594] (apunte593x.png)
+[305]
+l. 8277 Writing apunte.idv[595] (apunte594x.png)
+l. 8278 Writing apunte.idv[596] (apunte595x.png)
+l. 8283 Writing apunte.idv[597] (apunte596x.png)
+l. 8288 Writing apunte.idv[598] (apunte597x.png)
+l. 8300 Writing apunte.idv[599] (apunte598x.png)
+[306]
+l. 8309 Writing apunte.idv[600] (apunte599x.png)
+[307]
+l. 8338 Writing apunte.idv[601] (apunte600x.png)
+l. 8349 Writing apunte.idv[602] (apunte601x.png)
+[308]
+l. 8388 Writing apunte.idv[603] (apunte602x.png)
+l. 8391 Writing apunte.idv[604] (apunte603x.png)
+[309]
+l. 8407 Writing apunte.idv[605] (apunte604x.png)
+l. 8411 Writing apunte.idv[606] (apunte605x.png)
+[310]
+l. 8423 Writing apunte.idv[607] (apunte606x.png)
+l. 8427 Writing apunte.idv[608] (apunte607x.png)
+[311]
+l. 8468 Writing apunte.idv[609] (apunte608x.png)
+[312]
+l. 8473 Writing apunte.idv[610] (apunte609x.png)
+l. 8482 Writing apunte.idv[611] (apunte610x.png)
+l. 8492 Writing apunte.idv[612] (apunte611x.png)
+l. 8494 Writing apunte.idv[613] (apunte612x.png)
+l. 8498 Writing apunte.idv[614] (apunte613x.png)
+l. 8501 Writing apunte.idv[615] (apunte614x.png)
+l. 8503 Writing apunte.idv[616] (apunte615x.png)
+[313]
+l. 8515 Writing apunte.idv[617] (apunte616x.png)
+l. 8521 Writing apunte.idv[618] (apunte617x.png)
+[314]
+l. 8534 Writing apunte.idv[619] (apunte618x.png)
+[315]
+l. 8572 Writing apunte.idv[620] (apunte619x.png)
+[316] [317]
+l. 8604 Writing apunte.idv[621] (apunte620x.png)
+l. 8605 Writing apunte.idv[622] (apunte621x.png)
+l. 8606 Writing apunte.idv[623] (apunte622x.png)
+l. 8609 Writing apunte.idv[624] (apunte623x.png)
+l. 8610 Writing apunte.idv[625] (apunte624x.png)
+l. 8611 Writing apunte.idv[626] (apunte625x.png)
+[318]
+l. 8649 Writing apunte.idv[627] (apunte626x.png)
+[319]
+l. 8664 Writing apunte.idv[628] (apunte627x.png)
+[320]
+l. 8685 Writing apunte.idv[629] (apunte628x.png)
+l. 8693 Writing apunte.idv[630] (apunte629x.png)
+[321]
+l. 8701 Writing apunte.idv[631] (apunte630x.png)
+l. 8711 Writing apunte.idv[632] (apunte631x.png)
+[322]
+l. 8731 Writing apunte.idv[633] (apunte632x.png)
+[323]
+l. 8746 Writing apunte.idv[634] (apunte633x.png)
+l. 8746 Writing apunte.idv[635] (apunte634x.png)
+[324]
+l. 8750 Writing apunte.idv[636] (apunte635x.png)
+l. 8752 Writing apunte.idv[637] (apunte636x.png)
+l. 8755 Writing apunte.idv[638] (apunte637x.png)
+l. 8755 Writing apunte.idv[639] (apunte638x.png)
+l. 8759 Writing apunte.idv[640] (apunte639x.png)
+l. 8759 Writing apunte.idv[641] (apunte640x.png)
+[325]
+l. 8765 Writing apunte.idv[642] (apunte641x.png)
+l. 8771 Writing apunte.idv[643] (apunte642x.png)
+[326]
+l. 8775 Writing apunte.idv[644] (apunte643x.png)
+l. 8779 Writing apunte.idv[645] (apunte644x.png)
+l. 8779 Writing apunte.idv[646] (apunte645x.png)
+l. 8783 Writing apunte.idv[647] (apunte646x.png)
+[327]
+l. 8796 Writing apunte.idv[648] (apunte647x.png)
+[328]
+l. 8813 Writing apunte.idv[649] (apunte648x.png)
+l. 8818 Writing apunte.idv[650] (apunte649x.png)
+l. 8822 Writing apunte.idv[651] (apunte650x.png)
+l. 8822 Writing apunte.idv[652] (apunte651x.png)
+l. 8822 Writing apunte.idv[653] (apunte652x.png)
+l. 8827 Writing apunte.idv[654] (apunte653x.png)
+l. 8835 Writing apunte.idv[655] (apunte654x.png)
+l. 8841 Writing apunte.idv[656] (apunte655x.png)
+[329]
+l. 8847 Writing apunte.idv[657] (apunte656x.png)
+l. 8847 Writing apunte.idv[658] (apunte657x.png)
+l. 8853 Writing apunte.idv[659] (apunte658x.png)
+l. 8857 Writing apunte.idv[660] (apunte659x.png)
+l. 8862 Writing apunte.idv[661] (apunte660x.png)
+l. 8872 Writing apunte.idv[662] (apunte661x.png)
+[330]
+l. 8876 Writing apunte.idv[663] (apunte662x.png)
+l. 8885 Writing apunte.idv[664] (apunte663x.png)
+l. 8889 Writing apunte.idv[665] (apunte664x.png)
+[331]
+l. 8895 Writing apunte.idv[666] (apunte665x.png)
+l. 8899 Writing apunte.idv[667] (apunte666x.png)
+l. 8900 Writing apunte.idv[668] (apunte667x.png)
+l. 8901 Writing apunte.idv[669] (apunte668x.png)
+l. 8917 Writing apunte.idv[670] (apunte669x.png)
+[332]
+l. 8924 Writing apunte.idv[671] (apunte670x.png)
+[333]
+l. 8942 Writing apunte.idv[672] (apunte671x.png)
+l. 8947 Writing apunte.idv[673] (apunte672x.png)
+[334]
+l. 8952 Writing apunte.idv[674] (apunte673x.png)
+l. 8966 Writing apunte.idv[675] (apunte674x.png)
+l. 8967 Writing apunte.idv[676] (apunte675x.png)
+l. 8969 Writing apunte.idv[677] (apunte676x.png)
+l. 8970 Writing apunte.idv[678] (apunte677x.png)
+[335]
+l. 8979 Writing apunte.idv[679] (apunte678x.png)
+l. 8979 Writing apunte.idv[680] (apunte679x.png)
+[336]
+l. 8988 Writing apunte.idv[681] (apunte680x.png)
+[337] [338]
+l. 9031 Writing apunte.idv[682] (apunte681x.png)
+l. 9035 Writing apunte.idv[683] (apunte682x.png)
+l. 9043 Writing apunte.idv[684] (apunte683x.png)
+[339]
+l. 9047 Writing apunte.idv[685] (apunte684x.png)
+l. 9052 Writing apunte.idv[686] (apunte685x.png)
+l. 9058 Writing apunte.idv[687] (apunte686x.png)
+[340]
+l. 9066 Writing apunte.idv[688] (apunte687x.png)
+l. 9071 Writing apunte.idv[689] (apunte688x.png)
+[341]
+l. 9080 Writing apunte.idv[690] (apunte689x.png)
+l. 9088 Writing apunte.idv[691] (apunte690x.png)
+l. 9096 Writing apunte.idv[692] (apunte691x.png)
+[342]
+l. 9104 Writing apunte.idv[693] (apunte692x.png)
+l. 9112 Writing apunte.idv[694] (apunte693x.png)
+[343]
+l. 9123 Writing apunte.idv[695] (apunte694x.png)
+l. 9130 Writing apunte.idv[696] (apunte695x.png)
+l. 9137 Writing apunte.idv[697] (apunte696x.png)
+[344]
+l. 9144 Writing apunte.idv[698] (apunte697x.png)
+l. 9151 Writing apunte.idv[699] (apunte698x.png)
+l. 9156 Writing apunte.idv[700] (apunte699x.png)
+[345]
+l. 9158 Writing apunte.idv[701] (apunte700x.png)
+l. 9163 Writing apunte.idv[702] (apunte701x.png)
+l. 9165 Writing apunte.idv[703] (apunte702x.png)
+l. 9172 Writing apunte.idv[704] (apunte703x.png)
+[346]
+l. 9179 Writing apunte.idv[705] (apunte704x.png)
+l. 9186 Writing apunte.idv[706] (apunte705x.png)
+[347]
+l. 9193 Writing apunte.idv[707] (apunte706x.png)
+l. 9198 Writing apunte.idv[708] (apunte707x.png)
+l. 9200 Writing apunte.idv[709] (apunte708x.png)
+l. 9205 Writing apunte.idv[710] (apunte709x.png)
+[348]
+l. 9207 Writing apunte.idv[711] (apunte710x.png)
+l. 9214 Writing apunte.idv[712] (apunte711x.png)
+l. 9220 Writing apunte.idv[713] (apunte712x.png)
+[349]
+l. 9239 Writing apunte.idv[714] (apunte713x.png)
+l. 9240 Writing apunte.idv[715] (apunte714x.png)
+l. 9242 Writing apunte.idv[716] (apunte715x.png)
+l. 9246 Writing apunte.idv[717] (apunte716x.png)
+[350]
+l. 9252 Writing apunte.idv[718] (apunte717x.png)
+l. 9264 Writing apunte.idv[719] (apunte718x.png)
+[351]
+l. 9268 Writing apunte.idv[720] (apunte719x.png)
+l. 9273 Writing apunte.idv[721] (apunte720x.png)
+[352]
+l. 9291 Writing apunte.idv[722] (apunte721x.png)
+l. 9296 Writing apunte.idv[723] (apunte722x.png)
+[353]
+l. 9307 Writing apunte.idv[724] (apunte723x.png)
+l. 9321 Writing apunte.idv[725] (apunte724x.png)
+[354]
+l. 9328 Writing apunte.idv[726] (apunte725x.png)
+l. 9335 Writing apunte.idv[727] (apunte726x.png)
+l. 9341 Writing apunte.idv[728] (apunte727x.png)
+l. 9347 Writing apunte.idv[729] (apunte728x.png)
+[355]
+l. 9351 Writing apunte.idv[730] (apunte729x.png)
+l. 9368 Writing apunte.idv[731] (apunte730x.png)
+[356]
+l. 9374 Writing apunte.idv[732] (apunte731x.png)
+l. 9379 Writing apunte.idv[733] (apunte732x.png)
+l. 9383 Writing apunte.idv[734] (apunte733x.png)
+l. 9388 Writing apunte.idv[735] (apunte734x.png)
+[357]
+l. 9402 Writing apunte.idv[736] (apunte735x.png)
+l. 9406 Writing apunte.idv[737] (apunte736x.png)
+[358]
+l. 9429 Writing apunte.idv[738] (apunte737x.png)
+[359]
+l. 9455 Writing apunte.idv[739] (apunte738x.png)
+[360]
+l. 9482 Writing apunte.idv[740] (apunte739x.png)
+[361]
+l. 9494 Writing apunte.idv[741] (apunte740x.png)
+l. 9505 Writing apunte.idv[742] (apunte741x.png)
+[362]
+l. 9517 Writing apunte.idv[743] (apunte742x.png)
+[363]
+l. 9563 Writing apunte.idv[744] (apunte743x.png)
+[364]
+l. 9568 Writing apunte.idv[745] (apunte744x.png)
+l. 9574 Writing apunte.idv[746] (apunte745x.png)
+l. 9582 Writing apunte.idv[747] (apunte746x.png)
+l. 9586 Writing apunte.idv[748] (apunte747x.png)
+[365]
+l. 9612 Writing apunte.idv[749] (apunte748x.png)
+[366]
+l. 9616 Writing apunte.idv[750] (apunte749x.png)
+l. 9620 Writing apunte.idv[751] (apunte750x.png)
+[367]
+l. 9629 Writing apunte.idv[752] (apunte751x.png)
+l. 9634 Writing apunte.idv[753] (apunte752x.png)
+l. 9638 Writing apunte.idv[754] (apunte753x.png)
+[368]
+l. 9642 Writing apunte.idv[755] (apunte754x.png)
+l. 9647 Writing apunte.idv[756] (apunte755x.png)
+[369]
+l. 9657 Writing apunte.idv[757] (apunte756x.png)
+l. 9659 Writing apunte.idv[758] (apunte757x.png)
+[370]
+l. 9692 Writing apunte.idv[759] (apunte758x.png)
+l. 9702 Writing apunte.idv[760] (apunte759x.png)
+l. 9706 Writing apunte.idv[761] (apunte760x.png)
+[371]
+l. 9725 Writing apunte.idv[762] (apunte761x.png)
+l. 9732 Writing apunte.idv[763] (apunte762x.png)
+l. 9738 Writing apunte.idv[764] (apunte763x.png)
+[372]
+l. 9742 Writing apunte.idv[765] (apunte764x.png)
+l. 9748 Writing apunte.idv[766] (apunte765x.png)
+l. 9753 Writing apunte.idv[767] (apunte766x.png)
+[373]
+l. 9756 Writing apunte.idv[768] (apunte767x.png)
+l. 9773 Writing apunte.idv[769] (apunte768x.png)
+l. 9776 Writing apunte.idv[770] (apunte769x.png)
+l. 9778 Writing apunte.idv[771] (apunte770x.png)
+l. 9780 Writing apunte.idv[772] (apunte771x.png)
+l. 9792 Writing apunte.idv[773] (apunte772x.png)
+l. 9794 Writing apunte.idv[774] (apunte773x.png)
+[374]
+l. 9814 Writing apunte.idv[775] (apunte774x.png)
+l. 9819 Writing apunte.idv[776] (apunte775x.png)
+[375]
+l. 9829 Writing apunte.idv[777] (apunte776x.png)
+l. 9835 Writing apunte.idv[778] (apunte777x.png)
+l. 9844 Writing apunte.idv[779] (apunte778x.png)
+[376]
+l. 9853 Writing apunte.idv[780] (apunte779x.png)
+l. 9862 Writing apunte.idv[781] (apunte780x.png)
+l. 9870 Writing apunte.idv[782] (apunte781x.png)
+[377]
+l. 9880 Writing apunte.idv[783] (apunte782x.png)
+l. 9882 Writing apunte.idv[784] (apunte783x.png)
+l. 9887 Writing apunte.idv[785] (apunte784x.png)
+l. 9892 Writing apunte.idv[786] (apunte785x.png)
+[378]
+l. 9904 Writing apunte.idv[787] (apunte786x.png)
+l. 9913 Writing apunte.idv[788] (apunte787x.png)
+l. 9915 Writing apunte.idv[789] (apunte788x.png)
+l. 9918 Writing apunte.idv[790] (apunte789x.png)
+l. 9927 Writing apunte.idv[791] (apunte790x.png)
+l. 9927 Writing apunte.idv[792] (apunte791x.png)
+[379]
+l. 9933 Writing apunte.idv[793] (apunte792x.png)
+l. 9939 Writing apunte.idv[794] (apunte793x.png)
+l. 9939 Writing apunte.idv[795] (apunte794x.png)
+[380]
+l. 9942 Writing apunte.idv[796] (apunte795x.png)
+l. 9945 Writing apunte.idv[797] (apunte796x.png)
+l. 9947 Writing apunte.idv[798] (apunte797x.png)
+l. 9951 Writing apunte.idv[799] (apunte798x.png)
+l. 9956 Writing apunte.idv[800] (apunte799x.png)
+l. 9958 Writing apunte.idv[801] (apunte800x.png)
+[381]
+l. 9963 Writing apunte.idv[802] (apunte801x.png)
+l. 9965 Writing apunte.idv[803] (apunte802x.png)
+l. 9972 Writing apunte.idv[804] (apunte803x.png)
+l. 9972 Writing apunte.idv[805] (apunte804x.png)
+l. 9976 Writing apunte.idv[806] (apunte805x.png)
+l. 9976 Writing apunte.idv[807] (apunte806x.png)
+l. 9976 Writing apunte.idv[808] (apunte807x.png)
+l. 9976 Writing apunte.idv[809] (apunte808x.png)
+l. 9979 Writing apunte.idv[810] (apunte809x.png)
+l. 9979 Writing apunte.idv[811] (apunte810x.png)
+[382]
+l. 9983 Writing apunte.idv[812] (apunte811x.png)
+l. 9983 Writing apunte.idv[813] (apunte812x.png)
+l. 9986 Writing apunte.idv[814] (apunte813x.png)
+l. 9998 Writing apunte.idv[815] (apunte814x.png)
+[383]
+l. 10005 Writing apunte.idv[816] (apunte815x.png)
+l. 10005 Writing apunte.idv[817] (apunte816x.png)
+l. 10005 Writing apunte.idv[818] (apunte817x.png)
+l. 10006 Writing apunte.idv[819] (apunte818x.png)
+l. 10006 Writing apunte.idv[820] (apunte819x.png)
+l. 10006 Writing apunte.idv[821] (apunte820x.png)
+l. 10012 Writing apunte.idv[822] (apunte821x.png)
+[384]
+l. 10035 Writing apunte.idv[823] (apunte822x.png)
+[385]
+l. 10054 Writing apunte.idv[824] (apunte823x.png)
+l. 10059 Writing apunte.idv[825] (apunte824x.png)
+l. 10064 Writing apunte.idv[826] (apunte825x.png)
+[386]
+l. 10073 Writing apunte.idv[827] (apunte826x.png)
+l. 10079 Writing apunte.idv[828] (apunte827x.png)
+[387]
+l. 10088 Writing apunte.idv[829] (apunte828x.png)
+[388]
+l. 10140 Writing apunte.idv[830] (apunte829x.png)
+[389]
+l. 10155 Writing apunte.idv[831] (apunte830x.png)
+l. 10167 Writing apunte.idv[832] (apunte831x.png)
+[390]
+l. 10183 Writing apunte.idv[833] (apunte832x.png)
+l. 10202 Writing apunte.idv[834] (apunte833x.png)
+[391]
+l. 10216 Writing apunte.idv[835] (apunte834x.png)
+l. 10230 Writing apunte.idv[836] (apunte835x.png)
+[392]
+l. 10247 Writing apunte.idv[837] (apunte836x.png)
+[393]
+l. 10261 Writing apunte.idv[838] (apunte837x.png)
+l. 10275 Writing apunte.idv[839] (apunte838x.png)
+[394]
+l. 10293 Writing apunte.idv[840] (apunte839x.png)
+l. 10307 Writing apunte.idv[841] (apunte840x.png)
+l. 10319 Writing apunte.idv[842] (apunte841x.png)
+[395]
+l. 10332 Writing apunte.idv[843] (apunte842x.png)
+l. 10340 Writing apunte.idv[844] (apunte843x.png)
+[396]
+l. 10353 Writing apunte.idv[845] (apunte844x.png)
+l. 10361 Writing apunte.idv[846] (apunte845x.png)
+[397]
+l. 10395 Writing apunte.idv[847] (apunte846x.png)
+[398]
+l. 10398 Writing apunte.idv[848] (apunte847x.png)
+l. 10420 Writing apunte.idv[849] (apunte848x.png)
+[399] [400]
+l. 10489 Writing apunte.idv[850] (apunte849x.png)
+[401]
+l. 10506 Writing apunte.idv[851] (apunte850x.png)
+l. 10513 Writing apunte.idv[852] (apunte851x.png)
+[402]
+l. 10517 Writing apunte.idv[853] (apunte852x.png)
+l. 10522 Writing apunte.idv[854] (apunte853x.png)
+[403]
+l. 10526 Writing apunte.idv[855] (apunte854x.png)
+l. 10530 Writing apunte.idv[856] (apunte855x.png)
+l. 10530 Writing apunte.idv[857] (apunte856x.png)
+l. 10530 Writing apunte.idv[858] (apunte857x.png)
+[404] [405]
+l. 10578 Writing apunte.idv[859] (apunte858x.png)
+l. 10581 Writing apunte.idv[860] (apunte859x.png)
+[406]
+l. 10606 Writing apunte.idv[861] (apunte860x.png)
+l. 10610 Writing apunte.idv[862] (apunte861x.png)
+l. 10610 Writing apunte.idv[863] (apunte862x.png)
+l. 10610 Writing apunte.idv[864] (apunte863x.png)
+l. 10618 Writing apunte.idv[865] (apunte864x.png)
+l. 10618 Writing apunte.idv[866] (apunte865x.png)
+l. 10618 Writing apunte.idv[867] (apunte866x.png)
+[407]
+l. 10628 Writing apunte.idv[868] (apunte867x.png)
+l. 10631 Writing apunte.idv[869] (apunte868x.png)
+l. 10634 Writing apunte.idv[870] (apunte869x.png)
+l. 10638 Writing apunte.idv[871] (apunte870x.png)
+l. 10645 Writing apunte.idv[872] (apunte871x.png)
+[408]
+l. 10654 Writing apunte.idv[873] (apunte872x.png)
+l. 10654 Writing apunte.idv[874] (apunte873x.png)
+l. 10654 Writing apunte.idv[875] (apunte874x.png)
+l. 10656 Writing apunte.idv[876] (apunte875x.png)
+l. 10657 Writing apunte.idv[877] (apunte876x.png)
+l. 10661 Writing apunte.idv[878] (apunte877x.png)
+l. 10662 Writing apunte.idv[879] (apunte878x.png)
+l. 10665 Writing apunte.idv[880] (apunte879x.png)
+[409]
+l. 10669 Writing apunte.idv[881] (apunte880x.png)
+l. 10673 Writing apunte.idv[882] (apunte881x.png)
+l. 10673 Writing apunte.idv[883] (apunte882x.png)
+l. 10673 Writing apunte.idv[884] (apunte883x.png)
+l. 10675 Writing apunte.idv[885] (apunte884x.png)
+l. 10679 Writing apunte.idv[886] (apunte885x.png)
+[410]
+l. 10682 Writing apunte.idv[887] (apunte886x.png)
+l. 10683 Writing apunte.idv[888] (apunte887x.png)
+l. 10685 Writing apunte.idv[889] (apunte888x.png)
+[411] [412] [413]
+l. 10792 Writing apunte.idv[890] (apunte889x.png)
+[414]
+l. 10801 Writing apunte.idv[891] (apunte890x.png)
+l. 10806 Writing apunte.idv[892] (apunte891x.png)
+l. 10809 Writing apunte.idv[893] (apunte892x.png)
+[415]
+l. 10817 Writing apunte.idv[894] (apunte893x.png)
+l. 10818 Writing apunte.idv[895] (apunte894x.png)
+l. 10820 Writing apunte.idv[896] (apunte895x.png)
+l. 10822 Writing apunte.idv[897] (apunte896x.png)
+l. 10841 Writing apunte.idv[898] (apunte897x.png)
+[416]
+l. 10850 Writing apunte.idv[899] (apunte898x.png)
+l. 10857 Writing apunte.idv[900] (apunte899x.png)
+[417]
+l. 10863 Writing apunte.idv[901] (apunte900x.png)
+l. 10868 Writing apunte.idv[902] (apunte901x.png)
+l. 10868 Writing apunte.idv[903] (apunte902x.png)
+l. 10892 Writing apunte.idv[904] (apunte903x.png)
+[418] [419]
+l. 10930 Writing apunte.idv[905] (apunte904x.png)
+[420] [421]
+l. 10962 Writing apunte.idv[906] (apunte905x.png)
+l. 10963 Writing apunte.idv[907] (apunte906x.png)
+l. 10964 Writing apunte.idv[908] (apunte907x.png)
+l. 10967 Writing apunte.idv[909] (apunte908x.png)
+l. 10968 Writing apunte.idv[910] (apunte909x.png)
+l. 10969 Writing apunte.idv[911] (apunte910x.png)
+[422] [423] [424]
+l. 11033 Writing apunte.idv[912] (apunte911x.png)
+l. 11037 Writing apunte.idv[913] (apunte912x.png)
+l. 11038 Writing apunte.idv[914] (apunte913x.png)
+[425]
+l. 11049 Writing apunte.idv[915] (apunte914x.png)
+l. 11057 Writing apunte.idv[916] (apunte915x.png)
+l. 11063 Writing apunte.idv[917] (apunte916x.png)
+[426] [427]
+l. 11081 Writing apunte.idv[918] (apunte917x.png)
+l. 11082 Writing apunte.idv[919] (apunte918x.png)
+l. 11087 Writing apunte.idv[920] (apunte919x.png)
+l. 11088 Writing apunte.idv[921] (apunte920x.png)
+[428]
+l. 11118 Writing apunte.idv[922] (apunte921x.png)
+l. 11124 Writing apunte.idv[923] (apunte922x.png)
+l. 11133 Writing apunte.idv[924] (apunte923x.png)
+l. 11134 Writing apunte.idv[925] (apunte924x.png)
+l. 11135 Writing apunte.idv[926] (apunte925x.png)
+[429] [430]
+l. 11174 Writing apunte.idv[927] (apunte926x.png)
+l. 11184 Writing apunte.idv[928] (apunte927x.png)
+[431]
+l. 11189 Writing apunte.idv[929] (apunte928x.png)
+l. 11193 Writing apunte.idv[930] (apunte929x.png)
+l. 11197 Writing apunte.idv[931] (apunte930x.png)
+[432]
+l. 11203 Writing apunte.idv[932] (apunte931x.png)
+l. 11207 Writing apunte.idv[933] (apunte932x.png)
+[433]
+l. 11212 Writing apunte.idv[934] (apunte933x.png)
+[434]
+l. 11238 Writing apunte.idv[935] (apunte934x.png)
+l. 11239 Writing apunte.idv[936] (apunte935x.png)
+l. 11240 Writing apunte.idv[937] (apunte936x.png)
+l. 11241 Writing apunte.idv[938] (apunte937x.png)
+l. 11242 Writing apunte.idv[939] (apunte938x.png)
+l. 11243 Writing apunte.idv[940] (apunte939x.png)
+l. 11244 Writing apunte.idv[941] (apunte940x.png)
+l. 11245 Writing apunte.idv[942] (apunte941x.png)
+[435]
+l. 11258 Writing apunte.idv[943] (apunte942x.png)
+[436]
+l. 11265 Writing apunte.idv[944] (apunte943x.png)
+l. 11273 Writing apunte.idv[945] (apunte944x.png)
+[437]
+l. 11297 Writing apunte.idv[946] (apunte945x.png)
+[438]
+l. 11340 Writing apunte.idv[947] (apunte946x.png)
+[439]
+l. 11352 Writing apunte.idv[948] (apunte947x.png)
+l. 11370 Writing apunte.idv[949] (apunte948x.png)
+l. 11371 Writing apunte.idv[950] (apunte949x.png)
+[440] [441]
+l. 11411 Writing apunte.idv[951] (apunte950x.png)
+l. 11411 Writing apunte.idv[952] (apunte951x.png)
+l. 11411 Writing apunte.idv[953] (apunte952x.png)
+l. 11420 Writing apunte.idv[954] (apunte953x.png)
+[442]
+l. 11427 Writing apunte.idv[955] (apunte954x.png)
+l. 11448 Writing apunte.idv[956] (apunte955x.png)
+l. 11454 Writing apunte.idv[957] (apunte956x.png)
+[443]
+l. 11466 Writing apunte.idv[958] (apunte957x.png)
+l. 11470 Writing apunte.idv[959] (apunte958x.png)
+[444]
+l. 11474 Writing apunte.idv[960] (apunte959x.png)
+[445]
+l. 11508 Writing apunte.idv[961] (apunte960x.png)
+l. 11512 Writing apunte.idv[962] (apunte961x.png)
+[446]
+l. 11522 Writing apunte.idv[963] (apunte962x.png)
+l. 11539 Writing apunte.idv[964] (apunte963x.png)
+[447]
+l. 11578 Writing apunte.idv[965] (apunte964x.png)
+[448]
+l. 11598 Writing apunte.idv[966] (apunte965x.png)
+l. 11600 Writing apunte.idv[967] (apunte966x.png)
+[449]
+l. 11607 Writing apunte.idv[968] (apunte967x.png)
+[450] [451]
+l. 11681 Writing apunte.idv[969] (apunte968x.png)
+[452] [453]
+l. 11763 Writing apunte.idv[970] (apunte969x.png)
+[454]
+l. 11817 Writing apunte.idv[971] (apunte970x.png)
+l. 11822 Writing apunte.idv[972] (apunte971x.png)
+[455] [456]
+l. 11879 Writing apunte.idv[973] (apunte972x.png)
+[457] [458] [459] [460]
+l. 12019 Writing apunte.idv[974] (apunte973x.png)
+[461]
+l. 12042 Writing apunte.idv[975] (apunte974x.png)
+[462]
+l. 12062 Writing apunte.idv[976] (apunte975x.png)
+[463]
+l. 12074 Writing apunte.idv[977] (apunte976x.png)
+[464] [465] [466] [467]
+l. 12206 Writing apunte.idv[978] (apunte977x.png)
+[468] [469] [470] [471] [472] [473]
+l. 12371 Writing apunte.idv[979] (apunte978x.png)
+l. 12379 Writing apunte.idv[980] (apunte979x.png)
+[474] [475]
+l. 12410 Writing apunte.idv[981] (apunte980x.png)
+[476]
+l. 12460 Writing apunte.idv[982] (apunte981x.png)
+[477] [478] [479] [480] [481] [482]
+l. 12610 Writing apunte.idv[983] (apunte982x.png)
+l. 12619 Writing apunte.idv[984] (apunte983x.png)
+[483]
+l. 12655 Writing apunte.idv[985] (apunte984x.png)
+[484] [485]
+l. 12703 Writing apunte.idv[986] (apunte985x.png)
+[486]
+l. 12726 Writing apunte.idv[987] (apunte986x.png)
+[487]
+l. 12777 Writing apunte.idv[988] (apunte987x.png)
+l. 12787 Writing apunte.idv[989] (apunte988x.png)
+[488] [489]
+l. 12824 Writing apunte.idv[990] (apunte989x.png)
+[490] [491]
+l. 12908 Writing apunte.idv[991] (apunte990x.png)
+[492] [493] [494]
+l. 12992 Writing apunte.idv[992] (apunte991x.png)
+[495] [496] [497]
+l. 13120 Writing apunte.idv[993] (apunte992x.png)
+[498]
+l. 13126 Writing apunte.idv[994] (apunte993x.png)
+[499]
+l. 13143 Writing apunte.idv[995] (apunte994x.png)
+l. 13146 Writing apunte.idv[996] (apunte995x.png)
+[500]
+l. 13165 Writing apunte.idv[997] (apunte996x.png)
+l. 13170 Writing apunte.idv[998] (apunte997x.png)
+[501] [502] [503] [504] [505] [506]
+l. 13321 Writing apunte.idv[999] (apunte998x.png)
+[507]
+l. 13351 Writing apunte.idv[1000] (apunte999x.png)
+l. 13361 Writing apunte.idv[1001] (apunte1000x.png)
+[508] [509]
+l. 13411 Writing apunte.idv[1002] (apunte1001x.png)
+l. 13411 Writing apunte.idv[1003] (apunte1002x.png)
+l. 13412 Writing apunte.idv[1004] (apunte1003x.png)
+l. 13412 Writing apunte.idv[1005] (apunte1004x.png)
+[510]
+l. 13421 Writing apunte.idv[1006] (apunte1005x.png)
+l. 13430 Writing apunte.idv[1007] (apunte1006x.png)
+[511]
+l. 13435 Writing apunte.idv[1008] (apunte1007x.png)
+l. 13435 Writing apunte.idv[1009] (apunte1008x.png)
+l. 13436 Writing apunte.idv[1010] (apunte1009x.png)
+l. 13436 Writing apunte.idv[1011] (apunte1010x.png)
+l. 13437 Writing apunte.idv[1012] (apunte1011x.png)
+l. 13437 Writing apunte.idv[1013] (apunte1012x.png)
+l. 13452 Writing apunte.idv[1014] (apunte1013x.png)
+l. 13452 Writing apunte.idv[1015] (apunte1014x.png)
+l. 13452 Writing apunte.idv[1016] (apunte1015x.png)
+l. 13452 Writing apunte.idv[1017] (apunte1016x.png)
+l. 13452 Writing apunte.idv[1018] (apunte1017x.png)
+l. 13454 Writing apunte.idv[1019] (apunte1018x.png)
+l. 13454 Writing apunte.idv[1020] (apunte1019x.png)
+[512]
+l. 13464 Writing apunte.idv[1021] (apunte1020x.png)
+[513]
+l. 13504 Writing apunte.idv[1022] (apunte1021x.png)
+[514]
+l. 13511 Writing apunte.idv[1023] (apunte1022x.png)
+l. 13511 Writing apunte.idv[1024] (apunte1023x.png)
+l. 13515 Writing apunte.idv[1025] (apunte1024x.png)
+l. 13515 Writing apunte.idv[1026] (apunte1025x.png)
+l. 13519 Writing apunte.idv[1027] (apunte1026x.png)
+l. 13519 Writing apunte.idv[1028] (apunte1027x.png)
+[515] [516] [517]
+l. 13583 Writing apunte.idv[1029] (apunte1028x.png)
+l. 13583 Writing apunte.idv[1030] (apunte1029x.png)
+l. 13584 Writing apunte.idv[1031] (apunte1030x.png)
+l. 13587 Writing apunte.idv[1032] (apunte1031x.png)
+[518]
+l. 13644 Writing apunte.idv[1033] (apunte1032x.png)
+[519] [520] [521] [522]
+l. 13768 Writing apunte.idv[1034] (apunte1033x.png)
+l. 13768 Writing apunte.idv[1035] (apunte1034x.png)
+l. 13772 Writing apunte.idv[1036] (apunte1035x.png)
+l. 13772 Writing apunte.idv[1037] (apunte1036x.png)
+[523] [524]
+l. 13821 Writing apunte.idv[1038] (apunte1037x.png)
+l. 13828 Writing apunte.idv[1039] (apunte1038x.png)
+l. 13828 Writing apunte.idv[1040] (apunte1039x.png)
+l. 13832 Writing apunte.idv[1041] (apunte1040x.png)
+l. 13832 Writing apunte.idv[1042] (apunte1041x.png)
+[525]
+l. 13836 Writing apunte.idv[1043] (apunte1042x.png)
+l. 13836 Writing apunte.idv[1044] (apunte1043x.png)
+[526] [527]
+l. 13919 Writing apunte.idv[1045] (apunte1044x.png)
+l. 13929 Writing apunte.idv[1046] (apunte1045x.png)
+[528]
+l. 13936 Writing apunte.idv[1047] (apunte1046x.png)
+l. 13938 Writing apunte.idv[1048] (apunte1047x.png)
+[529]
+l. 13971 Writing apunte.idv[1049] (apunte1048x.png)
+l. 13978 Writing apunte.idv[1050] (apunte1049x.png)
+l. 13985 Writing apunte.idv[1051] (apunte1050x.png)
+l. 13991 Writing apunte.idv[1052] (apunte1051x.png)
+[530] [531] [532] [533]
+l. 14126 Writing apunte.idv[1053] (apunte1052x.png)
+l. 14129 Writing apunte.idv[1054] (apunte1053x.png)
+l. 14133 Writing apunte.idv[1055] (apunte1054x.png)
+l. 14137 Writing apunte.idv[1056] (apunte1055x.png)
+l. 14141 Writing apunte.idv[1057] (apunte1056x.png)
+l. 14141 Writing apunte.idv[1058] (apunte1057x.png)
+l. 14142 Writing apunte.idv[1059] (apunte1058x.png)
+l. 14146 Writing apunte.idv[1060] (apunte1059x.png)
+l. 14146 Writing apunte.idv[1061] (apunte1060x.png)
+l. 14147 Writing apunte.idv[1062] (apunte1061x.png)
+l. 14151 Writing apunte.idv[1063] (apunte1062x.png)
+l. 14151 Writing apunte.idv[1064] (apunte1063x.png)
+l. 14156 Writing apunte.idv[1065] (apunte1064x.png)
+l. 14156 Writing apunte.idv[1066] (apunte1065x.png)
+l. 14157 Writing apunte.idv[1067] (apunte1066x.png)
+l. 14162 Writing apunte.idv[1068] (apunte1067x.png)
+[534]
+l. 14166 Writing apunte.idv[1069] (apunte1068x.png)
+l. 14167 Writing apunte.idv[1070] (apunte1069x.png)
+l. 14171 Writing apunte.idv[1071] (apunte1070x.png)
+l. 14172 Writing apunte.idv[1072] (apunte1071x.png)
+l. 14175 Writing apunte.idv[1073] (apunte1072x.png)
+l. 14179 Writing apunte.idv[1074] (apunte1073x.png)
+l. 14185 Writing apunte.idv[1075] (apunte1074x.png)
+l. 14193 Writing apunte.idv[1076] (apunte1075x.png)
+l. 14193 Writing apunte.idv[1077] (apunte1076x.png)
+l. 14205 Writing apunte.idv[1078] (apunte1077x.png)
+l. 14206 Writing apunte.idv[1079] (apunte1078x.png)
+l. 14210 Writing apunte.idv[1080] (apunte1079x.png)
+l. 14211 Writing apunte.idv[1081] (apunte1080x.png)
+l. 14212 Writing apunte.idv[1082] (apunte1081x.png)
+l. 14212 Writing apunte.idv[1083] (apunte1082x.png)
+l. 14214 Writing apunte.idv[1084] (apunte1083x.png)
+l. 14214 Writing apunte.idv[1085] (apunte1084x.png)
+l. 14215 Writing apunte.idv[1086] (apunte1085x.png)
+l. 14216 Writing apunte.idv[1087] (apunte1086x.png)
+[535]
+l. 14238 Writing apunte.idv[1088] (apunte1087x.png)
+l. 14239 Writing apunte.idv[1089] (apunte1088x.png)
+l. 14240 Writing apunte.idv[1090] (apunte1089x.png)
+l. 14243 Writing apunte.idv[1091] (apunte1090x.png)
+l. 14244 Writing apunte.idv[1092] (apunte1091x.png)
+l. 14245 Writing apunte.idv[1093] (apunte1092x.png)
+l. 14246 Writing apunte.idv[1094] (apunte1093x.png)
+l. 14246 Writing apunte.idv[1095] (apunte1094x.png)
+l. 14254 Writing apunte.idv[1096] (apunte1095x.png)
+l. 14255 Writing apunte.idv[1097] (apunte1096x.png)
+l. 14268 Writing apunte.idv[1098] (apunte1097x.png)
+[536]
+l. 14280 Writing apunte.idv[1099] (apunte1098x.png)
+l. 14280 Writing apunte.idv[1100] (apunte1099x.png)
+[537]
+l. 14304 Writing apunte.idv[1101] (apunte1100x.png)
+l. 14305 Writing apunte.idv[1102] (apunte1101x.png)
+l. 14307 Writing apunte.idv[1103] (apunte1102x.png)
+l. 14308 Writing apunte.idv[1104] (apunte1103x.png)
+l. 14309 Writing apunte.idv[1105] (apunte1104x.png)
+l. 14311 Writing apunte.idv[1106] (apunte1105x.png)
+l. 14312 Writing apunte.idv[1107] (apunte1106x.png)
+l. 14313 Writing apunte.idv[1108] (apunte1107x.png)
+l. 14315 Writing apunte.idv[1109] (apunte1108x.png)
+l. 14317 Writing apunte.idv[1110] (apunte1109x.png)
+[538]
+l. 14349 Writing apunte.idv[1111] (apunte1110x.png)
+l. 14359 Writing apunte.idv[1112] (apunte1111x.png)
+[539] [540]
+l. 14401 Writing apunte.idv[1113] (apunte1112x.png)
+l. 14401 Writing apunte.idv[1114] (apunte1113x.png)
+l. 14413 Writing apunte.idv[1115] (apunte1114x.png)
+l. 14413 Writing apunte.idv[1116] (apunte1115x.png)
+[541] [542] [543] [544] [545] [546] [547] [548] [549] [550] [551] [552] [553] [
+554] [555]
+l. 14808 Writing apunte.idv[1117] (apunte1116x.png)
+[556] [557] [558] [559]
+l. 14902 Writing apunte.idv[1118] (apunte1117x.png)
+l. 14903 Writing apunte.idv[1119] (apunte1118x.png)
+l. 14907 Writing apunte.idv[1120] (apunte1119x.png)
+[560] [561]
+l. 14971 Writing apunte.idv[1121] (apunte1120x.png)
+l. 14978 Writing apunte.idv[1122] (apunte1121x.png)
+l. 14982 Writing apunte.idv[1123] (apunte1122x.png)
+l. 14986 Writing apunte.idv[1124] (apunte1123x.png)
+l. 14986 Writing apunte.idv[1125] (apunte1124x.png)
+l. 14987 Writing apunte.idv[1126] (apunte1125x.png)
+[562]
+l. 14991 Writing apunte.idv[1127] (apunte1126x.png)
+l. 14991 Writing apunte.idv[1128] (apunte1127x.png)
+l. 14992 Writing apunte.idv[1129] (apunte1128x.png)
+l. 14996 Writing apunte.idv[1130] (apunte1129x.png)
+l. 14996 Writing apunte.idv[1131] (apunte1130x.png)
+l. 15001 Writing apunte.idv[1132] (apunte1131x.png)
+l. 15002 Writing apunte.idv[1133] (apunte1132x.png)
+l. 15002 Writing apunte.idv[1134] (apunte1133x.png)
+l. 15007 Writing apunte.idv[1135] (apunte1134x.png)
+l. 15011 Writing apunte.idv[1136] (apunte1135x.png)
+l. 15011 Writing apunte.idv[1137] (apunte1136x.png)
+l. 15017 Writing apunte.idv[1138] (apunte1137x.png)
+l. 15017 Writing apunte.idv[1139] (apunte1138x.png)
+l. 15022 Writing apunte.idv[1140] (apunte1139x.png)
+l. 15022 Writing apunte.idv[1141] (apunte1140x.png)
+l. 15028 Writing apunte.idv[1142] (apunte1141x.png)
+l. 15028 Writing apunte.idv[1143] (apunte1142x.png)
+[563] [564] [565]
+l. 15116 Writing apunte.idv[1144] (apunte1143x.png)
+l. 15116 Writing apunte.idv[1145] (apunte1144x.png)
+[566]
+l. 15140 Writing apunte.idv[1146] (apunte1145x.png)
+[567]
+l. 15163 Writing apunte.idv[1147] (apunte1146x.png)
+l. 15165 Writing apunte.idv[1148] (apunte1147x.png)
+l. 15167 Writing apunte.idv[1149] (apunte1148x.png)
+l. 15169 Writing apunte.idv[1150] (apunte1149x.png)
+l. 15171 Writing apunte.idv[1151] (apunte1150x.png)
+[568]
+l. 15187 Writing apunte.idv[1152] (apunte1151x.png)
+l. 15189 Writing apunte.idv[1153] (apunte1152x.png)
+[569]
+l. 15215 Writing apunte.idv[1154] (apunte1153x.png)
+[570]
+l. 15239 Writing apunte.idv[1155] (apunte1154x.png)
+[571]
+l. 15298 Writing apunte.idv[1156] (apunte1155x.png)
+[572] [573] [574]
+l. 15349 Writing apunte.idv[1157] (apunte1156x.png)
+[575] [576]
+l. 15414 Writing apunte.idv[1158] (apunte1157x.png)
+[577]
+l. 15469 Writing apunte.idv[1159] (apunte1158x.png)
+[578]
+l. 15491 Writing apunte.idv[1160] (apunte1159x.png)
+l. 15500 Writing apunte.idv[1161] (apunte1160x.png)
+[579] [580]
+l. 15542 Writing apunte.idv[1162] (apunte1161x.png)
+[581] [582]
+l. 15610 Writing apunte.idv[1163] (apunte1162x.png)
+[583]
+l. 15618 Writing apunte.idv[1164] (apunte1163x.png)
+l. 15620 Writing apunte.idv[1165] (apunte1164x.png)
+l. 15620 Writing apunte.idv[1166] (apunte1165x.png)
+l. 15621 Writing apunte.idv[1167] (apunte1166x.png)
+l. 15625 Writing apunte.idv[1168] (apunte1167x.png)
+l. 15635 Writing apunte.idv[1169] (apunte1168x.png)
+l. 15635 Writing apunte.idv[1170] (apunte1169x.png)
+l. 15635 Writing apunte.idv[1171] (apunte1170x.png)
+l. 15635 Writing apunte.idv[1172] (apunte1171x.png)
+l. 15640 Writing apunte.idv[1173] (apunte1172x.png)
+l. 15640 Writing apunte.idv[1174] (apunte1173x.png)
+l. 15640 Writing apunte.idv[1175] (apunte1174x.png)
+l. 15640 Writing apunte.idv[1176] (apunte1175x.png)
+l. 15656 Writing apunte.idv[1177] (apunte1176x.png)
+l. 15656 Writing apunte.idv[1178] (apunte1177x.png)
+l. 15658 Writing apunte.idv[1179] (apunte1178x.png)
+l. 15658 Writing apunte.idv[1180] (apunte1179x.png)
+l. 15660 Writing apunte.idv[1181] (apunte1180x.png)
+l. 15660 Writing apunte.idv[1182] (apunte1181x.png)
+l. 15662 Writing apunte.idv[1183] (apunte1182x.png)
+l. 15662 Writing apunte.idv[1184] (apunte1183x.png)
+[584]
+l. 15673 Writing apunte.idv[1185] (apunte1184x.png)
+l. 15673 Writing apunte.idv[1186] (apunte1185x.png)
+l. 15675 Writing apunte.idv[1187] (apunte1186x.png)
+l. 15675 Writing apunte.idv[1188] (apunte1187x.png)
+l. 15675 Writing apunte.idv[1189] (apunte1188x.png)
+l. 15675 Writing apunte.idv[1190] (apunte1189x.png)
+l. 15677 Writing apunte.idv[1191] (apunte1190x.png)
+l. 15677 Writing apunte.idv[1192] (apunte1191x.png)
+l. 15677 Writing apunte.idv[1193] (apunte1192x.png)
+l. 15677 Writing apunte.idv[1194] (apunte1193x.png)
+l. 15679 Writing apunte.idv[1195] (apunte1194x.png)
+l. 15679 Writing apunte.idv[1196] (apunte1195x.png)
+[585] [586]
+l. 15736 Writing apunte.idv[1197] (apunte1196x.png)
+[587]
+l. 15750 Writing apunte.idv[1198] (apunte1197x.png)
+[588] [589] [590]
+l. 15821 Writing apunte.idv[1199] (apunte1198x.png)
+l. 15823 Writing apunte.idv[1200] (apunte1199x.png)
+l. 15826 Writing apunte.idv[1201] (apunte1200x.png)
+[591]
+l. 15849 Writing apunte.idv[1202] (apunte1201x.png)
+l. 15851 Writing apunte.idv[1203] (apunte1202x.png)
+l. 15851 Writing apunte.idv[1204] (apunte1203x.png)
+l. 15853 Writing apunte.idv[1205] (apunte1204x.png)
+l. 15853 Writing apunte.idv[1206] (apunte1205x.png)
+[592]
+l. 15888 Writing apunte.idv[1207] (apunte1206x.png)
+l. 15889 Writing apunte.idv[1208] (apunte1207x.png)
+l. 15891 Writing apunte.idv[1209] (apunte1208x.png)
+l. 15896 Writing apunte.idv[1210] (apunte1209x.png)
+l. 15897 Writing apunte.idv[1211] (apunte1210x.png)
+[593]
+l. 15942 Writing apunte.idv[1212] (apunte1211x.png)
+l. 15949 Writing apunte.idv[1213] (apunte1212x.png)
+[594] [595] [596] [597] [598] [599] [600] [601] [602]
+l. 16225 Writing apunte.idv[1214] (apunte1213x.png)
+l. 16240 Writing apunte.idv[1215] (apunte1214x.png)
+[603]
+l. 16249 Writing apunte.idv[1216] (apunte1215x.png)
+[604]
+l. 16307 Writing apunte.idv[1217] (apunte1216x.png)
+[605]
+l. 16330 Writing apunte.idv[1218] (apunte1217x.png)
+l. 16330 Writing apunte.idv[1219] (apunte1218x.png)
+l. 16330 Writing apunte.idv[1220] (apunte1219x.png)
+[606] [607]
+l. 16437 Writing apunte.idv[1221] (apunte1220x.png)
+[608]
+l. 16442 Writing apunte.idv[1222] (apunte1221x.png)
+l. 16455 Writing apunte.idv[1223] (apunte1222x.png)
+[609]
+l. 16495 Writing apunte.idv[1224] (apunte1223x.png)
+l. 16496 Writing apunte.idv[1225] (apunte1224x.png)
+[610] [611]
+l. 16538 Writing apunte.idv[1226] (apunte1225x.png)
+l. 16542 Writing apunte.idv[1227] (apunte1226x.png)
+[612]
+l. 16554 Writing apunte.idv[1228] (apunte1227x.png)
+l. 16555 Writing apunte.idv[1229] (apunte1228x.png)
+l. 16557 Writing apunte.idv[1230] (apunte1229x.png)
+[613] [614]
+l. 16622 Writing apunte.idv[1231] (apunte1230x.png)
+l. 16623 Writing apunte.idv[1232] (apunte1231x.png)
+l. 16628 Writing apunte.idv[1233] (apunte1232x.png)
+l. 16629 Writing apunte.idv[1234] (apunte1233x.png)
+[615]
+l. 16635 Writing apunte.idv[1235] (apunte1234x.png)
+l. 16635 Writing apunte.idv[1236] (apunte1235x.png)
+l. 16641 Writing apunte.idv[1237] (apunte1236x.png)
+[616] [617] [618] [619]
+l. 16722 Writing apunte.idv[1238] (apunte1237x.png)
+[620]
+l. 16770 Writing apunte.idv[1239] (apunte1238x.png)
+[621]
+l. 16779 Writing apunte.idv[1240] (apunte1239x.png)
+l. 16780 Writing apunte.idv[1241] (apunte1240x.png)
+[622] [623] [624]
+l. 16907 Writing apunte.idv[1242] (apunte1241x.png)
+l. 16910 Writing apunte.idv[1243] (apunte1242x.png)
+l. 16915 Writing apunte.idv[1244] (apunte1243x.png)
+l. 16915 Writing apunte.idv[1245] (apunte1244x.png)
+l. 16915 Writing apunte.idv[1246] (apunte1245x.png)
+l. 16916 Writing apunte.idv[1247] (apunte1246x.png)
+l. 16920 Writing apunte.idv[1248] (apunte1247x.png)
+[625]
+l. 16926 Writing apunte.idv[1249] (apunte1248x.png)
+[626]
+l. 16959 Writing apunte.idv[1250] (apunte1249x.png)
+[627]
+l. 16974 Writing apunte.idv[1251] (apunte1250x.png)
+[628]
+l. 16993 Writing apunte.idv[1252] (apunte1251x.png)
+l. 16993 Writing apunte.idv[1253] (apunte1252x.png)
+l. 16997 Writing apunte.idv[1254] (apunte1253x.png)
+l. 16997 Writing apunte.idv[1255] (apunte1254x.png)
+[629]
+l. 17008 Writing apunte.idv[1256] (apunte1255x.png)
+l. 17009 Writing apunte.idv[1257] (apunte1256x.png)
+l. 17022 Writing apunte.idv[1258] (apunte1257x.png)
+l. 17023 Writing apunte.idv[1259] (apunte1258x.png)
+l. 17023 Writing apunte.idv[1260] (apunte1259x.png)
+l. 17024 Writing apunte.idv[1261] (apunte1260x.png)
+l. 17025 Writing apunte.idv[1262] (apunte1261x.png)
+[630]
+l. 17033 Writing apunte.idv[1263] (apunte1262x.png)
+l. 17034 Writing apunte.idv[1264] (apunte1263x.png)
+l. 17042 Writing apunte.idv[1265] (apunte1264x.png)
+l. 17047 Writing apunte.idv[1266] (apunte1265x.png)
+[631]
+l. 17058 Writing apunte.idv[1267] (apunte1266x.png)
+l. 17066 Writing apunte.idv[1268] (apunte1267x.png)
+l. 17072 Writing apunte.idv[1269] (apunte1268x.png)
+l. 17073 Writing apunte.idv[1270] (apunte1269x.png)
+[632]
+l. 17096 Writing apunte.idv[1271] (apunte1270x.png)
+l. 17100 Writing apunte.idv[1272] (apunte1271x.png)
+l. 17102 Writing apunte.idv[1273] (apunte1272x.png)
+l. 17102 Writing apunte.idv[1274] (apunte1273x.png)
+l. 17102 Writing apunte.idv[1275] (apunte1274x.png)
+l. 17107 Writing apunte.idv[1276] (apunte1275x.png)
+l. 17107 Writing apunte.idv[1277] (apunte1276x.png)
+l. 17107 Writing apunte.idv[1278] (apunte1277x.png)
+l. 17107 Writing apunte.idv[1279] (apunte1278x.png)
+l. 17112 Writing apunte.idv[1280] (apunte1279x.png)
+[633] [634]
+l. 17124 Writing apunte.idv[1281] (apunte1280x.png)
+l. 17130 Writing apunte.idv[1282] (apunte1281x.png)
+l. 17131 Writing apunte.idv[1283] (apunte1282x.png)
+l. 17132 Writing apunte.idv[1284] (apunte1283x.png)
+l. 17132 Writing apunte.idv[1285] (apunte1284x.png)
+l. 17132 Writing apunte.idv[1286] (apunte1285x.png)
+l. 17134 Writing apunte.idv[1287] (apunte1286x.png)
+l. 17134 Writing apunte.idv[1288] (apunte1287x.png)
+l. 17143 Writing apunte.idv[1289] (apunte1288x.png)
+l. 17143 Writing apunte.idv[1290] (apunte1289x.png)
+l. 17143 Writing apunte.idv[1291] (apunte1290x.png)
+l. 17148 Writing apunte.idv[1292] (apunte1291x.png)
+l. 17148 Writing apunte.idv[1293] (apunte1292x.png)
+l. 17148 Writing apunte.idv[1294] (apunte1293x.png)
+[635]
+l. 17157 Writing apunte.idv[1295] (apunte1294x.png)
+l. 17163 Writing apunte.idv[1296] (apunte1295x.png)
+l. 17163 Writing apunte.idv[1297] (apunte1296x.png)
+l. 17163 Writing apunte.idv[1298] (apunte1297x.png)
+l. 17165 Writing apunte.idv[1299] (apunte1298x.png)
+l. 17165 Writing apunte.idv[1300] (apunte1299x.png)
+l. 17165 Writing apunte.idv[1301] (apunte1300x.png)
+l. 17165 Writing apunte.idv[1302] (apunte1301x.png)
+l. 17165 Writing apunte.idv[1303] (apunte1302x.png)
+l. 17165 Writing apunte.idv[1304] (apunte1303x.png)
+l. 17171 Writing apunte.idv[1305] (apunte1304x.png)
+[636]
+l. 17181 Writing apunte.idv[1306] (apunte1305x.png)
+l. 17181 Writing apunte.idv[1307] (apunte1306x.png)
+l. 17181 Writing apunte.idv[1308] (apunte1307x.png)
+l. 17183 Writing apunte.idv[1309] (apunte1308x.png)
+l. 17183 Writing apunte.idv[1310] (apunte1309x.png)
+l. 17183 Writing apunte.idv[1311] (apunte1310x.png)
+l. 17183 Writing apunte.idv[1312] (apunte1311x.png)
+l. 17197 Writing apunte.idv[1313] (apunte1312x.png)
+l. 17197 Writing apunte.idv[1314] (apunte1313x.png)
+l. 17197 Writing apunte.idv[1315] (apunte1314x.png)
+l. 17199 Writing apunte.idv[1316] (apunte1315x.png)
+l. 17199 Writing apunte.idv[1317] (apunte1316x.png)
+l. 17199 Writing apunte.idv[1318] (apunte1317x.png)
+l. 17199 Writing apunte.idv[1319] (apunte1318x.png)
+[637]
+l. 17217 Writing apunte.idv[1320] (apunte1319x.png)
+l. 17218 Writing apunte.idv[1321] (apunte1320x.png)
+l. 17219 Writing apunte.idv[1322] (apunte1321x.png)
+l. 17220 Writing apunte.idv[1323] (apunte1322x.png)
+l. 17228 Writing apunte.idv[1324] (apunte1323x.png)
+l. 17229 Writing apunte.idv[1325] (apunte1324x.png)
+[638]
+l. 17242 Writing apunte.idv[1326] (apunte1325x.png)
+l. 17242 Writing apunte.idv[1327] (apunte1326x.png)
+l. 17243 Writing apunte.idv[1328] (apunte1327x.png)
+l. 17253 Writing apunte.idv[1329] (apunte1328x.png)
+l. 17254 Writing apunte.idv[1330] (apunte1329x.png)
+[639]
+l. 17260 Writing apunte.idv[1331] (apunte1330x.png)
+l. 17262 Writing apunte.idv[1332] (apunte1331x.png)
+l. 17264 Writing apunte.idv[1333] (apunte1332x.png)
+l. 17269 Writing apunte.idv[1334] (apunte1333x.png)
+l. 17271 Writing apunte.idv[1335] (apunte1334x.png)
+[640] [641]
+l. 17303 Writing apunte.idv[1336] (apunte1335x.png)
+[642]
+l. 17325 Writing apunte.idv[1337] (apunte1336x.png)
+[643] [644]
+l. 17383 Writing apunte.idv[1338] (apunte1337x.png)
+l. 17386 Writing apunte.idv[1339] (apunte1338x.png)
+l. 17392 Writing apunte.idv[1340] (apunte1339x.png)
+[645] [646]
+l. 17452 Writing apunte.idv[1341] (apunte1340x.png)
+[647] [648] [649] [650]
+l. 17559 Writing apunte.idv[1342] (apunte1341x.png)
+[651] [652] [653] [654] [655]
+l. 17687 Writing apunte.idv[1343] (apunte1342x.png)
+l. 17696 Writing apunte.idv[1344] (apunte1343x.png)
+[656]
+l. 17704 Writing apunte.idv[1345] (apunte1344x.png)
+[657]
+l. 17733 Writing apunte.idv[1346] (apunte1345x.png)
+[658] [659] [660]
+l. 17818 Writing apunte.idv[1347] (apunte1346x.png)
+l. 17822 Writing apunte.idv[1348] (apunte1347x.png)
+l. 17822 Writing apunte.idv[1349] (apunte1348x.png)
+l. 17822 Writing apunte.idv[1350] (apunte1349x.png)
+[661] [662] [663] [664]
+l. 17928 Writing apunte.idv[1351] (apunte1350x.png)
+[665]
+l. 17965 Writing apunte.idv[1352] (apunte1351x.png)
+l. 17967 Writing apunte.idv[1353] (apunte1352x.png)
+l. 17970 Writing apunte.idv[1354] (apunte1353x.png)
+l. 17977 Writing apunte.idv[1355] (apunte1354x.png)
+l. 17977 Writing apunte.idv[1356] (apunte1355x.png)
+l. 17978 Writing apunte.idv[1357] (apunte1356x.png)
+l. 17979 Writing apunte.idv[1358] (apunte1357x.png)
+l. 17982 Writing apunte.idv[1359] (apunte1358x.png)
+[666]
+l. 17987 Writing apunte.idv[1360] (apunte1359x.png)
+l. 17993 Writing apunte.idv[1361] (apunte1360x.png)
+l. 17994 Writing apunte.idv[1362] (apunte1361x.png)
+[667]
+l. 18029 Writing apunte.idv[1363] (apunte1362x.png)
+l. 18035 Writing apunte.idv[1364] (apunte1363x.png)
+[668] [669] [670] [671]
+l. 18130 Writing apunte.idv[1365] (apunte1364x.png)
+l. 18135 Writing apunte.idv[1366] (apunte1365x.png)
+[672]
+l. 18153 Writing apunte.idv[1367] (apunte1366x.png)
+l. 18155 Writing apunte.idv[1368] (apunte1367x.png)
+[673]
+l. 18173 Writing apunte.idv[1369] (apunte1368x.png)
+l. 18174 Writing apunte.idv[1370] (apunte1369x.png)
+[674]
+l. 18199 Writing apunte.idv[1371] (apunte1370x.png)
+[675] [676] [677] [678]
+l. 18289 Writing apunte.idv[1372] (apunte1371x.png)
+l. 18291 Writing apunte.idv[1373] (apunte1372x.png)
+[679]
+l. 18314 Writing apunte.idv[1374] (apunte1373x.png)
+l. 18335 Writing apunte.idv[1375] (apunte1374x.png)
+l. 18336 Writing apunte.idv[1376] (apunte1375x.png)
+l. 18339 Writing apunte.idv[1377] (apunte1376x.png)
+[680]
+l. 18344 Writing apunte.idv[1378] (apunte1377x.png)
+l. 18371 Writing apunte.idv[1379] (apunte1378x.png)
+[681]
+l. 18379 Writing apunte.idv[1380] (apunte1379x.png)
+l. 18387 Writing apunte.idv[1381] (apunte1380x.png)
+l. 18390 Writing apunte.idv[1382] (apunte1381x.png)
+[682]
+l. 18404 Writing apunte.idv[1383] (apunte1382x.png)
+[683]
+l. 18446 Writing apunte.idv[1384] (apunte1383x.png)
+l. 18447 Writing apunte.idv[1385] (apunte1384x.png)
+[684] [685] [686] [687]
+l. 18559 Writing apunte.idv[1386] (apunte1385x.png)
+l. 18560 Writing apunte.idv[1387] (apunte1386x.png)
+[688] [689]
+l. 18601 Writing apunte.idv[1388] (apunte1387x.png)
+[690]
+l. 18627 Writing apunte.idv[1389] (apunte1388x.png)
+l. 18636 Writing apunte.idv[1390] (apunte1389x.png)
+[691]
+l. 18657 Writing apunte.idv[1391] (apunte1390x.png)
+[692] [693] [694] [695]
+l. 18762 Writing apunte.idv[1392] (apunte1391x.png)
+l. 18762 Writing apunte.idv[1393] (apunte1392x.png)
+[696]
+l. 18767 Writing apunte.idv[1394] (apunte1393x.png)
+l. 18768 Writing apunte.idv[1395] (apunte1394x.png)
+[697] [698] [699]
+l. 18863 Writing apunte.idv[1396] (apunte1395x.png)
+[700]
+l. 18869 Writing apunte.idv[1397] (apunte1396x.png)
+l. 18878 Writing apunte.idv[1398] (apunte1397x.png)
+[701]
+l. 18912 Writing apunte.idv[1399] (apunte1398x.png)
+[702]
+l. 18919 Writing apunte.idv[1400] (apunte1399x.png)
+l. 18925 Writing apunte.idv[1401] (apunte1400x.png)
+l. 18931 Writing apunte.idv[1402] (apunte1401x.png)
+[703]
+l. 18937 Writing apunte.idv[1403] (apunte1402x.png)
+[704]
+l. 18959 Writing apunte.idv[1404] (apunte1403x.png)
+[705]
+l. 18974 Writing apunte.idv[1405] (apunte1404x.png)
+[706]
+l. 18998 Writing apunte.idv[1406] (apunte1405x.png)
+l. 19003 Writing apunte.idv[1407] (apunte1406x.png)
+l. 19003 Writing apunte.idv[1408] (apunte1407x.png)
+l. 19008 Writing apunte.idv[1409] (apunte1408x.png)
+l. 19008 Writing apunte.idv[1410] (apunte1409x.png)
+[707]
+l. 19013 Writing apunte.idv[1411] (apunte1410x.png)
+l. 19013 Writing apunte.idv[1412] (apunte1411x.png)
+l. 19018 Writing apunte.idv[1413] (apunte1412x.png)
+l. 19018 Writing apunte.idv[1414] (apunte1413x.png)
+l. 19018 Writing apunte.idv[1415] (apunte1414x.png)
+l. 19022 Writing apunte.idv[1416] (apunte1415x.png)
+[708] [709]
+l. 19062 Writing apunte.idv[1417] (apunte1416x.png)
+l. 19063 Writing apunte.idv[1418] (apunte1417x.png)
+[710] (./apunte.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10552 strings out of 481240
+ 143518 string characters out of 5920403
+ 465837 words of memory out of 5000000
+ 25660 multiletter control sequences out of 15000+600000
+ 543763 words of font info for 67 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 33i,21n,37p,1428b,679s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on apunte.dvi (710 pages, 2960512 bytes).

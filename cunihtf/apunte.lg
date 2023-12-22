@@ -1,0 +1,1603 @@
+htfcss: cmbxti  font-weight: bold; font-style: italic;
+htfcss: cmti  font-style: italic;
+htfcss: cmss   font-family: sans-serif;
+htfcss: cmssbx  font-family: sans-serif; font-weight: bold;
+htfcss: cmssbxo  font-family: sans-serif; font-style: oblique; font-weight: bold;
+htfcss: cmssdc  font-family: sans-serif;
+htfcss: cmssi  font-family: sans-serif; font-style: oblique;
+htfcss: cmss   font-family: sans-serif;
+htfcss: cmssbx  font-family: sans-serif; font-weight: bold;
+htfcss: cmssbxo  font-family: sans-serif; font-style: oblique; font-weight: bold;
+htfcss: cmssdc  font-family: sans-serif;
+htfcss: cmssi  font-family: sans-serif; font-style: oblique;
+htfcss: cmitt font-family: monospace,monospace; font-style: italic;
+htfcss: cmtt font-family: monospace,monospace;
+htfcss: cmbx  font-weight: bold;
+htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: cmbx  font-weight: bold;
+htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: cmbx  font-weight: bold;
+htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: cmtt font-family: monospace,monospace;
+htfcss: cmmi font-style: italic;
+htfcss: cmmib font-style: italic; font-weight: bold;
+File: apunte.html
+File: apunte.css
+File: apunte.tmp
+Css: p{margin-top:0;margin-bottom:0}
+Css: p.indent{text-indent:0;}
+Css: p + p{margin-top:1em;}
+Css: p + div, p + pre {margin-top:1em;}
+Css: div + p, pre + p {margin-top:1em;}
+Css: @media print {div.crosslinks {visibility:hidden;}}
+Css: a img { border-top: 0; border-left: 0; border-right: 0; }
+Font_Css("4"): .small-caps{font-variant: small-caps; }
+Font_Css("10"): .htf-cmbx {font-weight: bold; font-style:normal;}
+Font_Css("12"): .htf-calligraphy {font-family:cursive}
+Font_Css("14"): .htf-italic {font-style: italic;}
+Font_Css("16"): .htf-bold {font-weight: bold;}
+Font_Css("12"): .htf-calligraphy-bold {font-family:cursive ; font-weight: bold; }
+Css: center { margin-top:1em; margin-bottom:1em; }
+Css: td center { margin-top:0em; margin-bottom:0em; }
+Css: .Canvas { position:relative; }
+Css: img.math{vertical-align:middle;}
+Css: li p.indent { text-indent: 0em }
+Css: li p:first-child{ margin-top:0em; }
+Css: li p:last-child, li div:last-child { margin-bottom:0.5em; }
+Css: li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }
+Css: .enumerate1 {list-style-type:decimal;}
+Css: .enumerate2 {list-style-type:lower-alpha;}
+Css: .enumerate3 {list-style-type:lower-roman;}
+Css: .enumerate4 {list-style-type:upper-alpha;}
+Css: div.newtheorem { margin-bottom: 2em; margin-top: 2em;}
+Css: .obeylines-h,.obeylines-v {white-space: nowrap; }
+Css: div.obeylines-v p { margin-top:0; margin-bottom:0; }
+Css: .overline{ text-decoration:overline; }
+Css: .overline img{ border-top: 1px solid black; }
+Css: td.displaylines {text-align:center; white-space:nowrap;}
+Css: .centerline {text-align:center;}
+Css: .rightline {text-align:right;}
+Css: div.verbatim {font-family: monospace,monospace; white-space: nowrap; text-align:left; clear:both; }
+Css: .fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.fbox {display:table}
+Css: div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.minipage{width:100%;}
+Css: div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}
+Css: div.center div {text-align: left;}
+Css: div.flushright, div.flushright div.flushright {text-align: right;}
+Css: div.flushright div {text-align: left;}
+Css: div.flushleft {text-align: left;}
+Css: .underline{ text-decoration:underline; }
+Css: .underline img{ border-bottom: 1px solid black; margin-bottom:1pt; }
+Css: .framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: .framebox-c {text-align:center;}
+Css: .framebox-l {text-align:left;}
+Css: .framebox-r {text-align:right;}
+Css: span.thank-mark{ vertical-align: super }
+Css: span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%; }
+Css: div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+Css: table.tabular td p{margin-top:0em;}
+Css: table.tabular {margin-left: auto; margin-right: auto;}
+Css: td p:first-child{ margin-top:0em; }
+Css: td p:last-child{ margin-bottom:0em; }
+Css: div.td00{ margin-left:0pt; margin-right:0pt; }
+Css: div.td01{ margin-left:0pt; margin-right:5pt; }
+Css: div.td10{ margin-left:5pt; margin-right:0pt; }
+Css: div.td11{ margin-left:5pt; margin-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: td.td00{ padding-left:0pt; padding-right:0pt; }
+Css: td.td01{ padding-left:0pt; padding-right:5pt; }
+Css: td.td10{ padding-left:5pt; padding-right:0pt; }
+Css: td.td11{ padding-left:5pt; padding-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: .hline hr, .cline hr{ height : 0px; margin:0px; }
+Css: .hline td, .cline td{ padding: 0; }
+Css: .hline hr, .cline hr{border:none;border-top:1px solid black;}
+Css: .tabbing-right {text-align:right;}
+Css: div.float, div.figure {margin-left: auto; margin-right: auto;}
+Css: div.float img {text-align:center;}
+Css: div.figure img {text-align:center;}
+Css: .marginpar,.reversemarginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-top:0.5em; font-size:85%; text-decoration:underline;}
+Css: .marginpar p,.reversemarginpar p{margin-top:0.4em; margin-bottom:0.4em;}
+Css: .reversemarginpar{float:left;}
+Css: table.equation {width:100%;}
+Css: .equation td{text-align:center; }
+Css: td.equation { margin-top:1em; margin-bottom:1em; } 
+Css: td.equation-label { width:5%; text-align:center; }
+Css: td.eqnarray4 { width:5%; white-space: normal; }
+Css: td.eqnarray2 { width:5%; }
+Css: table.eqnarray-star, table.eqnarray {width:100%;}
+Css: div.eqnarray{text-align:center;}
+Css: div.array {text-align:center;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.pmatrix img{vertical-align:middle;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.bar-css {text-decoration:overline;}
+Css: table.tabular{border-collapse: collapse; border-spacing: 0;}
+Css: img.cdots{vertical-align:middle;}
+Css: .partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
+Css: .index-item, .index-subitem, .index-subsubitem {display:block}
+Css: div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}
+Css: div.caption span.id{font-weight: bold; white-space: nowrap; }
+Css: h1.partHead{text-align: center}
+Css: p.bibitem { text-indent: -2em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: p.bibitem-p { text-indent: 0em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: .paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}
+Css: .subparagraphHead, .likesubparagraphHead { font-weight: bold;}
+Css: .quote {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; margin-right:1em; text-align:justify;}
+Css: .verse{white-space:nowrap; margin-left:2em}
+Css: div.maketitle {text-align:center;}
+Css: h2.titleHead{text-align:center;}
+Css: div.maketitle{ margin-bottom: 2em; }
+Css: div.author, div.date {text-align:center;}
+Css: div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
+Css: div.author{white-space: nowrap;}
+Css: .quotation {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; }
+Css: .abstract p {margin-left:5%; margin-right:5%;}
+Css: div.abstract {width:100%;}
+Css: figure.float, div.figure {margin-left: auto; margin-right: auto;}
+Css: figure.float img {text-align:center;}
+Css: figure.figure img {text-align:center;}
+Css: figure.figure > p {text-align:center;}
+Css: figcaption.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:center;}
+Css: figcaption.caption span.id{font-weight: bold; white-space: nowrap; }
+Css: .equation td{text-align:center; }
+Css: .equation-star td{text-align:center; }
+Css: table.equation-star { width:100%; }
+Css: table.equation { width:100%; }
+Css: table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-left:5%; white-space: nowrap;}
+Css: table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto; margin-right:auto; white-space: nowrap;}
+Css: td.align-label { width:5%; text-align:center; }
+Css: td.align-odd { text-align:right; padding-right:0.3em;}
+Css: td.align-even { text-align:left; padding-right:0.6em;}
+Css: table.multline, table.multline-star {width:100%;}
+Css: td.gather {text-align:center; }
+Css: table.gather {width:100%;}
+Css: div.gather-star {text-align:center;}
+--- needs --- apunte.idv[2] ==> apunte0x.png ---
+--- needs --- apunte.idv[3] ==> apunte1x.png ---
+--- needs --- apunte.idv[4] ==> apunte2x.png ---
+--- needs --- apunte.idv[5] ==> apunte3x.png ---
+--- needs --- apunte.idv[6] ==> apunte4x.png ---
+--- needs --- apunte.idv[7] ==> apunte5x.png ---
+--- needs --- apunte.idv[8] ==> apunte6x.png ---
+--- needs --- apunte.idv[9] ==> apunte7x.png ---
+--- needs --- apunte.idv[10] ==> apunte8x.png ---
+--- needs --- apunte.idv[11] ==> apunte9x.png ---
+--- needs --- apunte.idv[12] ==> apunte10x.png ---
+--- needs --- apunte.idv[13] ==> apunte11x.png ---
+--- needs --- apunte.idv[14] ==> apunte12x.png ---
+--- needs --- apunte.idv[15] ==> apunte13x.png ---
+--- needs --- apunte.idv[16] ==> apunte14x.png ---
+--- needs --- apunte.idv[17] ==> apunte15x.png ---
+--- needs --- apunte.idv[18] ==> apunte16x.png ---
+--- needs --- apunte.idv[19] ==> apunte17x.png ---
+--- needs --- apunte.idv[20] ==> apunte18x.png ---
+--- needs --- apunte.idv[21] ==> apunte19x.png ---
+--- needs --- apunte.idv[22] ==> apunte20x.png ---
+--- needs --- apunte.idv[23] ==> apunte21x.png ---
+--- needs --- apunte.idv[24] ==> apunte22x.png ---
+--- needs --- apunte.idv[25] ==> apunte23x.png ---
+--- needs --- apunte.idv[26] ==> apunte24x.png ---
+--- needs --- apunte.idv[27] ==> apunte25x.png ---
+--- needs --- apunte.idv[28] ==> apunte26x.png ---
+--- needs --- apunte.idv[29] ==> apunte27x.png ---
+--- needs --- apunte.idv[30] ==> apunte28x.png ---
+--- needs --- apunte.idv[31] ==> apunte29x.png ---
+--- needs --- apunte.idv[32] ==> apunte30x.png ---
+--- needs --- apunte.idv[33] ==> apunte31x.png ---
+--- needs --- apunte.idv[34] ==> apunte32x.png ---
+--- needs --- apunte.idv[35] ==> apunte33x.png ---
+--- needs --- apunte.idv[36] ==> apunte34x.png ---
+--- needs --- apunte.idv[37] ==> apunte35x.png ---
+--- needs --- apunte.idv[38] ==> apunte36x.png ---
+--- needs --- apunte.idv[39] ==> apunte37x.png ---
+--- needs --- apunte.idv[40] ==> apunte38x.png ---
+--- needs --- apunte.idv[41] ==> apunte39x.png ---
+--- needs --- apunte.idv[42] ==> apunte40x.png ---
+--- needs --- apunte.idv[43] ==> apunte41x.png ---
+--- needs --- apunte.idv[44] ==> apunte42x.png ---
+--- needs --- apunte.idv[45] ==> apunte43x.png ---
+--- needs --- apunte.idv[46] ==> apunte44x.png ---
+--- needs --- apunte.idv[47] ==> apunte45x.png ---
+--- needs --- apunte.idv[48] ==> apunte46x.png ---
+--- needs --- apunte.idv[49] ==> apunte47x.png ---
+--- needs --- apunte.idv[50] ==> apunte48x.png ---
+--- needs --- apunte.idv[51] ==> apunte49x.png ---
+--- needs --- apunte.idv[52] ==> apunte50x.png ---
+--- needs --- apunte.idv[53] ==> apunte51x.png ---
+--- needs --- apunte.idv[54] ==> apunte52x.png ---
+--- needs --- apunte.idv[55] ==> apunte53x.png ---
+--- needs --- apunte.idv[56] ==> apunte54x.png ---
+--- needs --- apunte.idv[57] ==> apunte55x.png ---
+--- needs --- apunte.idv[58] ==> apunte56x.png ---
+--- needs --- apunte.idv[59] ==> apunte57x.png ---
+--- needs --- apunte.idv[60] ==> apunte58x.png ---
+--- needs --- apunte.idv[61] ==> apunte59x.png ---
+--- needs --- apunte.idv[62] ==> apunte60x.png ---
+--- needs --- apunte.idv[63] ==> apunte61x.png ---
+--- needs --- apunte.idv[64] ==> apunte62x.png ---
+--- needs --- apunte.idv[65] ==> apunte63x.png ---
+--- needs --- apunte.idv[66] ==> apunte64x.png ---
+--- needs --- apunte.idv[67] ==> apunte65x.png ---
+--- needs --- apunte.idv[68] ==> apunte66x.png ---
+--- needs --- apunte.idv[69] ==> apunte67x.png ---
+--- needs --- apunte.idv[70] ==> apunte68x.png ---
+--- needs --- apunte.idv[71] ==> apunte69x.png ---
+--- needs --- apunte.idv[72] ==> apunte70x.png ---
+--- needs --- apunte.idv[73] ==> apunte71x.png ---
+--- needs --- apunte.idv[74] ==> apunte72x.png ---
+--- needs --- apunte.idv[75] ==> apunte73x.png ---
+--- needs --- apunte.idv[76] ==> apunte74x.png ---
+--- needs --- apunte.idv[77] ==> apunte75x.png ---
+--- needs --- apunte.idv[78] ==> apunte76x.png ---
+--- needs --- apunte.idv[79] ==> apunte77x.png ---
+--- needs --- apunte.idv[80] ==> apunte78x.png ---
+--- needs --- apunte.idv[81] ==> apunte79x.png ---
+--- needs --- apunte.idv[82] ==> apunte80x.png ---
+--- needs --- apunte.idv[83] ==> apunte81x.png ---
+--- needs --- apunte.idv[84] ==> apunte82x.png ---
+--- needs --- apunte.idv[85] ==> apunte83x.png ---
+--- needs --- apunte.idv[86] ==> apunte84x.png ---
+--- needs --- apunte.idv[87] ==> apunte85x.png ---
+--- needs --- apunte.idv[88] ==> apunte86x.png ---
+--- needs --- apunte.idv[89] ==> apunte87x.png ---
+--- needs --- apunte.idv[90] ==> apunte88x.png ---
+--- needs --- apunte.idv[91] ==> apunte89x.png ---
+--- needs --- apunte.idv[92] ==> apunte90x.png ---
+--- needs --- apunte.idv[93] ==> apunte91x.png ---
+--- needs --- apunte.idv[94] ==> apunte92x.png ---
+--- needs --- apunte.idv[95] ==> apunte93x.png ---
+--- needs --- apunte.idv[96] ==> apunte94x.png ---
+--- needs --- apunte.idv[97] ==> apunte95x.png ---
+--- needs --- apunte.idv[98] ==> apunte96x.png ---
+--- needs --- apunte.idv[99] ==> apunte97x.png ---
+--- needs --- apunte.idv[100] ==> apunte98x.png ---
+--- needs --- apunte.idv[101] ==> apunte99x.png ---
+--- needs --- apunte.idv[102] ==> apunte100x.png ---
+--- needs --- apunte.idv[103] ==> apunte101x.png ---
+--- needs --- apunte.idv[104] ==> apunte102x.png ---
+--- needs --- apunte.idv[105] ==> apunte103x.png ---
+--- needs --- apunte.idv[106] ==> apunte104x.png ---
+--- needs --- apunte.idv[107] ==> apunte105x.png ---
+--- needs --- apunte.idv[108] ==> apunte106x.png ---
+--- needs --- apunte.idv[109] ==> apunte107x.png ---
+--- needs --- apunte.idv[110] ==> apunte108x.png ---
+--- needs --- apunte.idv[111] ==> apunte109x.png ---
+--- needs --- apunte.idv[112] ==> apunte110x.png ---
+--- needs --- apunte.idv[113] ==> apunte111x.png ---
+--- needs --- apunte.idv[114] ==> apunte112x.png ---
+--- needs --- apunte.idv[115] ==> apunte113x.png ---
+--- needs --- apunte.idv[116] ==> apunte114x.png ---
+--- needs --- apunte.idv[117] ==> apunte115x.png ---
+--- needs --- apunte.idv[118] ==> apunte116x.png ---
+--- needs --- apunte.idv[119] ==> apunte117x.png ---
+--- needs --- apunte.idv[120] ==> apunte118x.png ---
+--- needs --- apunte.idv[121] ==> apunte119x.png ---
+--- needs --- apunte.idv[122] ==> apunte120x.png ---
+--- needs --- apunte.idv[123] ==> apunte121x.png ---
+--- needs --- apunte.idv[124] ==> apunte122x.png ---
+--- needs --- apunte.idv[125] ==> apunte123x.png ---
+--- needs --- apunte.idv[126] ==> apunte124x.png ---
+--- needs --- apunte.idv[127] ==> apunte125x.png ---
+--- needs --- apunte.idv[128] ==> apunte126x.png ---
+--- needs --- apunte.idv[129] ==> apunte127x.png ---
+--- needs --- apunte.idv[130] ==> apunte128x.png ---
+--- needs --- apunte.idv[131] ==> apunte129x.png ---
+--- needs --- apunte.idv[132] ==> apunte130x.png ---
+--- needs --- apunte.idv[133] ==> apunte131x.png ---
+--- needs --- apunte.idv[134] ==> apunte132x.png ---
+--- needs --- apunte.idv[135] ==> apunte133x.png ---
+--- needs --- apunte.idv[136] ==> apunte134x.png ---
+--- needs --- apunte.idv[137] ==> apunte135x.png ---
+--- needs --- apunte.idv[138] ==> apunte136x.png ---
+--- needs --- apunte.idv[139] ==> apunte137x.png ---
+--- needs --- apunte.idv[140] ==> apunte138x.png ---
+--- needs --- apunte.idv[141] ==> apunte139x.png ---
+--- needs --- apunte.idv[142] ==> apunte140x.png ---
+--- needs --- apunte.idv[143] ==> apunte141x.png ---
+--- needs --- apunte.idv[144] ==> apunte142x.png ---
+--- needs --- apunte.idv[145] ==> apunte143x.png ---
+--- needs --- apunte.idv[146] ==> apunte144x.png ---
+--- needs --- apunte.idv[147] ==> apunte145x.png ---
+--- needs --- apunte.idv[148] ==> apunte146x.png ---
+--- needs --- apunte.idv[149] ==> apunte147x.png ---
+--- needs --- apunte.idv[150] ==> apunte148x.png ---
+--- needs --- apunte.idv[151] ==> apunte149x.png ---
+--- needs --- apunte.idv[152] ==> apunte150x.png ---
+--- needs --- apunte.idv[153] ==> apunte151x.png ---
+--- needs --- apunte.idv[154] ==> apunte152x.png ---
+--- needs --- apunte.idv[155] ==> apunte153x.png ---
+--- needs --- apunte.idv[156] ==> apunte154x.png ---
+--- needs --- apunte.idv[157] ==> apunte155x.png ---
+--- needs --- apunte.idv[158] ==> apunte156x.png ---
+--- needs --- apunte.idv[159] ==> apunte157x.png ---
+--- needs --- apunte.idv[160] ==> apunte158x.png ---
+--- needs --- apunte.idv[161] ==> apunte159x.png ---
+--- needs --- apunte.idv[162] ==> apunte160x.png ---
+--- needs --- apunte.idv[163] ==> apunte161x.png ---
+--- needs --- apunte.idv[164] ==> apunte162x.png ---
+--- needs --- apunte.idv[165] ==> apunte163x.png ---
+--- needs --- apunte.idv[166] ==> apunte164x.png ---
+--- needs --- apunte.idv[167] ==> apunte165x.png ---
+--- needs --- apunte.idv[168] ==> apunte166x.png ---
+--- needs --- apunte.idv[169] ==> apunte167x.png ---
+--- needs --- apunte.idv[170] ==> apunte168x.png ---
+--- needs --- apunte.idv[171] ==> apunte169x.png ---
+--- needs --- apunte.idv[172] ==> apunte170x.png ---
+--- needs --- apunte.idv[173] ==> apunte171x.png ---
+--- needs --- apunte.idv[174] ==> apunte172x.png ---
+--- needs --- apunte.idv[175] ==> apunte173x.png ---
+--- needs --- apunte.idv[176] ==> apunte174x.png ---
+--- needs --- apunte.idv[177] ==> apunte175x.png ---
+--- needs --- apunte.idv[178] ==> apunte176x.png ---
+--- needs --- apunte.idv[179] ==> apunte177x.png ---
+--- needs --- apunte.idv[180] ==> apunte178x.png ---
+--- needs --- apunte.idv[181] ==> apunte179x.png ---
+--- needs --- apunte.idv[182] ==> apunte180x.png ---
+--- needs --- apunte.idv[183] ==> apunte181x.png ---
+--- needs --- apunte.idv[184] ==> apunte182x.png ---
+--- needs --- apunte.idv[185] ==> apunte183x.png ---
+--- needs --- apunte.idv[186] ==> apunte184x.png ---
+--- needs --- apunte.idv[187] ==> apunte185x.png ---
+--- needs --- apunte.idv[188] ==> apunte186x.png ---
+--- needs --- apunte.idv[189] ==> apunte187x.png ---
+--- needs --- apunte.idv[190] ==> apunte188x.png ---
+--- needs --- apunte.idv[191] ==> apunte189x.png ---
+--- needs --- apunte.idv[192] ==> apunte190x.png ---
+--- needs --- apunte.idv[193] ==> apunte191x.png ---
+--- needs --- apunte.idv[194] ==> apunte192x.png ---
+--- needs --- apunte.idv[195] ==> apunte193x.png ---
+--- needs --- apunte.idv[196] ==> apunte194x.png ---
+--- needs --- apunte.idv[197] ==> apunte195x.png ---
+--- needs --- apunte.idv[198] ==> apunte196x.png ---
+--- needs --- apunte.idv[199] ==> apunte197x.png ---
+--- needs --- apunte.idv[200] ==> apunte198x.png ---
+--- needs --- apunte.idv[201] ==> apunte199x.png ---
+--- needs --- apunte.idv[202] ==> apunte200x.png ---
+--- needs --- apunte.idv[203] ==> apunte201x.png ---
+--- needs --- apunte.idv[204] ==> apunte202x.png ---
+--- needs --- apunte.idv[205] ==> apunte203x.png ---
+--- needs --- apunte.idv[206] ==> apunte204x.png ---
+--- needs --- apunte.idv[207] ==> apunte205x.png ---
+--- needs --- apunte.idv[208] ==> apunte206x.png ---
+--- needs --- apunte.idv[209] ==> apunte207x.png ---
+--- needs --- apunte.idv[210] ==> apunte208x.png ---
+--- needs --- apunte.idv[211] ==> apunte209x.png ---
+--- needs --- apunte.idv[212] ==> apunte210x.png ---
+--- needs --- apunte.idv[213] ==> apunte211x.png ---
+--- needs --- apunte.idv[214] ==> apunte212x.png ---
+--- needs --- apunte.idv[215] ==> apunte213x.png ---
+--- needs --- apunte.idv[216] ==> apunte214x.png ---
+--- needs --- apunte.idv[217] ==> apunte215x.png ---
+--- needs --- apunte.idv[218] ==> apunte216x.png ---
+--- needs --- apunte.idv[219] ==> apunte217x.png ---
+--- needs --- apunte.idv[220] ==> apunte218x.png ---
+--- needs --- apunte.idv[221] ==> apunte219x.png ---
+--- needs --- apunte.idv[222] ==> apunte220x.png ---
+--- needs --- apunte.idv[223] ==> apunte221x.png ---
+--- needs --- apunte.idv[224] ==> apunte222x.png ---
+--- needs --- apunte.idv[225] ==> apunte223x.png ---
+--- needs --- apunte.idv[226] ==> apunte224x.png ---
+--- needs --- apunte.idv[227] ==> apunte225x.png ---
+--- needs --- apunte.idv[228] ==> apunte226x.png ---
+--- needs --- apunte.idv[229] ==> apunte227x.png ---
+--- needs --- apunte.idv[230] ==> apunte228x.png ---
+--- needs --- apunte.idv[231] ==> apunte229x.png ---
+--- needs --- apunte.idv[232] ==> apunte230x.png ---
+--- needs --- apunte.idv[233] ==> apunte231x.png ---
+--- needs --- apunte.idv[234] ==> apunte232x.png ---
+--- needs --- apunte.idv[235] ==> apunte233x.png ---
+--- needs --- apunte.idv[236] ==> apunte234x.png ---
+--- needs --- apunte.idv[237] ==> apunte235x.png ---
+--- needs --- apunte.idv[238] ==> apunte236x.png ---
+--- needs --- apunte.idv[239] ==> apunte237x.png ---
+--- needs --- apunte.idv[240] ==> apunte238x.png ---
+--- needs --- apunte.idv[241] ==> apunte239x.png ---
+--- needs --- apunte.idv[242] ==> apunte240x.png ---
+--- needs --- apunte.idv[243] ==> apunte241x.png ---
+--- needs --- apunte.idv[244] ==> apunte242x.png ---
+--- needs --- apunte.idv[245] ==> apunte243x.png ---
+--- needs --- apunte.idv[246] ==> apunte244x.png ---
+--- needs --- apunte.idv[247] ==> apunte245x.png ---
+--- needs --- apunte.idv[248] ==> apunte246x.png ---
+--- needs --- apunte.idv[249] ==> apunte247x.png ---
+--- needs --- apunte.idv[250] ==> apunte248x.png ---
+--- needs --- apunte.idv[251] ==> apunte249x.png ---
+--- needs --- apunte.idv[252] ==> apunte250x.png ---
+--- needs --- apunte.idv[253] ==> apunte251x.png ---
+--- needs --- apunte.idv[254] ==> apunte252x.png ---
+--- needs --- apunte.idv[255] ==> apunte253x.png ---
+--- needs --- apunte.idv[256] ==> apunte254x.png ---
+--- needs --- apunte.idv[257] ==> apunte255x.png ---
+--- needs --- apunte.idv[258] ==> apunte256x.png ---
+--- needs --- apunte.idv[259] ==> apunte257x.png ---
+--- needs --- apunte.idv[260] ==> apunte258x.png ---
+--- needs --- apunte.idv[261] ==> apunte259x.png ---
+--- needs --- apunte.idv[262] ==> apunte260x.png ---
+--- needs --- apunte.idv[263] ==> apunte261x.png ---
+--- needs --- apunte.idv[264] ==> apunte262x.png ---
+--- needs --- apunte.idv[265] ==> apunte263x.png ---
+--- needs --- apunte.idv[266] ==> apunte264x.png ---
+--- needs --- apunte.idv[267] ==> apunte265x.png ---
+--- needs --- apunte.idv[268] ==> apunte266x.png ---
+--- needs --- apunte.idv[269] ==> apunte267x.png ---
+--- needs --- apunte.idv[270] ==> apunte268x.png ---
+--- needs --- apunte.idv[271] ==> apunte269x.png ---
+--- needs --- apunte.idv[272] ==> apunte270x.png ---
+--- needs --- apunte.idv[273] ==> apunte271x.png ---
+--- needs --- apunte.idv[274] ==> apunte272x.png ---
+--- needs --- apunte.idv[275] ==> apunte273x.png ---
+--- needs --- apunte.idv[276] ==> apunte274x.png ---
+--- needs --- apunte.idv[277] ==> apunte275x.png ---
+--- needs --- apunte.idv[278] ==> apunte276x.png ---
+--- needs --- apunte.idv[279] ==> apunte277x.png ---
+--- needs --- apunte.idv[280] ==> apunte278x.png ---
+--- needs --- apunte.idv[281] ==> apunte279x.png ---
+--- needs --- apunte.idv[282] ==> apunte280x.png ---
+--- needs --- apunte.idv[283] ==> apunte281x.png ---
+--- needs --- apunte.idv[284] ==> apunte282x.png ---
+--- needs --- apunte.idv[285] ==> apunte283x.png ---
+--- needs --- apunte.idv[286] ==> apunte284x.png ---
+--- needs --- apunte.idv[287] ==> apunte285x.png ---
+--- needs --- apunte.idv[288] ==> apunte286x.png ---
+--- needs --- apunte.idv[289] ==> apunte287x.png ---
+--- needs --- apunte.idv[290] ==> apunte288x.png ---
+--- needs --- apunte.idv[291] ==> apunte289x.png ---
+--- needs --- apunte.idv[292] ==> apunte290x.png ---
+--- needs --- apunte.idv[293] ==> apunte291x.png ---
+--- needs --- apunte.idv[294] ==> apunte292x.png ---
+--- needs --- apunte.idv[295] ==> apunte293x.png ---
+--- needs --- apunte.idv[296] ==> apunte294x.png ---
+--- needs --- apunte.idv[297] ==> apunte295x.png ---
+--- needs --- apunte.idv[298] ==> apunte296x.png ---
+--- needs --- apunte.idv[299] ==> apunte297x.png ---
+--- needs --- apunte.idv[300] ==> apunte298x.png ---
+--- needs --- apunte.idv[301] ==> apunte299x.png ---
+--- needs --- apunte.idv[302] ==> apunte300x.png ---
+--- needs --- apunte.idv[303] ==> apunte301x.png ---
+--- needs --- apunte.idv[304] ==> apunte302x.png ---
+--- needs --- apunte.idv[305] ==> apunte303x.png ---
+--- needs --- apunte.idv[306] ==> apunte304x.png ---
+--- needs --- apunte.idv[307] ==> apunte305x.png ---
+--- needs --- apunte.idv[308] ==> apunte306x.png ---
+--- needs --- apunte.idv[309] ==> apunte307x.png ---
+--- needs --- apunte.idv[310] ==> apunte308x.png ---
+--- needs --- apunte.idv[311] ==> apunte309x.png ---
+--- needs --- apunte.idv[312] ==> apunte310x.png ---
+--- needs --- apunte.idv[313] ==> apunte311x.png ---
+--- needs --- apunte.idv[314] ==> apunte312x.png ---
+--- needs --- apunte.idv[315] ==> apunte313x.png ---
+--- needs --- apunte.idv[316] ==> apunte314x.png ---
+--- needs --- apunte.idv[317] ==> apunte315x.png ---
+--- needs --- apunte.idv[318] ==> apunte316x.png ---
+--- needs --- apunte.idv[319] ==> apunte317x.png ---
+--- needs --- apunte.idv[320] ==> apunte318x.png ---
+--- needs --- apunte.idv[321] ==> apunte319x.png ---
+--- needs --- apunte.idv[322] ==> apunte320x.png ---
+--- needs --- apunte.idv[323] ==> apunte321x.png ---
+--- needs --- apunte.idv[324] ==> apunte322x.png ---
+--- needs --- apunte.idv[325] ==> apunte323x.png ---
+--- needs --- apunte.idv[326] ==> apunte324x.png ---
+--- needs --- apunte.idv[327] ==> apunte325x.png ---
+--- needs --- apunte.idv[328] ==> apunte326x.png ---
+--- needs --- apunte.idv[329] ==> apunte327x.png ---
+--- needs --- apunte.idv[330] ==> apunte328x.png ---
+--- needs --- apunte.idv[331] ==> apunte329x.png ---
+--- needs --- apunte.idv[332] ==> apunte330x.png ---
+--- needs --- apunte.idv[333] ==> apunte331x.png ---
+--- needs --- apunte.idv[334] ==> apunte332x.png ---
+--- needs --- apunte.idv[335] ==> apunte333x.png ---
+--- needs --- apunte.idv[336] ==> apunte334x.png ---
+--- needs --- apunte.idv[337] ==> apunte335x.png ---
+--- needs --- apunte.idv[338] ==> apunte336x.png ---
+--- needs --- apunte.idv[339] ==> apunte337x.png ---
+--- needs --- apunte.idv[340] ==> apunte338x.png ---
+--- needs --- apunte.idv[341] ==> apunte339x.png ---
+--- needs --- apunte.idv[342] ==> apunte340x.png ---
+--- needs --- apunte.idv[343] ==> apunte341x.png ---
+--- needs --- apunte.idv[344] ==> apunte342x.png ---
+--- needs --- apunte.idv[345] ==> apunte343x.png ---
+--- needs --- apunte.idv[346] ==> apunte344x.png ---
+--- needs --- apunte.idv[347] ==> apunte345x.png ---
+--- needs --- apunte.idv[348] ==> apunte346x.png ---
+--- needs --- apunte.idv[349] ==> apunte347x.png ---
+--- needs --- apunte.idv[350] ==> apunte348x.png ---
+--- needs --- apunte.idv[351] ==> apunte349x.png ---
+--- needs --- apunte.idv[352] ==> apunte350x.png ---
+--- needs --- apunte.idv[353] ==> apunte351x.png ---
+--- needs --- apunte.idv[354] ==> apunte352x.png ---
+--- needs --- apunte.idv[355] ==> apunte353x.png ---
+--- needs --- apunte.idv[356] ==> apunte354x.png ---
+--- needs --- apunte.idv[357] ==> apunte355x.png ---
+--- needs --- apunte.idv[358] ==> apunte356x.png ---
+--- needs --- apunte.idv[359] ==> apunte357x.png ---
+--- needs --- apunte.idv[360] ==> apunte358x.png ---
+--- needs --- apunte.idv[361] ==> apunte359x.png ---
+--- needs --- apunte.idv[362] ==> apunte360x.png ---
+--- needs --- apunte.idv[363] ==> apunte361x.png ---
+--- needs --- apunte.idv[364] ==> apunte362x.png ---
+--- needs --- apunte.idv[365] ==> apunte363x.png ---
+--- needs --- apunte.idv[366] ==> apunte364x.png ---
+--- needs --- apunte.idv[367] ==> apunte365x.png ---
+--- needs --- apunte.idv[368] ==> apunte366x.png ---
+--- needs --- apunte.idv[369] ==> apunte367x.png ---
+--- needs --- apunte.idv[370] ==> apunte368x.png ---
+--- needs --- apunte.idv[371] ==> apunte369x.png ---
+--- needs --- apunte.idv[372] ==> apunte370x.png ---
+--- needs --- apunte.idv[373] ==> apunte371x.png ---
+--- needs --- apunte.idv[374] ==> apunte372x.png ---
+--- needs --- apunte.idv[375] ==> apunte373x.png ---
+--- needs --- apunte.idv[376] ==> apunte374x.png ---
+--- needs --- apunte.idv[377] ==> apunte375x.png ---
+--- needs --- apunte.idv[378] ==> apunte376x.png ---
+--- needs --- apunte.idv[379] ==> apunte377x.png ---
+--- needs --- apunte.idv[380] ==> apunte378x.png ---
+--- needs --- apunte.idv[381] ==> apunte379x.png ---
+--- needs --- apunte.idv[382] ==> apunte380x.png ---
+--- needs --- apunte.idv[383] ==> apunte381x.png ---
+--- needs --- apunte.idv[384] ==> apunte382x.png ---
+--- needs --- apunte.idv[385] ==> apunte383x.png ---
+--- needs --- apunte.idv[386] ==> apunte384x.png ---
+--- needs --- apunte.idv[387] ==> apunte385x.png ---
+--- needs --- apunte.idv[388] ==> apunte386x.png ---
+--- needs --- apunte.idv[389] ==> apunte387x.png ---
+--- needs --- apunte.idv[390] ==> apunte388x.png ---
+--- needs --- apunte.idv[391] ==> apunte389x.png ---
+--- needs --- apunte.idv[392] ==> apunte390x.png ---
+--- needs --- apunte.idv[393] ==> apunte391x.png ---
+--- needs --- apunte.idv[394] ==> apunte392x.png ---
+--- needs --- apunte.idv[395] ==> apunte393x.png ---
+--- needs --- apunte.idv[396] ==> apunte394x.png ---
+--- needs --- apunte.idv[397] ==> apunte395x.png ---
+--- needs --- apunte.idv[398] ==> apunte396x.png ---
+--- needs --- apunte.idv[399] ==> apunte397x.png ---
+--- needs --- apunte.idv[400] ==> apunte398x.png ---
+--- needs --- apunte.idv[401] ==> apunte399x.png ---
+--- needs --- apunte.idv[402] ==> apunte400x.png ---
+--- needs --- apunte.idv[403] ==> apunte401x.png ---
+--- needs --- apunte.idv[404] ==> apunte402x.png ---
+--- needs --- apunte.idv[405] ==> apunte403x.png ---
+--- needs --- apunte.idv[406] ==> apunte404x.png ---
+--- needs --- apunte.idv[407] ==> apunte405x.png ---
+--- needs --- apunte.idv[408] ==> apunte406x.png ---
+--- needs --- apunte.idv[409] ==> apunte407x.png ---
+--- needs --- apunte.idv[410] ==> apunte408x.png ---
+--- needs --- apunte.idv[411] ==> apunte409x.png ---
+--- needs --- apunte.idv[412] ==> apunte410x.png ---
+--- needs --- apunte.idv[413] ==> apunte411x.png ---
+--- needs --- apunte.idv[414] ==> apunte412x.png ---
+--- needs --- apunte.idv[415] ==> apunte413x.png ---
+--- needs --- apunte.idv[416] ==> apunte414x.png ---
+--- needs --- apunte.idv[417] ==> apunte415x.png ---
+--- needs --- apunte.idv[418] ==> apunte416x.png ---
+--- needs --- apunte.idv[419] ==> apunte417x.png ---
+--- needs --- apunte.idv[420] ==> apunte418x.png ---
+--- needs --- apunte.idv[421] ==> apunte419x.png ---
+--- needs --- apunte.idv[422] ==> apunte420x.png ---
+--- needs --- apunte.idv[423] ==> apunte421x.png ---
+--- needs --- apunte.idv[424] ==> apunte422x.png ---
+--- needs --- apunte.idv[425] ==> apunte423x.png ---
+--- needs --- apunte.idv[426] ==> apunte424x.png ---
+--- needs --- apunte.idv[427] ==> apunte425x.png ---
+--- needs --- apunte.idv[428] ==> apunte426x.png ---
+--- needs --- apunte.idv[429] ==> apunte427x.png ---
+--- needs --- apunte.idv[430] ==> apunte428x.png ---
+--- needs --- apunte.idv[431] ==> apunte429x.png ---
+--- needs --- apunte.idv[432] ==> apunte430x.png ---
+--- needs --- apunte.idv[433] ==> apunte431x.png ---
+--- needs --- apunte.idv[434] ==> apunte432x.png ---
+--- needs --- apunte.idv[435] ==> apunte433x.png ---
+--- needs --- apunte.idv[436] ==> apunte434x.png ---
+--- needs --- apunte.idv[437] ==> apunte435x.png ---
+--- needs --- apunte.idv[438] ==> apunte436x.png ---
+--- needs --- apunte.idv[439] ==> apunte437x.png ---
+--- needs --- apunte.idv[440] ==> apunte438x.png ---
+--- needs --- apunte.idv[441] ==> apunte439x.png ---
+--- needs --- apunte.idv[442] ==> apunte440x.png ---
+--- needs --- apunte.idv[443] ==> apunte441x.png ---
+--- needs --- apunte.idv[444] ==> apunte442x.png ---
+--- needs --- apunte.idv[445] ==> apunte443x.png ---
+--- needs --- apunte.idv[446] ==> apunte444x.png ---
+--- needs --- apunte.idv[447] ==> apunte445x.png ---
+--- needs --- apunte.idv[448] ==> apunte446x.png ---
+--- needs --- apunte.idv[449] ==> apunte447x.png ---
+--- needs --- apunte.idv[450] ==> apunte448x.png ---
+--- needs --- apunte.idv[451] ==> apunte449x.png ---
+--- needs --- apunte.idv[452] ==> apunte450x.png ---
+--- needs --- apunte.idv[453] ==> apunte451x.png ---
+--- needs --- apunte.idv[454] ==> apunte452x.png ---
+--- needs --- apunte.idv[455] ==> apunte453x.png ---
+--- needs --- apunte.idv[456] ==> apunte454x.png ---
+--- needs --- apunte.idv[457] ==> apunte455x.png ---
+--- needs --- apunte.idv[458] ==> apunte456x.png ---
+--- needs --- apunte.idv[459] ==> apunte457x.png ---
+--- needs --- apunte.idv[460] ==> apunte458x.png ---
+--- needs --- apunte.idv[461] ==> apunte459x.png ---
+--- needs --- apunte.idv[462] ==> apunte460x.png ---
+--- needs --- apunte.idv[463] ==> apunte461x.png ---
+--- needs --- apunte.idv[464] ==> apunte462x.png ---
+--- needs --- apunte.idv[465] ==> apunte463x.png ---
+--- needs --- apunte.idv[466] ==> apunte464x.png ---
+--- needs --- apunte.idv[467] ==> apunte465x.png ---
+--- needs --- apunte.idv[468] ==> apunte466x.png ---
+--- needs --- apunte.idv[469] ==> apunte467x.png ---
+--- needs --- apunte.idv[470] ==> apunte468x.png ---
+--- needs --- apunte.idv[471] ==> apunte469x.png ---
+--- needs --- apunte.idv[472] ==> apunte470x.png ---
+--- needs --- apunte.idv[473] ==> apunte471x.png ---
+--- needs --- apunte.idv[474] ==> apunte472x.png ---
+--- needs --- apunte.idv[475] ==> apunte473x.png ---
+--- needs --- apunte.idv[476] ==> apunte474x.png ---
+--- needs --- apunte.idv[477] ==> apunte475x.png ---
+--- needs --- apunte.idv[478] ==> apunte476x.png ---
+--- needs --- apunte.idv[479] ==> apunte477x.png ---
+--- needs --- apunte.idv[480] ==> apunte478x.png ---
+--- needs --- apunte.idv[481] ==> apunte479x.png ---
+--- needs --- apunte.idv[482] ==> apunte480x.png ---
+--- needs --- apunte.idv[483] ==> apunte481x.png ---
+--- needs --- apunte.idv[484] ==> apunte482x.png ---
+--- needs --- apunte.idv[485] ==> apunte483x.png ---
+--- needs --- apunte.idv[486] ==> apunte484x.png ---
+--- needs --- apunte.idv[487] ==> apunte485x.png ---
+--- needs --- apunte.idv[488] ==> apunte486x.png ---
+--- needs --- apunte.idv[489] ==> apunte487x.png ---
+--- needs --- apunte.idv[490] ==> apunte488x.png ---
+--- needs --- apunte.idv[491] ==> apunte489x.png ---
+--- needs --- apunte.idv[492] ==> apunte490x.png ---
+--- needs --- apunte.idv[493] ==> apunte491x.png ---
+--- needs --- apunte.idv[494] ==> apunte492x.png ---
+--- needs --- apunte.idv[495] ==> apunte493x.png ---
+--- needs --- apunte.idv[496] ==> apunte494x.png ---
+--- needs --- apunte.idv[497] ==> apunte495x.png ---
+--- needs --- apunte.idv[498] ==> apunte496x.png ---
+--- needs --- apunte.idv[499] ==> apunte497x.png ---
+--- needs --- apunte.idv[500] ==> apunte498x.png ---
+--- needs --- apunte.idv[501] ==> apunte499x.png ---
+--- needs --- apunte.idv[502] ==> apunte500x.png ---
+--- needs --- apunte.idv[503] ==> apunte501x.png ---
+--- needs --- apunte.idv[504] ==> apunte502x.png ---
+--- needs --- apunte.idv[505] ==> apunte503x.png ---
+--- needs --- apunte.idv[506] ==> apunte504x.png ---
+--- needs --- apunte.idv[507] ==> apunte505x.png ---
+--- needs --- apunte.idv[508] ==> apunte506x.png ---
+--- needs --- apunte.idv[509] ==> apunte507x.png ---
+--- needs --- apunte.idv[510] ==> apunte508x.png ---
+--- needs --- apunte.idv[511] ==> apunte509x.png ---
+--- needs --- apunte.idv[512] ==> apunte510x.png ---
+--- needs --- apunte.idv[513] ==> apunte511x.png ---
+--- needs --- apunte.idv[514] ==> apunte512x.png ---
+--- needs --- apunte.idv[515] ==> apunte513x.png ---
+--- needs --- apunte.idv[516] ==> apunte514x.png ---
+--- needs --- apunte.idv[517] ==> apunte515x.png ---
+--- needs --- apunte.idv[518] ==> apunte516x.png ---
+--- needs --- apunte.idv[519] ==> apunte517x.png ---
+--- needs --- apunte.idv[520] ==> apunte518x.png ---
+--- needs --- apunte.idv[521] ==> apunte519x.png ---
+--- needs --- apunte.idv[522] ==> apunte520x.png ---
+--- needs --- apunte.idv[523] ==> apunte521x.png ---
+--- needs --- apunte.idv[524] ==> apunte522x.png ---
+--- needs --- apunte.idv[525] ==> apunte523x.png ---
+--- needs --- apunte.idv[526] ==> apunte524x.png ---
+--- needs --- apunte.idv[527] ==> apunte525x.png ---
+--- needs --- apunte.idv[528] ==> apunte526x.png ---
+--- needs --- apunte.idv[529] ==> apunte527x.png ---
+--- needs --- apunte.idv[530] ==> apunte528x.png ---
+--- needs --- apunte.idv[531] ==> apunte529x.png ---
+--- needs --- apunte.idv[532] ==> apunte530x.png ---
+--- needs --- apunte.idv[533] ==> apunte531x.png ---
+--- needs --- apunte.idv[534] ==> apunte532x.png ---
+--- needs --- apunte.idv[535] ==> apunte533x.png ---
+--- needs --- apunte.idv[536] ==> apunte534x.png ---
+--- needs --- apunte.idv[537] ==> apunte535x.png ---
+--- needs --- apunte.idv[538] ==> apunte536x.png ---
+--- needs --- apunte.idv[539] ==> apunte537x.png ---
+--- needs --- apunte.idv[540] ==> apunte538x.png ---
+--- needs --- apunte.idv[541] ==> apunte539x.png ---
+--- needs --- apunte.idv[542] ==> apunte540x.png ---
+--- needs --- apunte.idv[543] ==> apunte541x.png ---
+--- needs --- apunte.idv[544] ==> apunte542x.png ---
+--- needs --- apunte.idv[545] ==> apunte543x.png ---
+--- needs --- apunte.idv[546] ==> apunte544x.png ---
+--- needs --- apunte.idv[547] ==> apunte545x.png ---
+--- needs --- apunte.idv[548] ==> apunte546x.png ---
+--- needs --- apunte.idv[549] ==> apunte547x.png ---
+--- needs --- apunte.idv[550] ==> apunte548x.png ---
+--- needs --- apunte.idv[551] ==> apunte549x.png ---
+--- needs --- apunte.idv[552] ==> apunte550x.png ---
+--- needs --- apunte.idv[553] ==> apunte551x.png ---
+--- needs --- apunte.idv[554] ==> apunte552x.png ---
+--- needs --- apunte.idv[555] ==> apunte553x.png ---
+--- needs --- apunte.idv[556] ==> apunte554x.png ---
+--- needs --- apunte.idv[557] ==> apunte555x.png ---
+--- needs --- apunte.idv[558] ==> apunte556x.png ---
+--- needs --- apunte.idv[559] ==> apunte557x.png ---
+--- needs --- apunte.idv[560] ==> apunte558x.png ---
+--- needs --- apunte.idv[561] ==> apunte559x.png ---
+--- needs --- apunte.idv[562] ==> apunte560x.png ---
+--- needs --- apunte.idv[563] ==> apunte561x.png ---
+--- needs --- apunte.idv[564] ==> apunte562x.png ---
+--- needs --- apunte.idv[565] ==> apunte563x.png ---
+--- needs --- apunte.idv[566] ==> apunte564x.png ---
+--- needs --- apunte.idv[567] ==> apunte565x.png ---
+--- needs --- apunte.idv[568] ==> apunte566x.png ---
+--- needs --- apunte.idv[569] ==> apunte567x.png ---
+--- needs --- apunte.idv[570] ==> apunte568x.png ---
+--- needs --- apunte.idv[571] ==> apunte569x.png ---
+--- needs --- apunte.idv[572] ==> apunte570x.png ---
+--- needs --- apunte.idv[573] ==> apunte571x.png ---
+--- needs --- apunte.idv[574] ==> apunte572x.png ---
+--- needs --- apunte.idv[575] ==> apunte573x.png ---
+--- needs --- apunte.idv[576] ==> apunte574x.png ---
+--- needs --- apunte.idv[577] ==> apunte575x.png ---
+--- needs --- apunte.idv[578] ==> apunte576x.png ---
+--- needs --- apunte.idv[579] ==> apunte577x.png ---
+--- needs --- apunte.idv[580] ==> apunte578x.png ---
+--- needs --- apunte.idv[581] ==> apunte579x.png ---
+--- needs --- apunte.idv[582] ==> apunte580x.png ---
+--- needs --- apunte.idv[583] ==> apunte581x.png ---
+--- needs --- apunte.idv[584] ==> apunte582x.png ---
+--- needs --- apunte.idv[585] ==> apunte583x.png ---
+--- needs --- apunte.idv[586] ==> apunte584x.png ---
+--- needs --- apunte.idv[587] ==> apunte585x.png ---
+--- needs --- apunte.idv[588] ==> apunte586x.png ---
+--- needs --- apunte.idv[589] ==> apunte587x.png ---
+--- needs --- apunte.idv[590] ==> apunte588x.png ---
+--- needs --- apunte.idv[591] ==> apunte589x.png ---
+--- needs --- apunte.idv[592] ==> apunte590x.png ---
+--- needs --- apunte.idv[593] ==> apunte591x.png ---
+--- needs --- apunte.idv[594] ==> apunte592x.png ---
+--- needs --- apunte.idv[595] ==> apunte593x.png ---
+--- needs --- apunte.idv[596] ==> apunte594x.png ---
+--- needs --- apunte.idv[597] ==> apunte595x.png ---
+--- needs --- apunte.idv[598] ==> apunte596x.png ---
+--- needs --- apunte.idv[599] ==> apunte597x.png ---
+--- needs --- apunte.idv[600] ==> apunte598x.png ---
+--- needs --- apunte.idv[601] ==> apunte599x.png ---
+--- needs --- apunte.idv[602] ==> apunte600x.png ---
+--- needs --- apunte.idv[603] ==> apunte601x.png ---
+--- needs --- apunte.idv[604] ==> apunte602x.png ---
+--- needs --- apunte.idv[605] ==> apunte603x.png ---
+--- needs --- apunte.idv[606] ==> apunte604x.png ---
+--- needs --- apunte.idv[607] ==> apunte605x.png ---
+--- needs --- apunte.idv[608] ==> apunte606x.png ---
+--- needs --- apunte.idv[609] ==> apunte607x.png ---
+--- needs --- apunte.idv[610] ==> apunte608x.png ---
+--- needs --- apunte.idv[611] ==> apunte609x.png ---
+--- needs --- apunte.idv[612] ==> apunte610x.png ---
+--- needs --- apunte.idv[613] ==> apunte611x.png ---
+--- needs --- apunte.idv[614] ==> apunte612x.png ---
+--- needs --- apunte.idv[615] ==> apunte613x.png ---
+--- needs --- apunte.idv[616] ==> apunte614x.png ---
+--- needs --- apunte.idv[617] ==> apunte615x.png ---
+--- needs --- apunte.idv[618] ==> apunte616x.png ---
+--- needs --- apunte.idv[619] ==> apunte617x.png ---
+--- needs --- apunte.idv[620] ==> apunte618x.png ---
+--- needs --- apunte.idv[621] ==> apunte619x.png ---
+--- needs --- apunte.idv[622] ==> apunte620x.png ---
+--- needs --- apunte.idv[623] ==> apunte621x.png ---
+--- needs --- apunte.idv[624] ==> apunte622x.png ---
+--- needs --- apunte.idv[625] ==> apunte623x.png ---
+--- needs --- apunte.idv[626] ==> apunte624x.png ---
+--- needs --- apunte.idv[627] ==> apunte625x.png ---
+--- needs --- apunte.idv[628] ==> apunte626x.png ---
+--- needs --- apunte.idv[629] ==> apunte627x.png ---
+--- needs --- apunte.idv[630] ==> apunte628x.png ---
+--- needs --- apunte.idv[631] ==> apunte629x.png ---
+--- needs --- apunte.idv[632] ==> apunte630x.png ---
+--- needs --- apunte.idv[633] ==> apunte631x.png ---
+--- needs --- apunte.idv[634] ==> apunte632x.png ---
+--- needs --- apunte.idv[635] ==> apunte633x.png ---
+--- needs --- apunte.idv[636] ==> apunte634x.png ---
+--- needs --- apunte.idv[637] ==> apunte635x.png ---
+--- needs --- apunte.idv[638] ==> apunte636x.png ---
+--- needs --- apunte.idv[639] ==> apunte637x.png ---
+--- needs --- apunte.idv[640] ==> apunte638x.png ---
+--- needs --- apunte.idv[641] ==> apunte639x.png ---
+--- needs --- apunte.idv[642] ==> apunte640x.png ---
+--- needs --- apunte.idv[643] ==> apunte641x.png ---
+--- needs --- apunte.idv[644] ==> apunte642x.png ---
+--- needs --- apunte.idv[645] ==> apunte643x.png ---
+--- needs --- apunte.idv[646] ==> apunte644x.png ---
+--- needs --- apunte.idv[647] ==> apunte645x.png ---
+--- needs --- apunte.idv[648] ==> apunte646x.png ---
+--- needs --- apunte.idv[649] ==> apunte647x.png ---
+--- needs --- apunte.idv[650] ==> apunte648x.png ---
+--- needs --- apunte.idv[651] ==> apunte649x.png ---
+--- needs --- apunte.idv[652] ==> apunte650x.png ---
+--- needs --- apunte.idv[653] ==> apunte651x.png ---
+--- needs --- apunte.idv[654] ==> apunte652x.png ---
+--- needs --- apunte.idv[655] ==> apunte653x.png ---
+--- needs --- apunte.idv[656] ==> apunte654x.png ---
+--- needs --- apunte.idv[657] ==> apunte655x.png ---
+--- needs --- apunte.idv[658] ==> apunte656x.png ---
+--- needs --- apunte.idv[659] ==> apunte657x.png ---
+--- needs --- apunte.idv[660] ==> apunte658x.png ---
+--- needs --- apunte.idv[661] ==> apunte659x.png ---
+--- needs --- apunte.idv[662] ==> apunte660x.png ---
+--- needs --- apunte.idv[663] ==> apunte661x.png ---
+--- needs --- apunte.idv[664] ==> apunte662x.png ---
+--- needs --- apunte.idv[665] ==> apunte663x.png ---
+--- needs --- apunte.idv[666] ==> apunte664x.png ---
+--- needs --- apunte.idv[667] ==> apunte665x.png ---
+--- needs --- apunte.idv[668] ==> apunte666x.png ---
+--- needs --- apunte.idv[669] ==> apunte667x.png ---
+--- needs --- apunte.idv[670] ==> apunte668x.png ---
+--- needs --- apunte.idv[671] ==> apunte669x.png ---
+--- needs --- apunte.idv[672] ==> apunte670x.png ---
+--- needs --- apunte.idv[673] ==> apunte671x.png ---
+--- needs --- apunte.idv[674] ==> apunte672x.png ---
+--- needs --- apunte.idv[675] ==> apunte673x.png ---
+--- needs --- apunte.idv[676] ==> apunte674x.png ---
+--- needs --- apunte.idv[677] ==> apunte675x.png ---
+--- needs --- apunte.idv[678] ==> apunte676x.png ---
+--- needs --- apunte.idv[679] ==> apunte677x.png ---
+--- needs --- apunte.idv[680] ==> apunte678x.png ---
+--- needs --- apunte.idv[681] ==> apunte679x.png ---
+--- needs --- apunte.idv[682] ==> apunte680x.png ---
+--- needs --- apunte.idv[683] ==> apunte681x.png ---
+--- needs --- apunte.idv[684] ==> apunte682x.png ---
+--- needs --- apunte.idv[685] ==> apunte683x.png ---
+--- needs --- apunte.idv[686] ==> apunte684x.png ---
+--- needs --- apunte.idv[687] ==> apunte685x.png ---
+--- needs --- apunte.idv[688] ==> apunte686x.png ---
+--- needs --- apunte.idv[689] ==> apunte687x.png ---
+--- needs --- apunte.idv[690] ==> apunte688x.png ---
+--- needs --- apunte.idv[691] ==> apunte689x.png ---
+--- needs --- apunte.idv[692] ==> apunte690x.png ---
+--- needs --- apunte.idv[693] ==> apunte691x.png ---
+--- needs --- apunte.idv[694] ==> apunte692x.png ---
+--- needs --- apunte.idv[695] ==> apunte693x.png ---
+--- needs --- apunte.idv[696] ==> apunte694x.png ---
+--- needs --- apunte.idv[697] ==> apunte695x.png ---
+--- needs --- apunte.idv[698] ==> apunte696x.png ---
+--- needs --- apunte.idv[699] ==> apunte697x.png ---
+--- needs --- apunte.idv[700] ==> apunte698x.png ---
+--- needs --- apunte.idv[701] ==> apunte699x.png ---
+--- needs --- apunte.idv[702] ==> apunte700x.png ---
+--- needs --- apunte.idv[703] ==> apunte701x.png ---
+--- needs --- apunte.idv[704] ==> apunte702x.png ---
+--- needs --- apunte.idv[705] ==> apunte703x.png ---
+--- needs --- apunte.idv[706] ==> apunte704x.png ---
+--- needs --- apunte.idv[707] ==> apunte705x.png ---
+--- needs --- apunte.idv[708] ==> apunte706x.png ---
+--- needs --- apunte.idv[709] ==> apunte707x.png ---
+--- needs --- apunte.idv[710] ==> apunte708x.png ---
+--- needs --- apunte.idv[711] ==> apunte709x.png ---
+--- needs --- apunte.idv[712] ==> apunte710x.png ---
+--- needs --- apunte.idv[713] ==> apunte711x.png ---
+--- needs --- apunte.idv[714] ==> apunte712x.png ---
+--- needs --- apunte.idv[715] ==> apunte713x.png ---
+--- needs --- apunte.idv[716] ==> apunte714x.png ---
+--- needs --- apunte.idv[717] ==> apunte715x.png ---
+--- needs --- apunte.idv[718] ==> apunte716x.png ---
+--- needs --- apunte.idv[719] ==> apunte717x.png ---
+--- needs --- apunte.idv[720] ==> apunte718x.png ---
+--- needs --- apunte.idv[721] ==> apunte719x.png ---
+--- needs --- apunte.idv[722] ==> apunte720x.png ---
+--- needs --- apunte.idv[723] ==> apunte721x.png ---
+--- needs --- apunte.idv[724] ==> apunte722x.png ---
+--- needs --- apunte.idv[725] ==> apunte723x.png ---
+--- needs --- apunte.idv[726] ==> apunte724x.png ---
+--- needs --- apunte.idv[727] ==> apunte725x.png ---
+--- needs --- apunte.idv[728] ==> apunte726x.png ---
+--- needs --- apunte.idv[729] ==> apunte727x.png ---
+--- needs --- apunte.idv[730] ==> apunte728x.png ---
+--- needs --- apunte.idv[731] ==> apunte729x.png ---
+--- needs --- apunte.idv[732] ==> apunte730x.png ---
+--- needs --- apunte.idv[733] ==> apunte731x.png ---
+--- needs --- apunte.idv[734] ==> apunte732x.png ---
+--- needs --- apunte.idv[735] ==> apunte733x.png ---
+--- needs --- apunte.idv[736] ==> apunte734x.png ---
+--- needs --- apunte.idv[737] ==> apunte735x.png ---
+--- needs --- apunte.idv[738] ==> apunte736x.png ---
+--- needs --- apunte.idv[739] ==> apunte737x.png ---
+--- needs --- apunte.idv[740] ==> apunte738x.png ---
+--- needs --- apunte.idv[741] ==> apunte739x.png ---
+--- needs --- apunte.idv[742] ==> apunte740x.png ---
+--- needs --- apunte.idv[743] ==> apunte741x.png ---
+--- needs --- apunte.idv[744] ==> apunte742x.png ---
+--- needs --- apunte.idv[745] ==> apunte743x.png ---
+--- needs --- apunte.idv[746] ==> apunte744x.png ---
+--- needs --- apunte.idv[747] ==> apunte745x.png ---
+--- needs --- apunte.idv[748] ==> apunte746x.png ---
+--- needs --- apunte.idv[749] ==> apunte747x.png ---
+--- needs --- apunte.idv[750] ==> apunte748x.png ---
+--- needs --- apunte.idv[751] ==> apunte749x.png ---
+--- needs --- apunte.idv[752] ==> apunte750x.png ---
+--- needs --- apunte.idv[753] ==> apunte751x.png ---
+--- needs --- apunte.idv[754] ==> apunte752x.png ---
+--- needs --- apunte.idv[755] ==> apunte753x.png ---
+--- needs --- apunte.idv[756] ==> apunte754x.png ---
+--- needs --- apunte.idv[757] ==> apunte755x.png ---
+--- needs --- apunte.idv[758] ==> apunte756x.png ---
+--- needs --- apunte.idv[759] ==> apunte757x.png ---
+--- needs --- apunte.idv[760] ==> apunte758x.png ---
+--- needs --- apunte.idv[761] ==> apunte759x.png ---
+--- needs --- apunte.idv[762] ==> apunte760x.png ---
+--- needs --- apunte.idv[763] ==> apunte761x.png ---
+--- needs --- apunte.idv[764] ==> apunte762x.png ---
+--- needs --- apunte.idv[765] ==> apunte763x.png ---
+--- needs --- apunte.idv[766] ==> apunte764x.png ---
+--- needs --- apunte.idv[767] ==> apunte765x.png ---
+--- needs --- apunte.idv[768] ==> apunte766x.png ---
+--- needs --- apunte.idv[769] ==> apunte767x.png ---
+--- needs --- apunte.idv[770] ==> apunte768x.png ---
+--- needs --- apunte.idv[771] ==> apunte769x.png ---
+--- needs --- apunte.idv[772] ==> apunte770x.png ---
+--- needs --- apunte.idv[773] ==> apunte771x.png ---
+--- needs --- apunte.idv[774] ==> apunte772x.png ---
+--- needs --- apunte.idv[775] ==> apunte773x.png ---
+--- needs --- apunte.idv[776] ==> apunte774x.png ---
+--- needs --- apunte.idv[777] ==> apunte775x.png ---
+--- needs --- apunte.idv[778] ==> apunte776x.png ---
+--- needs --- apunte.idv[779] ==> apunte777x.png ---
+--- needs --- apunte.idv[780] ==> apunte778x.png ---
+--- needs --- apunte.idv[781] ==> apunte779x.png ---
+--- needs --- apunte.idv[782] ==> apunte780x.png ---
+--- needs --- apunte.idv[783] ==> apunte781x.png ---
+--- needs --- apunte.idv[784] ==> apunte782x.png ---
+--- needs --- apunte.idv[785] ==> apunte783x.png ---
+--- needs --- apunte.idv[786] ==> apunte784x.png ---
+--- needs --- apunte.idv[787] ==> apunte785x.png ---
+--- needs --- apunte.idv[788] ==> apunte786x.png ---
+--- needs --- apunte.idv[789] ==> apunte787x.png ---
+--- needs --- apunte.idv[790] ==> apunte788x.png ---
+--- needs --- apunte.idv[791] ==> apunte789x.png ---
+--- needs --- apunte.idv[792] ==> apunte790x.png ---
+--- needs --- apunte.idv[793] ==> apunte791x.png ---
+--- needs --- apunte.idv[794] ==> apunte792x.png ---
+--- needs --- apunte.idv[795] ==> apunte793x.png ---
+--- needs --- apunte.idv[796] ==> apunte794x.png ---
+--- needs --- apunte.idv[797] ==> apunte795x.png ---
+--- needs --- apunte.idv[798] ==> apunte796x.png ---
+--- needs --- apunte.idv[799] ==> apunte797x.png ---
+--- needs --- apunte.idv[800] ==> apunte798x.png ---
+--- needs --- apunte.idv[801] ==> apunte799x.png ---
+--- needs --- apunte.idv[802] ==> apunte800x.png ---
+--- needs --- apunte.idv[803] ==> apunte801x.png ---
+--- needs --- apunte.idv[804] ==> apunte802x.png ---
+--- needs --- apunte.idv[805] ==> apunte803x.png ---
+--- needs --- apunte.idv[806] ==> apunte804x.png ---
+--- needs --- apunte.idv[807] ==> apunte805x.png ---
+--- needs --- apunte.idv[808] ==> apunte806x.png ---
+--- needs --- apunte.idv[809] ==> apunte807x.png ---
+--- needs --- apunte.idv[810] ==> apunte808x.png ---
+--- needs --- apunte.idv[811] ==> apunte809x.png ---
+--- needs --- apunte.idv[812] ==> apunte810x.png ---
+--- needs --- apunte.idv[813] ==> apunte811x.png ---
+--- needs --- apunte.idv[814] ==> apunte812x.png ---
+--- needs --- apunte.idv[815] ==> apunte813x.png ---
+--- needs --- apunte.idv[816] ==> apunte814x.png ---
+--- needs --- apunte.idv[817] ==> apunte815x.png ---
+--- needs --- apunte.idv[818] ==> apunte816x.png ---
+--- needs --- apunte.idv[819] ==> apunte817x.png ---
+--- needs --- apunte.idv[820] ==> apunte818x.png ---
+--- needs --- apunte.idv[821] ==> apunte819x.png ---
+--- needs --- apunte.idv[822] ==> apunte820x.png ---
+--- needs --- apunte.idv[823] ==> apunte821x.png ---
+--- needs --- apunte.idv[824] ==> apunte822x.png ---
+--- needs --- apunte.idv[825] ==> apunte823x.png ---
+--- needs --- apunte.idv[826] ==> apunte824x.png ---
+--- needs --- apunte.idv[827] ==> apunte825x.png ---
+--- needs --- apunte.idv[828] ==> apunte826x.png ---
+--- needs --- apunte.idv[829] ==> apunte827x.png ---
+--- needs --- apunte.idv[830] ==> apunte828x.png ---
+--- needs --- apunte.idv[831] ==> apunte829x.png ---
+--- needs --- apunte.idv[832] ==> apunte830x.png ---
+--- needs --- apunte.idv[833] ==> apunte831x.png ---
+--- needs --- apunte.idv[834] ==> apunte832x.png ---
+--- needs --- apunte.idv[835] ==> apunte833x.png ---
+--- needs --- apunte.idv[836] ==> apunte834x.png ---
+--- needs --- apunte.idv[837] ==> apunte835x.png ---
+--- needs --- apunte.idv[838] ==> apunte836x.png ---
+--- needs --- apunte.idv[839] ==> apunte837x.png ---
+--- needs --- apunte.idv[840] ==> apunte838x.png ---
+--- needs --- apunte.idv[841] ==> apunte839x.png ---
+--- needs --- apunte.idv[842] ==> apunte840x.png ---
+--- needs --- apunte.idv[843] ==> apunte841x.png ---
+--- needs --- apunte.idv[844] ==> apunte842x.png ---
+--- needs --- apunte.idv[845] ==> apunte843x.png ---
+--- needs --- apunte.idv[846] ==> apunte844x.png ---
+--- needs --- apunte.idv[847] ==> apunte845x.png ---
+--- needs --- apunte.idv[848] ==> apunte846x.png ---
+--- needs --- apunte.idv[849] ==> apunte847x.png ---
+--- needs --- apunte.idv[850] ==> apunte848x.png ---
+--- needs --- apunte.idv[851] ==> apunte849x.png ---
+--- needs --- apunte.idv[852] ==> apunte850x.png ---
+--- needs --- apunte.idv[853] ==> apunte851x.png ---
+--- needs --- apunte.idv[854] ==> apunte852x.png ---
+--- needs --- apunte.idv[855] ==> apunte853x.png ---
+--- needs --- apunte.idv[856] ==> apunte854x.png ---
+--- needs --- apunte.idv[857] ==> apunte855x.png ---
+--- needs --- apunte.idv[858] ==> apunte856x.png ---
+--- needs --- apunte.idv[859] ==> apunte857x.png ---
+--- needs --- apunte.idv[860] ==> apunte858x.png ---
+--- needs --- apunte.idv[861] ==> apunte859x.png ---
+--- needs --- apunte.idv[862] ==> apunte860x.png ---
+--- needs --- apunte.idv[863] ==> apunte861x.png ---
+--- needs --- apunte.idv[864] ==> apunte862x.png ---
+--- needs --- apunte.idv[865] ==> apunte863x.png ---
+--- needs --- apunte.idv[866] ==> apunte864x.png ---
+--- needs --- apunte.idv[867] ==> apunte865x.png ---
+--- needs --- apunte.idv[868] ==> apunte866x.png ---
+--- needs --- apunte.idv[869] ==> apunte867x.png ---
+--- needs --- apunte.idv[870] ==> apunte868x.png ---
+--- needs --- apunte.idv[871] ==> apunte869x.png ---
+--- needs --- apunte.idv[872] ==> apunte870x.png ---
+--- needs --- apunte.idv[873] ==> apunte871x.png ---
+--- needs --- apunte.idv[874] ==> apunte872x.png ---
+--- needs --- apunte.idv[875] ==> apunte873x.png ---
+--- needs --- apunte.idv[876] ==> apunte874x.png ---
+--- needs --- apunte.idv[877] ==> apunte875x.png ---
+--- needs --- apunte.idv[878] ==> apunte876x.png ---
+--- needs --- apunte.idv[879] ==> apunte877x.png ---
+--- needs --- apunte.idv[880] ==> apunte878x.png ---
+--- needs --- apunte.idv[881] ==> apunte879x.png ---
+--- needs --- apunte.idv[882] ==> apunte880x.png ---
+--- needs --- apunte.idv[883] ==> apunte881x.png ---
+--- needs --- apunte.idv[884] ==> apunte882x.png ---
+--- needs --- apunte.idv[885] ==> apunte883x.png ---
+--- needs --- apunte.idv[886] ==> apunte884x.png ---
+--- needs --- apunte.idv[887] ==> apunte885x.png ---
+--- needs --- apunte.idv[888] ==> apunte886x.png ---
+--- needs --- apunte.idv[889] ==> apunte887x.png ---
+--- needs --- apunte.idv[890] ==> apunte888x.png ---
+--- needs --- apunte.idv[891] ==> apunte889x.png ---
+--- needs --- apunte.idv[892] ==> apunte890x.png ---
+--- needs --- apunte.idv[893] ==> apunte891x.png ---
+--- needs --- apunte.idv[894] ==> apunte892x.png ---
+--- needs --- apunte.idv[895] ==> apunte893x.png ---
+--- needs --- apunte.idv[896] ==> apunte894x.png ---
+--- needs --- apunte.idv[897] ==> apunte895x.png ---
+--- needs --- apunte.idv[898] ==> apunte896x.png ---
+--- needs --- apunte.idv[899] ==> apunte897x.png ---
+--- needs --- apunte.idv[900] ==> apunte898x.png ---
+--- needs --- apunte.idv[901] ==> apunte899x.png ---
+--- needs --- apunte.idv[902] ==> apunte900x.png ---
+--- needs --- apunte.idv[903] ==> apunte901x.png ---
+--- needs --- apunte.idv[904] ==> apunte902x.png ---
+--- needs --- apunte.idv[905] ==> apunte903x.png ---
+--- needs --- apunte.idv[906] ==> apunte904x.png ---
+--- needs --- apunte.idv[907] ==> apunte905x.png ---
+--- needs --- apunte.idv[908] ==> apunte906x.png ---
+--- needs --- apunte.idv[909] ==> apunte907x.png ---
+--- needs --- apunte.idv[910] ==> apunte908x.png ---
+--- needs --- apunte.idv[911] ==> apunte909x.png ---
+--- needs --- apunte.idv[912] ==> apunte910x.png ---
+--- needs --- apunte.idv[913] ==> apunte911x.png ---
+--- needs --- apunte.idv[914] ==> apunte912x.png ---
+--- needs --- apunte.idv[915] ==> apunte913x.png ---
+--- needs --- apunte.idv[916] ==> apunte914x.png ---
+--- needs --- apunte.idv[917] ==> apunte915x.png ---
+--- needs --- apunte.idv[918] ==> apunte916x.png ---
+--- needs --- apunte.idv[919] ==> apunte917x.png ---
+--- needs --- apunte.idv[920] ==> apunte918x.png ---
+--- needs --- apunte.idv[921] ==> apunte919x.png ---
+--- needs --- apunte.idv[922] ==> apunte920x.png ---
+--- needs --- apunte.idv[923] ==> apunte921x.png ---
+--- needs --- apunte.idv[924] ==> apunte922x.png ---
+--- needs --- apunte.idv[925] ==> apunte923x.png ---
+--- needs --- apunte.idv[926] ==> apunte924x.png ---
+--- needs --- apunte.idv[927] ==> apunte925x.png ---
+--- needs --- apunte.idv[928] ==> apunte926x.png ---
+--- needs --- apunte.idv[929] ==> apunte927x.png ---
+--- needs --- apunte.idv[930] ==> apunte928x.png ---
+--- needs --- apunte.idv[931] ==> apunte929x.png ---
+--- needs --- apunte.idv[932] ==> apunte930x.png ---
+--- needs --- apunte.idv[933] ==> apunte931x.png ---
+--- needs --- apunte.idv[934] ==> apunte932x.png ---
+--- needs --- apunte.idv[935] ==> apunte933x.png ---
+--- needs --- apunte.idv[936] ==> apunte934x.png ---
+--- needs --- apunte.idv[937] ==> apunte935x.png ---
+--- needs --- apunte.idv[938] ==> apunte936x.png ---
+--- needs --- apunte.idv[939] ==> apunte937x.png ---
+--- needs --- apunte.idv[940] ==> apunte938x.png ---
+--- needs --- apunte.idv[941] ==> apunte939x.png ---
+--- needs --- apunte.idv[942] ==> apunte940x.png ---
+--- needs --- apunte.idv[943] ==> apunte941x.png ---
+--- needs --- apunte.idv[944] ==> apunte942x.png ---
+--- needs --- apunte.idv[945] ==> apunte943x.png ---
+--- needs --- apunte.idv[946] ==> apunte944x.png ---
+--- needs --- apunte.idv[947] ==> apunte945x.png ---
+--- needs --- apunte.idv[948] ==> apunte946x.png ---
+--- needs --- apunte.idv[949] ==> apunte947x.png ---
+--- needs --- apunte.idv[950] ==> apunte948x.png ---
+--- needs --- apunte.idv[951] ==> apunte949x.png ---
+--- needs --- apunte.idv[952] ==> apunte950x.png ---
+--- needs --- apunte.idv[953] ==> apunte951x.png ---
+--- needs --- apunte.idv[954] ==> apunte952x.png ---
+--- needs --- apunte.idv[955] ==> apunte953x.png ---
+--- needs --- apunte.idv[956] ==> apunte954x.png ---
+--- needs --- apunte.idv[957] ==> apunte955x.png ---
+--- needs --- apunte.idv[958] ==> apunte956x.png ---
+--- needs --- apunte.idv[959] ==> apunte957x.png ---
+--- needs --- apunte.idv[960] ==> apunte958x.png ---
+--- needs --- apunte.idv[961] ==> apunte959x.png ---
+--- needs --- apunte.idv[962] ==> apunte960x.png ---
+--- needs --- apunte.idv[963] ==> apunte961x.png ---
+--- needs --- apunte.idv[964] ==> apunte962x.png ---
+--- needs --- apunte.idv[965] ==> apunte963x.png ---
+--- needs --- apunte.idv[966] ==> apunte964x.png ---
+--- needs --- apunte.idv[967] ==> apunte965x.png ---
+--- needs --- apunte.idv[968] ==> apunte966x.png ---
+--- needs --- apunte.idv[969] ==> apunte967x.png ---
+--- needs --- apunte.idv[970] ==> apunte968x.png ---
+--- needs --- apunte.idv[971] ==> apunte969x.png ---
+--- needs --- apunte.idv[972] ==> apunte970x.png ---
+--- needs --- apunte.idv[973] ==> apunte971x.png ---
+--- needs --- apunte.idv[974] ==> apunte972x.png ---
+--- needs --- apunte.idv[975] ==> apunte973x.png ---
+--- needs --- apunte.idv[976] ==> apunte974x.png ---
+--- needs --- apunte.idv[977] ==> apunte975x.png ---
+--- needs --- apunte.idv[978] ==> apunte976x.png ---
+--- needs --- apunte.idv[979] ==> apunte977x.png ---
+--- needs --- apunte.idv[980] ==> apunte978x.png ---
+--- needs --- apunte.idv[981] ==> apunte979x.png ---
+--- needs --- apunte.idv[982] ==> apunte980x.png ---
+--- needs --- apunte.idv[983] ==> apunte981x.png ---
+--- needs --- apunte.idv[984] ==> apunte982x.png ---
+--- needs --- apunte.idv[985] ==> apunte983x.png ---
+--- needs --- apunte.idv[986] ==> apunte984x.png ---
+--- needs --- apunte.idv[987] ==> apunte985x.png ---
+--- needs --- apunte.idv[988] ==> apunte986x.png ---
+--- needs --- apunte.idv[989] ==> apunte987x.png ---
+--- needs --- apunte.idv[990] ==> apunte988x.png ---
+--- needs --- apunte.idv[991] ==> apunte989x.png ---
+--- needs --- apunte.idv[992] ==> apunte990x.png ---
+--- needs --- apunte.idv[993] ==> apunte991x.png ---
+--- needs --- apunte.idv[994] ==> apunte992x.png ---
+--- needs --- apunte.idv[995] ==> apunte993x.png ---
+--- needs --- apunte.idv[996] ==> apunte994x.png ---
+--- needs --- apunte.idv[997] ==> apunte995x.png ---
+--- needs --- apunte.idv[998] ==> apunte996x.png ---
+--- needs --- apunte.idv[999] ==> apunte997x.png ---
+--- needs --- apunte.idv[1000] ==> apunte998x.png ---
+--- needs --- apunte.idv[1001] ==> apunte999x.png ---
+--- needs --- apunte.idv[1002] ==> apunte1000x.png ---
+--- needs --- apunte.idv[1003] ==> apunte1001x.png ---
+--- needs --- apunte.idv[1004] ==> apunte1002x.png ---
+--- needs --- apunte.idv[1005] ==> apunte1003x.png ---
+--- needs --- apunte.idv[1006] ==> apunte1004x.png ---
+--- needs --- apunte.idv[1007] ==> apunte1005x.png ---
+--- needs --- apunte.idv[1008] ==> apunte1006x.png ---
+--- needs --- apunte.idv[1009] ==> apunte1007x.png ---
+--- needs --- apunte.idv[1010] ==> apunte1008x.png ---
+--- needs --- apunte.idv[1011] ==> apunte1009x.png ---
+--- needs --- apunte.idv[1012] ==> apunte1010x.png ---
+--- needs --- apunte.idv[1013] ==> apunte1011x.png ---
+--- needs --- apunte.idv[1014] ==> apunte1012x.png ---
+--- needs --- apunte.idv[1015] ==> apunte1013x.png ---
+--- needs --- apunte.idv[1016] ==> apunte1014x.png ---
+--- needs --- apunte.idv[1017] ==> apunte1015x.png ---
+--- needs --- apunte.idv[1018] ==> apunte1016x.png ---
+--- needs --- apunte.idv[1019] ==> apunte1017x.png ---
+--- needs --- apunte.idv[1020] ==> apunte1018x.png ---
+--- needs --- apunte.idv[1021] ==> apunte1019x.png ---
+--- needs --- apunte.idv[1022] ==> apunte1020x.png ---
+--- needs --- apunte.idv[1023] ==> apunte1021x.png ---
+--- needs --- apunte.idv[1024] ==> apunte1022x.png ---
+--- needs --- apunte.idv[1025] ==> apunte1023x.png ---
+--- needs --- apunte.idv[1026] ==> apunte1024x.png ---
+--- needs --- apunte.idv[1027] ==> apunte1025x.png ---
+--- needs --- apunte.idv[1028] ==> apunte1026x.png ---
+--- needs --- apunte.idv[1029] ==> apunte1027x.png ---
+--- needs --- apunte.idv[1030] ==> apunte1028x.png ---
+--- needs --- apunte.idv[1031] ==> apunte1029x.png ---
+--- needs --- apunte.idv[1032] ==> apunte1030x.png ---
+--- needs --- apunte.idv[1033] ==> apunte1031x.png ---
+--- needs --- apunte.idv[1034] ==> apunte1032x.png ---
+--- needs --- apunte.idv[1035] ==> apunte1033x.png ---
+--- needs --- apunte.idv[1036] ==> apunte1034x.png ---
+--- needs --- apunte.idv[1037] ==> apunte1035x.png ---
+--- needs --- apunte.idv[1038] ==> apunte1036x.png ---
+--- needs --- apunte.idv[1039] ==> apunte1037x.png ---
+--- needs --- apunte.idv[1040] ==> apunte1038x.png ---
+--- needs --- apunte.idv[1041] ==> apunte1039x.png ---
+--- needs --- apunte.idv[1042] ==> apunte1040x.png ---
+--- needs --- apunte.idv[1043] ==> apunte1041x.png ---
+--- needs --- apunte.idv[1044] ==> apunte1042x.png ---
+--- needs --- apunte.idv[1045] ==> apunte1043x.png ---
+--- needs --- apunte.idv[1046] ==> apunte1044x.png ---
+--- needs --- apunte.idv[1047] ==> apunte1045x.png ---
+--- needs --- apunte.idv[1048] ==> apunte1046x.png ---
+--- needs --- apunte.idv[1049] ==> apunte1047x.png ---
+--- needs --- apunte.idv[1050] ==> apunte1048x.png ---
+--- needs --- apunte.idv[1051] ==> apunte1049x.png ---
+--- needs --- apunte.idv[1052] ==> apunte1050x.png ---
+--- needs --- apunte.idv[1053] ==> apunte1051x.png ---
+--- needs --- apunte.idv[1054] ==> apunte1052x.png ---
+--- needs --- apunte.idv[1055] ==> apunte1053x.png ---
+--- needs --- apunte.idv[1056] ==> apunte1054x.png ---
+--- needs --- apunte.idv[1057] ==> apunte1055x.png ---
+--- needs --- apunte.idv[1058] ==> apunte1056x.png ---
+--- needs --- apunte.idv[1059] ==> apunte1057x.png ---
+--- needs --- apunte.idv[1060] ==> apunte1058x.png ---
+--- needs --- apunte.idv[1061] ==> apunte1059x.png ---
+--- needs --- apunte.idv[1062] ==> apunte1060x.png ---
+--- needs --- apunte.idv[1063] ==> apunte1061x.png ---
+--- needs --- apunte.idv[1064] ==> apunte1062x.png ---
+--- needs --- apunte.idv[1065] ==> apunte1063x.png ---
+--- needs --- apunte.idv[1066] ==> apunte1064x.png ---
+--- needs --- apunte.idv[1067] ==> apunte1065x.png ---
+--- needs --- apunte.idv[1068] ==> apunte1066x.png ---
+--- needs --- apunte.idv[1069] ==> apunte1067x.png ---
+--- needs --- apunte.idv[1070] ==> apunte1068x.png ---
+--- needs --- apunte.idv[1071] ==> apunte1069x.png ---
+--- needs --- apunte.idv[1072] ==> apunte1070x.png ---
+--- needs --- apunte.idv[1073] ==> apunte1071x.png ---
+--- needs --- apunte.idv[1074] ==> apunte1072x.png ---
+--- needs --- apunte.idv[1075] ==> apunte1073x.png ---
+--- needs --- apunte.idv[1076] ==> apunte1074x.png ---
+--- needs --- apunte.idv[1077] ==> apunte1075x.png ---
+--- needs --- apunte.idv[1078] ==> apunte1076x.png ---
+--- needs --- apunte.idv[1079] ==> apunte1077x.png ---
+--- needs --- apunte.idv[1080] ==> apunte1078x.png ---
+--- needs --- apunte.idv[1081] ==> apunte1079x.png ---
+--- needs --- apunte.idv[1082] ==> apunte1080x.png ---
+--- needs --- apunte.idv[1083] ==> apunte1081x.png ---
+--- needs --- apunte.idv[1084] ==> apunte1082x.png ---
+--- needs --- apunte.idv[1085] ==> apunte1083x.png ---
+--- needs --- apunte.idv[1086] ==> apunte1084x.png ---
+--- needs --- apunte.idv[1087] ==> apunte1085x.png ---
+--- needs --- apunte.idv[1088] ==> apunte1086x.png ---
+--- needs --- apunte.idv[1089] ==> apunte1087x.png ---
+--- needs --- apunte.idv[1090] ==> apunte1088x.png ---
+--- needs --- apunte.idv[1091] ==> apunte1089x.png ---
+--- needs --- apunte.idv[1092] ==> apunte1090x.png ---
+--- needs --- apunte.idv[1093] ==> apunte1091x.png ---
+--- needs --- apunte.idv[1094] ==> apunte1092x.png ---
+--- needs --- apunte.idv[1095] ==> apunte1093x.png ---
+--- needs --- apunte.idv[1096] ==> apunte1094x.png ---
+--- needs --- apunte.idv[1097] ==> apunte1095x.png ---
+--- needs --- apunte.idv[1098] ==> apunte1096x.png ---
+--- needs --- apunte.idv[1099] ==> apunte1097x.png ---
+--- needs --- apunte.idv[1100] ==> apunte1098x.png ---
+--- needs --- apunte.idv[1101] ==> apunte1099x.png ---
+--- needs --- apunte.idv[1102] ==> apunte1100x.png ---
+--- needs --- apunte.idv[1103] ==> apunte1101x.png ---
+--- needs --- apunte.idv[1104] ==> apunte1102x.png ---
+--- needs --- apunte.idv[1105] ==> apunte1103x.png ---
+--- needs --- apunte.idv[1106] ==> apunte1104x.png ---
+--- needs --- apunte.idv[1107] ==> apunte1105x.png ---
+--- needs --- apunte.idv[1108] ==> apunte1106x.png ---
+--- needs --- apunte.idv[1109] ==> apunte1107x.png ---
+--- needs --- apunte.idv[1110] ==> apunte1108x.png ---
+--- needs --- apunte.idv[1111] ==> apunte1109x.png ---
+--- needs --- apunte.idv[1112] ==> apunte1110x.png ---
+--- needs --- apunte.idv[1113] ==> apunte1111x.png ---
+--- needs --- apunte.idv[1114] ==> apunte1112x.png ---
+--- needs --- apunte.idv[1115] ==> apunte1113x.png ---
+--- needs --- apunte.idv[1116] ==> apunte1114x.png ---
+--- needs --- apunte.idv[1117] ==> apunte1115x.png ---
+--- needs --- apunte.idv[1118] ==> apunte1116x.png ---
+--- needs --- apunte.idv[1119] ==> apunte1117x.png ---
+--- needs --- apunte.idv[1120] ==> apunte1118x.png ---
+--- needs --- apunte.idv[1121] ==> apunte1119x.png ---
+--- needs --- apunte.idv[1122] ==> apunte1120x.png ---
+--- needs --- apunte.idv[1123] ==> apunte1121x.png ---
+--- needs --- apunte.idv[1124] ==> apunte1122x.png ---
+--- needs --- apunte.idv[1125] ==> apunte1123x.png ---
+--- needs --- apunte.idv[1126] ==> apunte1124x.png ---
+--- needs --- apunte.idv[1127] ==> apunte1125x.png ---
+--- needs --- apunte.idv[1128] ==> apunte1126x.png ---
+--- needs --- apunte.idv[1129] ==> apunte1127x.png ---
+--- needs --- apunte.idv[1130] ==> apunte1128x.png ---
+--- needs --- apunte.idv[1131] ==> apunte1129x.png ---
+--- needs --- apunte.idv[1132] ==> apunte1130x.png ---
+--- needs --- apunte.idv[1133] ==> apunte1131x.png ---
+--- needs --- apunte.idv[1134] ==> apunte1132x.png ---
+--- needs --- apunte.idv[1135] ==> apunte1133x.png ---
+--- needs --- apunte.idv[1136] ==> apunte1134x.png ---
+--- needs --- apunte.idv[1137] ==> apunte1135x.png ---
+--- needs --- apunte.idv[1138] ==> apunte1136x.png ---
+--- needs --- apunte.idv[1139] ==> apunte1137x.png ---
+--- needs --- apunte.idv[1140] ==> apunte1138x.png ---
+--- needs --- apunte.idv[1141] ==> apunte1139x.png ---
+--- needs --- apunte.idv[1142] ==> apunte1140x.png ---
+--- needs --- apunte.idv[1143] ==> apunte1141x.png ---
+--- needs --- apunte.idv[1144] ==> apunte1142x.png ---
+--- needs --- apunte.idv[1145] ==> apunte1143x.png ---
+--- needs --- apunte.idv[1146] ==> apunte1144x.png ---
+--- needs --- apunte.idv[1147] ==> apunte1145x.png ---
+--- needs --- apunte.idv[1148] ==> apunte1146x.png ---
+--- needs --- apunte.idv[1149] ==> apunte1147x.png ---
+--- needs --- apunte.idv[1150] ==> apunte1148x.png ---
+--- needs --- apunte.idv[1151] ==> apunte1149x.png ---
+--- needs --- apunte.idv[1152] ==> apunte1150x.png ---
+--- needs --- apunte.idv[1153] ==> apunte1151x.png ---
+--- needs --- apunte.idv[1154] ==> apunte1152x.png ---
+--- needs --- apunte.idv[1155] ==> apunte1153x.png ---
+--- needs --- apunte.idv[1156] ==> apunte1154x.png ---
+--- needs --- apunte.idv[1157] ==> apunte1155x.png ---
+--- needs --- apunte.idv[1158] ==> apunte1156x.png ---
+--- needs --- apunte.idv[1159] ==> apunte1157x.png ---
+--- needs --- apunte.idv[1160] ==> apunte1158x.png ---
+--- needs --- apunte.idv[1161] ==> apunte1159x.png ---
+--- needs --- apunte.idv[1162] ==> apunte1160x.png ---
+--- needs --- apunte.idv[1163] ==> apunte1161x.png ---
+--- needs --- apunte.idv[1164] ==> apunte1162x.png ---
+--- needs --- apunte.idv[1165] ==> apunte1163x.png ---
+--- needs --- apunte.idv[1166] ==> apunte1164x.png ---
+--- needs --- apunte.idv[1167] ==> apunte1165x.png ---
+--- needs --- apunte.idv[1168] ==> apunte1166x.png ---
+--- needs --- apunte.idv[1169] ==> apunte1167x.png ---
+--- needs --- apunte.idv[1170] ==> apunte1168x.png ---
+--- needs --- apunte.idv[1171] ==> apunte1169x.png ---
+--- needs --- apunte.idv[1172] ==> apunte1170x.png ---
+--- needs --- apunte.idv[1173] ==> apunte1171x.png ---
+--- needs --- apunte.idv[1174] ==> apunte1172x.png ---
+--- needs --- apunte.idv[1175] ==> apunte1173x.png ---
+--- needs --- apunte.idv[1176] ==> apunte1174x.png ---
+--- needs --- apunte.idv[1177] ==> apunte1175x.png ---
+--- needs --- apunte.idv[1178] ==> apunte1176x.png ---
+--- needs --- apunte.idv[1179] ==> apunte1177x.png ---
+--- needs --- apunte.idv[1180] ==> apunte1178x.png ---
+--- needs --- apunte.idv[1181] ==> apunte1179x.png ---
+--- needs --- apunte.idv[1182] ==> apunte1180x.png ---
+--- needs --- apunte.idv[1183] ==> apunte1181x.png ---
+--- needs --- apunte.idv[1184] ==> apunte1182x.png ---
+--- needs --- apunte.idv[1185] ==> apunte1183x.png ---
+--- needs --- apunte.idv[1186] ==> apunte1184x.png ---
+--- needs --- apunte.idv[1187] ==> apunte1185x.png ---
+--- needs --- apunte.idv[1188] ==> apunte1186x.png ---
+--- needs --- apunte.idv[1189] ==> apunte1187x.png ---
+--- needs --- apunte.idv[1190] ==> apunte1188x.png ---
+--- needs --- apunte.idv[1191] ==> apunte1189x.png ---
+--- needs --- apunte.idv[1192] ==> apunte1190x.png ---
+--- needs --- apunte.idv[1193] ==> apunte1191x.png ---
+--- needs --- apunte.idv[1194] ==> apunte1192x.png ---
+--- needs --- apunte.idv[1195] ==> apunte1193x.png ---
+--- needs --- apunte.idv[1196] ==> apunte1194x.png ---
+--- needs --- apunte.idv[1197] ==> apunte1195x.png ---
+--- needs --- apunte.idv[1198] ==> apunte1196x.png ---
+--- needs --- apunte.idv[1199] ==> apunte1197x.png ---
+--- needs --- apunte.idv[1200] ==> apunte1198x.png ---
+--- needs --- apunte.idv[1201] ==> apunte1199x.png ---
+--- needs --- apunte.idv[1202] ==> apunte1200x.png ---
+--- needs --- apunte.idv[1203] ==> apunte1201x.png ---
+--- needs --- apunte.idv[1204] ==> apunte1202x.png ---
+--- needs --- apunte.idv[1205] ==> apunte1203x.png ---
+--- needs --- apunte.idv[1206] ==> apunte1204x.png ---
+--- needs --- apunte.idv[1207] ==> apunte1205x.png ---
+--- needs --- apunte.idv[1208] ==> apunte1206x.png ---
+--- needs --- apunte.idv[1209] ==> apunte1207x.png ---
+--- needs --- apunte.idv[1210] ==> apunte1208x.png ---
+--- needs --- apunte.idv[1211] ==> apunte1209x.png ---
+--- needs --- apunte.idv[1212] ==> apunte1210x.png ---
+--- needs --- apunte.idv[1213] ==> apunte1211x.png ---
+--- needs --- apunte.idv[1214] ==> apunte1212x.png ---
+--- needs --- apunte.idv[1215] ==> apunte1213x.png ---
+--- needs --- apunte.idv[1216] ==> apunte1214x.png ---
+--- needs --- apunte.idv[1217] ==> apunte1215x.png ---
+--- needs --- apunte.idv[1218] ==> apunte1216x.png ---
+--- needs --- apunte.idv[1219] ==> apunte1217x.png ---
+--- needs --- apunte.idv[1220] ==> apunte1218x.png ---
+--- needs --- apunte.idv[1221] ==> apunte1219x.png ---
+--- needs --- apunte.idv[1222] ==> apunte1220x.png ---
+--- needs --- apunte.idv[1223] ==> apunte1221x.png ---
+--- needs --- apunte.idv[1224] ==> apunte1222x.png ---
+--- needs --- apunte.idv[1225] ==> apunte1223x.png ---
+--- needs --- apunte.idv[1226] ==> apunte1224x.png ---
+--- needs --- apunte.idv[1227] ==> apunte1225x.png ---
+--- needs --- apunte.idv[1228] ==> apunte1226x.png ---
+--- needs --- apunte.idv[1229] ==> apunte1227x.png ---
+--- needs --- apunte.idv[1230] ==> apunte1228x.png ---
+--- needs --- apunte.idv[1231] ==> apunte1229x.png ---
+--- needs --- apunte.idv[1232] ==> apunte1230x.png ---
+--- needs --- apunte.idv[1233] ==> apunte1231x.png ---
+--- needs --- apunte.idv[1234] ==> apunte1232x.png ---
+--- needs --- apunte.idv[1235] ==> apunte1233x.png ---
+--- needs --- apunte.idv[1236] ==> apunte1234x.png ---
+--- needs --- apunte.idv[1237] ==> apunte1235x.png ---
+--- needs --- apunte.idv[1238] ==> apunte1236x.png ---
+--- needs --- apunte.idv[1239] ==> apunte1237x.png ---
+--- needs --- apunte.idv[1240] ==> apunte1238x.png ---
+--- needs --- apunte.idv[1241] ==> apunte1239x.png ---
+--- needs --- apunte.idv[1242] ==> apunte1240x.png ---
+--- needs --- apunte.idv[1243] ==> apunte1241x.png ---
+--- needs --- apunte.idv[1244] ==> apunte1242x.png ---
+--- needs --- apunte.idv[1245] ==> apunte1243x.png ---
+--- needs --- apunte.idv[1246] ==> apunte1244x.png ---
+--- needs --- apunte.idv[1247] ==> apunte1245x.png ---
+--- needs --- apunte.idv[1248] ==> apunte1246x.png ---
+--- needs --- apunte.idv[1249] ==> apunte1247x.png ---
+--- needs --- apunte.idv[1250] ==> apunte1248x.png ---
+--- needs --- apunte.idv[1251] ==> apunte1249x.png ---
+--- needs --- apunte.idv[1252] ==> apunte1250x.png ---
+--- needs --- apunte.idv[1253] ==> apunte1251x.png ---
+--- needs --- apunte.idv[1254] ==> apunte1252x.png ---
+--- needs --- apunte.idv[1255] ==> apunte1253x.png ---
+--- needs --- apunte.idv[1256] ==> apunte1254x.png ---
+--- needs --- apunte.idv[1257] ==> apunte1255x.png ---
+--- needs --- apunte.idv[1258] ==> apunte1256x.png ---
+--- needs --- apunte.idv[1259] ==> apunte1257x.png ---
+--- needs --- apunte.idv[1260] ==> apunte1258x.png ---
+--- needs --- apunte.idv[1261] ==> apunte1259x.png ---
+--- needs --- apunte.idv[1262] ==> apunte1260x.png ---
+--- needs --- apunte.idv[1263] ==> apunte1261x.png ---
+--- needs --- apunte.idv[1264] ==> apunte1262x.png ---
+--- needs --- apunte.idv[1265] ==> apunte1263x.png ---
+--- needs --- apunte.idv[1266] ==> apunte1264x.png ---
+--- needs --- apunte.idv[1267] ==> apunte1265x.png ---
+--- needs --- apunte.idv[1268] ==> apunte1266x.png ---
+--- needs --- apunte.idv[1269] ==> apunte1267x.png ---
+--- needs --- apunte.idv[1270] ==> apunte1268x.png ---
+--- needs --- apunte.idv[1271] ==> apunte1269x.png ---
+--- needs --- apunte.idv[1272] ==> apunte1270x.png ---
+--- needs --- apunte.idv[1273] ==> apunte1271x.png ---
+--- needs --- apunte.idv[1274] ==> apunte1272x.png ---
+--- needs --- apunte.idv[1275] ==> apunte1273x.png ---
+--- needs --- apunte.idv[1276] ==> apunte1274x.png ---
+--- needs --- apunte.idv[1277] ==> apunte1275x.png ---
+--- needs --- apunte.idv[1278] ==> apunte1276x.png ---
+--- needs --- apunte.idv[1279] ==> apunte1277x.png ---
+--- needs --- apunte.idv[1280] ==> apunte1278x.png ---
+--- needs --- apunte.idv[1281] ==> apunte1279x.png ---
+--- needs --- apunte.idv[1282] ==> apunte1280x.png ---
+--- needs --- apunte.idv[1283] ==> apunte1281x.png ---
+--- needs --- apunte.idv[1284] ==> apunte1282x.png ---
+--- needs --- apunte.idv[1285] ==> apunte1283x.png ---
+--- needs --- apunte.idv[1286] ==> apunte1284x.png ---
+--- needs --- apunte.idv[1287] ==> apunte1285x.png ---
+--- needs --- apunte.idv[1288] ==> apunte1286x.png ---
+--- needs --- apunte.idv[1289] ==> apunte1287x.png ---
+--- needs --- apunte.idv[1290] ==> apunte1288x.png ---
+--- needs --- apunte.idv[1291] ==> apunte1289x.png ---
+--- needs --- apunte.idv[1292] ==> apunte1290x.png ---
+--- needs --- apunte.idv[1293] ==> apunte1291x.png ---
+--- needs --- apunte.idv[1294] ==> apunte1292x.png ---
+--- needs --- apunte.idv[1295] ==> apunte1293x.png ---
+--- needs --- apunte.idv[1296] ==> apunte1294x.png ---
+--- needs --- apunte.idv[1297] ==> apunte1295x.png ---
+--- needs --- apunte.idv[1298] ==> apunte1296x.png ---
+--- needs --- apunte.idv[1299] ==> apunte1297x.png ---
+--- needs --- apunte.idv[1300] ==> apunte1298x.png ---
+--- needs --- apunte.idv[1301] ==> apunte1299x.png ---
+--- needs --- apunte.idv[1302] ==> apunte1300x.png ---
+--- needs --- apunte.idv[1303] ==> apunte1301x.png ---
+--- needs --- apunte.idv[1304] ==> apunte1302x.png ---
+--- needs --- apunte.idv[1305] ==> apunte1303x.png ---
+--- needs --- apunte.idv[1306] ==> apunte1304x.png ---
+--- needs --- apunte.idv[1307] ==> apunte1305x.png ---
+--- needs --- apunte.idv[1308] ==> apunte1306x.png ---
+--- needs --- apunte.idv[1309] ==> apunte1307x.png ---
+--- needs --- apunte.idv[1310] ==> apunte1308x.png ---
+--- needs --- apunte.idv[1311] ==> apunte1309x.png ---
+--- needs --- apunte.idv[1312] ==> apunte1310x.png ---
+--- needs --- apunte.idv[1313] ==> apunte1311x.png ---
+--- needs --- apunte.idv[1314] ==> apunte1312x.png ---
+--- needs --- apunte.idv[1315] ==> apunte1313x.png ---
+--- needs --- apunte.idv[1316] ==> apunte1314x.png ---
+--- needs --- apunte.idv[1317] ==> apunte1315x.png ---
+--- needs --- apunte.idv[1318] ==> apunte1316x.png ---
+--- needs --- apunte.idv[1319] ==> apunte1317x.png ---
+--- needs --- apunte.idv[1320] ==> apunte1318x.png ---
+--- needs --- apunte.idv[1321] ==> apunte1319x.png ---
+--- needs --- apunte.idv[1322] ==> apunte1320x.png ---
+--- needs --- apunte.idv[1323] ==> apunte1321x.png ---
+--- needs --- apunte.idv[1324] ==> apunte1322x.png ---
+--- needs --- apunte.idv[1325] ==> apunte1323x.png ---
+--- needs --- apunte.idv[1326] ==> apunte1324x.png ---
+--- needs --- apunte.idv[1327] ==> apunte1325x.png ---
+--- needs --- apunte.idv[1328] ==> apunte1326x.png ---
+--- needs --- apunte.idv[1329] ==> apunte1327x.png ---
+--- needs --- apunte.idv[1330] ==> apunte1328x.png ---
+--- needs --- apunte.idv[1331] ==> apunte1329x.png ---
+--- needs --- apunte.idv[1332] ==> apunte1330x.png ---
+--- needs --- apunte.idv[1333] ==> apunte1331x.png ---
+--- needs --- apunte.idv[1334] ==> apunte1332x.png ---
+--- needs --- apunte.idv[1335] ==> apunte1333x.png ---
+--- needs --- apunte.idv[1336] ==> apunte1334x.png ---
+--- needs --- apunte.idv[1337] ==> apunte1335x.png ---
+--- needs --- apunte.idv[1338] ==> apunte1336x.png ---
+--- needs --- apunte.idv[1339] ==> apunte1337x.png ---
+--- needs --- apunte.idv[1340] ==> apunte1338x.png ---
+--- needs --- apunte.idv[1341] ==> apunte1339x.png ---
+--- needs --- apunte.idv[1342] ==> apunte1340x.png ---
+--- needs --- apunte.idv[1343] ==> apunte1341x.png ---
+--- needs --- apunte.idv[1344] ==> apunte1342x.png ---
+--- needs --- apunte.idv[1345] ==> apunte1343x.png ---
+--- needs --- apunte.idv[1346] ==> apunte1344x.png ---
+--- needs --- apunte.idv[1347] ==> apunte1345x.png ---
+--- needs --- apunte.idv[1348] ==> apunte1346x.png ---
+--- needs --- apunte.idv[1349] ==> apunte1347x.png ---
+--- needs --- apunte.idv[1350] ==> apunte1348x.png ---
+--- needs --- apunte.idv[1351] ==> apunte1349x.png ---
+--- needs --- apunte.idv[1352] ==> apunte1350x.png ---
+--- needs --- apunte.idv[1353] ==> apunte1351x.png ---
+--- needs --- apunte.idv[1354] ==> apunte1352x.png ---
+--- needs --- apunte.idv[1355] ==> apunte1353x.png ---
+--- needs --- apunte.idv[1356] ==> apunte1354x.png ---
+--- needs --- apunte.idv[1357] ==> apunte1355x.png ---
+--- needs --- apunte.idv[1358] ==> apunte1356x.png ---
+--- needs --- apunte.idv[1359] ==> apunte1357x.png ---
+--- needs --- apunte.idv[1360] ==> apunte1358x.png ---
+--- needs --- apunte.idv[1361] ==> apunte1359x.png ---
+--- needs --- apunte.idv[1362] ==> apunte1360x.png ---
+--- needs --- apunte.idv[1363] ==> apunte1361x.png ---
+--- needs --- apunte.idv[1364] ==> apunte1362x.png ---
+--- needs --- apunte.idv[1365] ==> apunte1363x.png ---
+--- needs --- apunte.idv[1366] ==> apunte1364x.png ---
+--- needs --- apunte.idv[1367] ==> apunte1365x.png ---
+--- needs --- apunte.idv[1368] ==> apunte1366x.png ---
+--- needs --- apunte.idv[1369] ==> apunte1367x.png ---
+--- needs --- apunte.idv[1370] ==> apunte1368x.png ---
+--- needs --- apunte.idv[1371] ==> apunte1369x.png ---
+--- needs --- apunte.idv[1372] ==> apunte1370x.png ---
+--- needs --- apunte.idv[1373] ==> apunte1371x.png ---
+--- needs --- apunte.idv[1374] ==> apunte1372x.png ---
+--- needs --- apunte.idv[1375] ==> apunte1373x.png ---
+--- needs --- apunte.idv[1376] ==> apunte1374x.png ---
+--- needs --- apunte.idv[1377] ==> apunte1375x.png ---
+--- needs --- apunte.idv[1378] ==> apunte1376x.png ---
+--- needs --- apunte.idv[1379] ==> apunte1377x.png ---
+--- needs --- apunte.idv[1380] ==> apunte1378x.png ---
+--- needs --- apunte.idv[1381] ==> apunte1379x.png ---
+--- needs --- apunte.idv[1382] ==> apunte1380x.png ---
+--- needs --- apunte.idv[1383] ==> apunte1381x.png ---
+--- needs --- apunte.idv[1384] ==> apunte1382x.png ---
+--- needs --- apunte.idv[1385] ==> apunte1383x.png ---
+--- needs --- apunte.idv[1386] ==> apunte1384x.png ---
+--- needs --- apunte.idv[1387] ==> apunte1385x.png ---
+--- needs --- apunte.idv[1388] ==> apunte1386x.png ---
+--- needs --- apunte.idv[1389] ==> apunte1387x.png ---
+--- needs --- apunte.idv[1390] ==> apunte1388x.png ---
+--- needs --- apunte.idv[1391] ==> apunte1389x.png ---
+--- needs --- apunte.idv[1392] ==> apunte1390x.png ---
+--- needs --- apunte.idv[1393] ==> apunte1391x.png ---
+--- needs --- apunte.idv[1394] ==> apunte1392x.png ---
+--- needs --- apunte.idv[1395] ==> apunte1393x.png ---
+--- needs --- apunte.idv[1396] ==> apunte1394x.png ---
+--- needs --- apunte.idv[1397] ==> apunte1395x.png ---
+--- needs --- apunte.idv[1398] ==> apunte1396x.png ---
+--- needs --- apunte.idv[1399] ==> apunte1397x.png ---
+--- needs --- apunte.idv[1400] ==> apunte1398x.png ---
+--- needs --- apunte.idv[1401] ==> apunte1399x.png ---
+--- needs --- apunte.idv[1402] ==> apunte1400x.png ---
+--- needs --- apunte.idv[1403] ==> apunte1401x.png ---
+--- needs --- apunte.idv[1404] ==> apunte1402x.png ---
+--- needs --- apunte.idv[1405] ==> apunte1403x.png ---
+--- needs --- apunte.idv[1406] ==> apunte1404x.png ---
+--- needs --- apunte.idv[1407] ==> apunte1405x.png ---
+--- needs --- apunte.idv[1408] ==> apunte1406x.png ---
+--- needs --- apunte.idv[1409] ==> apunte1407x.png ---
+--- needs --- apunte.idv[1410] ==> apunte1408x.png ---
+--- needs --- apunte.idv[1411] ==> apunte1409x.png ---
+--- needs --- apunte.idv[1412] ==> apunte1410x.png ---
+--- needs --- apunte.idv[1413] ==> apunte1411x.png ---
+--- needs --- apunte.idv[1414] ==> apunte1412x.png ---
+--- needs --- apunte.idv[1415] ==> apunte1413x.png ---
+--- needs --- apunte.idv[1416] ==> apunte1414x.png ---
+--- needs --- apunte.idv[1417] ==> apunte1415x.png ---
+--- needs --- apunte.idv[1418] ==> apunte1416x.png ---
+--- needs --- apunte.idv[1419] ==> apunte1417x.png ---
+--- characters ---
+Font("cmex","10","10","100")
+Font("cmr","5","5","100")
+Font("cmr","7","7","100")
+Font("cmr","10","10","100")
+Font("cmmi","5","5","100")
+Font("cmmi","7","7","100")
+Font("cmmi","10","10","100")
+Font("cmsy","5","5","100")
+Font("cmsy","7","7","100")
+Font("cmsy","10","10","100")
+Font("cmr","17","17","100")
+Font("cmr","12","12","100")
+Font("cmr","12","12","120")
+Font("cmtt","10","10","100")
+Font("cmex","7","7","100")
+Font("msam","10","10","100")
+Font("msbm","10","10","100")
+Font("msbm","7","7","100")
+Font("cmbx","10","10","100")
+Font("cmbx","7","7","100")
+Font("cmbx","5","5","100")
+Font("cmti","10","10","100")
+Font("cmitt","10","10","100")
+Font("cmss","10","10","100")
+Font("cmss","8","8","87")
+Font("cmbxti","10","10","100")

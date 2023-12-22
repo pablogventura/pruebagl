@@ -1,0 +1,11 @@
+cunihtf:
+make4ht apunte.tex "customcfg,charset=utf-8" "-cunihtf -utf8"
+
+mathjax:
+make4ht apunte.tex "mathjax"
+
+desde Lyx:
+lyx --export html apunte.lyx
+
+mathjax-utf8
+make4ht --utf8 apunte.tex "mathjax,charset=utf-8"
